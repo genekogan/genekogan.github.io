@@ -1,0 +1,9 @@
+name: Gene Kogan
+markdown: kramdown
+collections:
+  works:
+    output: true
+    permalink: /works/:path/    
+  pages:
+    output: true
+    permalink: /:path/

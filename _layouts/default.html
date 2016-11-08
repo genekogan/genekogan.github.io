@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="icon" href="/images/favicon.png">
+			<meta charset="utf-8">
+		</head>
+
+		<body>
+			<div class="navbar">
+				<nav>
+		    		<ul>
+						<li style="display:none;"><a href="#end-nav" class="skip-navigation">Skip Navigation</a></li>
+		        		<li><a href="/">work</a></li>
+			        	<li><a href="/about">about</a></li>
+			        	<li><a href="/cv">cv</a></li>
+			        	<li><a href="https://github.com/genekogan">code</a></li>
+			        	<li><a href="https://www.twitter.com/genekogan">@</a></li>
+		    		</ul>
+				</nav>
+			</div>
+
+			<span id="end-nav"></span>
+			<div class="container">
+				{{ content }}
+			</div>
+			
+		</body>
+	</html>

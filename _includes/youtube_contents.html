@@ -1,0 +1,50 @@
+{% assign class = include.class %}
+{% assign idx = include.index | plus: 0 %}
+{% assign data = site.data.lectures[class][idx] %}
+{% assign youtube_id = data.youtube_id %}
+
+<script>
+  var player;
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/iframe_api";
+  var div = document.getElementsByTagName('script')[0];
+  div.parentNode.insertBefore(tag, div);
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('yt_player', {
+      height: '400',
+      width: '640',
+      videoId: '{{ youtube_id }}',
+      events: {}
+    });
+  }
+</script>
+
+<div id="yt_container" class="yt_container">
+	<div id="yt_playerContainer" class="yt_embed">
+		<div id="yt_player"></div>
+		<br/>[<a href="{{data.dropbox}}">download</a>]
+	</div>
+	<div id="yt_bookmarks" class="yt_bookmarks">
+		<ul>
+		{% for b in data.bookmarks %}
+			<li><h4><a href="#" onclick="javascript:player.seekTo({{ b.m | times:60 | plus:b.s }});">{{ b.title }} ({{ b.disp }})</a></h4></li>
+		{% endfor %}
+		</ul>
+	</div>
+</div>
+
+<style>
+	.yt_container {
+		border: thick solid #eee;
+	}
+	.yt_embed {
+		display: inline-block;
+		width:65%;
+	}
+	.yt_bookmarks {
+		padding-left:22px;
+		display: inline-block;
+		width:31%;
+		vertical-align:top;
+	}
+</style>
