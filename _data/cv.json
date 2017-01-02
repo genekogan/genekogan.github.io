@@ -275,7 +275,6 @@
 			"where":"<a href=\"https://eyebeam.org/\">Eyebeam</a>, New York, NY",
 			"name":"OperaToolit improvisation (w/ Lisa Kori & Sarah McSherry)",
 			"info":"http://archive.eyebeam.org/events/opera-toolkit-workshop",
-			/*info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",*/
 			"photo":"https://www.flickr.com/photos/eyebeam/sets/72157663755508204"
 		},{
 			"dates":"2015 Sep-Dec", 
@@ -434,4 +433,6 @@
 	"name":"",
 	"info":""
 }
+
+info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
 */
