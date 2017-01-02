@@ -1,10 +1,450 @@
-[
-	{
-		"title":"something",
-		"date":"4/6/7"
-	},
-	{
-		"title":"another thing",
-		"date":"the 19th"
-	}
-]
+{
+	"talks":[
+		{
+			"date":"2016 Dec 3", 
+			"where":"COEX, Seoul, South Korea",
+			"name":"Talk at Global AI hackathon",
+			"info":"http://www.opendotlab.it/it/content/gene-kogan-opentalk"
+		},{
+			"date":"2016 Nov 28",
+			"where":"Merz Akademie, Stuttgart, Germany",
+			"name":"A tiny history of AI and knowledge asymmetry",
+			"info":"http://www.merz-akademie.de/lectures/a-tiny-history-of-ai-and-knowledge-asymmetry",
+			"video":"https://vimeo.com/195689761"
+		},{
+			"date":"2016 Nov 23", 
+			"where":"OpenDot Lab, Milan, Italy",
+			"name":"A beautiful and interesting game",
+			"info":"http://www.opendotlab.it/it/content/gene-kogan-opentalk",
+			"video":"https://www.youtube.com/watch?v=sKgiA0TTwG8"
+		},{
+			"date":"2016 Nov 7", 
+			"where":"Betahaus, Berlin, Germany",
+			"name":"Talk at Berlin machine learning group",
+			"info":"https://www.meetup.com/berlin-machine-learning/events/229181527/"
+		},{
+			"date":"2016 Nov 4",
+			"where":"Kikk Festival, Namur, Belgium",
+			"name":"Adversarial Nets",
+			"info":"http://www.kikk.be/2016/en/program/conferences/gene-kogan"
+		},{
+			"date":"2016 Oct 7", 
+			"where":"Retune Festival, Berlin, Germany",
+			"name":"Machine learning for artists",
+			"info":"https://retune.de/festival/2016/artists/#Gene-Kogan"
+		},{
+			"date":"2016 Sep 25",  
+			"where":"With the best online conference",
+			"name":"AI With the best",
+			"info":"http://www.ai.withthebest.com/",
+			"video":"https://www.youtube.com/watch?v=mr6ISQ33V9c"
+		},{
+			"date":"2016 Aug 23",
+			"where":"Lacuna Lab, Berlin, Germany",
+			"name":"Interview with Kadenze.com",
+			"video":"https://vimeo.com/183574755"
+		},{
+			"date":"2016 Aug 1",
+			"where":"c-Base, Berlin, Germany",
+			"name":"Netzpolitischer Abend: Machine learning for activists",
+			"info":"https://netzpolitik.org/2016/51-netzpolitischer-abend-am-02-august-in-berlin/",
+			"video":"https://www.youtube.com/watch?v=s-a9kbsVKkI"
+		},{
+			"date":"2016 Jul 15", 
+			"where":"Spiced Academy, Berlin, Germany",
+			"name":"Spiced Tech Talks Open House",
+			"info":"https://www.facebook.com/events/1551624311813191/"
+		},{
+			"date":"2016 Jul 12", 
+			"where":"IXDS, Berlin, Germany",
+			"name":"Pre-work talks",
+			"info":"https://www.ixds.com/events/pre-work-talk-berlin",
+			"video":"https://www.youtube.com/watch?v=tXWd6MnzN-4"
+		},{
+			"date":"2016 Jun 16", 
+			"where":"Recurse Center, New York, NY",
+			"name":"Talk at Recurse Center"
+		},{
+			"date":"2016 Jun 9",
+			"where":"Eyeo Festival, Minneapolis, MN",
+			"name":"The Neural Aesthetic",
+			"info":"http://eyeofestival.com/2016/speaker/gene-kogan/",
+			"video":"https://vimeo.com/180044029"
+		},{
+			"date":"2016 May 21", 
+			"where":"School for Poetic Computation, New York, NY",
+			"name":"Talk at alt-AI",
+			"info":"http://alt-ai.net/#people"
+		},{
+			"date":"2016 Apr 7", 
+			"where":"BabyCastles, New York, NY",
+			"name":"MVR 3",
+			"info":"http://pioneerworks.org/programs/mvr-3-collaboration-w-eyebeam-2/"
+		},{
+			"date":"2016 Mar 25", 
+			"where":"OCR, New York, NY",
+			"name":"Maching learning for artists",
+			"info":"https://www.eventbrite.com/e/ocr-friday-with-gene-kogan-tickets-22694338377#"
+		},{
+			"date":"2016 Mar 21", 
+			"where":"NYU LaGuardia Co-op, New York, NY",
+			"name":"Machine learning for artists",
+			"info":"https://www.meetup.com/Product-Design-Workshop/events/229497566/"
+		},{
+			"date":"2016 Feb 13",
+			"where":"DataKind, Bangalore, India",
+			"name":"Creative hacks of machine learning",
+			"info":"https://www.meetup.com/DataKind-Bangalore/events/228577897/",
+		},{
+			"date":"2016 Jan 22", 
+			"where":"Center for Internet & Society, Bangalore, India",
+			"name":"A.I. Hype Cycles and Artistic Subversions",
+			"info":"http://cis-india.org/raw/ai-hype-cycles-and-artistic-subversions"
+		},{
+			"date":"2016 Jan 14",
+			"where":"Kitchen Table Coders, New York, NY",
+			"name":"Subversive machines",
+			"info":"https://www.eventbrite.com/e/subversive-machines-machine-intelligence-in-nontraditional-contexts-tickets-20588427541#",
+		},{
+			"date":"2015 Dec 5",
+			"where":"Pioneer Works, New York, NY",
+			"name":"Software for Artists Day",
+			"info":"https://pioneerworks.org/s4ad/",
+		},{
+			"date":"2015 Mar 30", 
+			"where":"NYU-Poly MAGNET, Brooklyn, NY",
+			"name":"Code as expression, communication, and collaboration"
+		},{
+			"date":"2015 Feb 2",
+			"where":"Center for Internet & Society, Bangalore, India",
+			"name":"Code As Communication",
+			"info":"http://cis-india.org/openness/events/code-as-communication"
+		},{
+			"date":"2013 Dec 13",
+			"where":"Le Thanh Theatre, Ho Chi Minh City, Vietnam",
+			"name":"Open Stage talk",
+			"info":"https://www.facebook.com/events/364987336978158/"
+		},{
+			"date":"2013 Aug 13",
+			"where":"KL10TCH, St. Petersburg, Russia",
+			"name":"Проекции в искусстве [in Russian]",
+			"info":"https://lektorium.tv/lecture/14941",
+			"video":"https://www.youtube.com/watch?v=DpXmkYzneQc"
+		},{
+			"date":"2013 Feb 24", 
+			"where":"Carnival of E-Creativity, Bhimtal, India",
+			"name":"Artist talk at CEC-13",
+			"info":"http://www.theaea.org/cec_cac/cec13/"
+		},{
+			"date":"2012 Nov 30", 
+			"where":"Center for Internet & Society, Bangalore, India",
+			"name":"Art in the open source age",
+			"info":"http://cis-india.org/openness/events/art-in-the-open-source-age",
+			"video":"http://blip.tv/centre-for-internet-and-society/art-in-the-open-source-age-a-talk-by-gene-kogan-6474662"
+		},{
+			"date":"2012 Nov 29", 
+			"where":"FOSS.IN conference, Bangalore, India",
+			"name":"How open source software has upended art",
+			"info":"https://hasgeek.tv/fossdotin/2012-1", 
+			"video":"https://www.youtube.com/watch?v=kXTLwE6Hzck"
+		},{	
+			"date":"2012 Oct 20",
+			"where":"Microsoft Research Center, Bangalore, India",
+			"name":"Generative systems for design",
+			"info":"http://www.filterdnoise.com/2012/10/designday-experience-at-microsoft.html"
+		},{
+			"date":"2011 Dec 7", 
+			"where":"Location One, New York, NY",
+			"name":"Dorkbot",
+			"info":"http://dorkbot.org/dorkbotnyc/07.dec.2011/images/"
+		},{
+			"date":"2010 Nov 10", 
+			"where":"SIAM, Columbia University, New York, NY",
+			"name":"Music information retreival at Sourcetone"
+		},{
+			"date":"2009 Nov 16", 
+			"where":"SIAM, Columbia University, New York, NY",
+			"name":"Seminar Talk (with Gold Truong)"
+		}
+	],
+	"teaching":[
+		{
+			"dates":"2016 Dec 16", 
+			"where":"Institute of the Arts, Yogyakarta, Indonesia",
+			"name":"Generative composition (with Marcel Schwittlick & Lifepatch)",
+			"info":"http://lifepatch.org/Lokakarya_Teknologi_Musik"
+		},{
+			"dates":"2016 Dec 6", 
+			"where":"Art Center Nabi, Seoul, South Korea",
+			"name":"Machine learning for artists",
+			"info":"http://www.nabi.or.kr/project/current_read.nab?idx=539"
+		},{
+			"dates":"2016 Nov 21-25", 
+			"where":"OpenDot Lab, Milan, Italy",
+			"name":"Machine learning for artists",
+			"info":"http://www.opendotlab.it/it/content/workshop-machine-learning-artists",
+			"video":"http://ml4a.github.io/classes/opendot/"
+		},{
+			"dates":"2016 Nov 5", 
+			"where":"Kikk Festival, Berlin, Germany",
+			"name":"Machine learning for artists",
+			"info":"http://www.kikk.be/2016/en/program/workshops/machine-learning-for-artists"
+		},{
+			"dates":"2016 Oct 19-20", 
+			"where":"The Influencers, Barcelona, Spain",
+			"name":"Machine learning for activists",
+			"info":"http://theinfluencers.org/ca/machine-learning-for-activists"
+		},{
+			"dates":"2016 Oct 6", 
+			"where":"Retune Festival, Berlin, Germany",
+			"name":"Machine learning for artists",
+			"info":"https://retune.de/festival/2016/workshops/#Gene-Kogan"
+		},{
+			"dates":"2016 Oct 1", 
+			"where":"Spektrum, Berlin, Germany",
+			"name":"Machine learning for artists",
+			"info":"http://spektrumberlin.de/workshops/detail/workshop-machine-learning-for-artists-with-gene-kogan.html"
+		},{
+			"dates":"2016 Jul 4-29", 
+			"where":"School of Machines, Berlin, Germany",
+			"name":"The Neural Aesthetic",
+			"info":"http://schoolofma.org/neural-aesthetic/",
+			"video":"http://ml4a.github.io/classes/neural-aesthetic/"
+		},{
+			"dates":"2016 Jun 4", 
+			"where":"ITP, New York University, New York, NY",
+			"name":"The Neural Aesthetic @ ITP-Camp",
+			"info":"https://itp.nyu.edu/camp2016/session/88",
+			"video":"http://ml4a.github.io/classes/itp-S16/07/"
+		},{
+			"dates":"2016 May 22", 
+			"where":"School for Poetic Computation, New York, NY",
+			"name":"Visualizing high-dimensional data, alt-AI",
+			"info":"http://alt-ai.net/#workshops"
+		},{
+			"dates":"2016 Mar-May", 
+			"where":"ITP, New York University, New York, NY",
+			"name":"Machine learning for artists",
+			"info":"https://tisch.nyu.edu/itp/news/summer-2016/gene-kogan--machine-learning-for-artists",
+			"video":"http://ml4a.github.io/classes/itp-S16/"
+		},{
+			"dates":"2016 Feb 17-19", 
+			"where":"Guindy College, Chennai, India",
+			"name":"Creative coding at Kurukshetra festival",
+			"info":"http://blog.cegtechforum.com/2016/02/creative-side-coding/"
+		},{
+			"dates":"2015 Sep-Dec", 
+			"where":"Bennington College, Bennington, VT",
+			"name":"Generative Art with p5.js (DA2108)",
+			"info":"http://curriculum.bennington.edu/fall2015/2015/05/14/generative-art-with-processing/",
+			"code":"https://github.com/genekogan/Bennington_GenerativeArt"
+		},{
+			"dates":"2015 Apr 11-12", 
+			"where":"Parsons MFA-DT, New School, New York, NY",
+			"name":"Workshop on computer vision & KinectProjectorToolkit"
+		},{
+			"dates":"2015 Feb 1", 
+			"where":"Jaaga, Bangalore, India",
+			"name":"Interactive environments (with Alec Schachner)",
+			"info":"https://www.facebook.com/events/666300566825567"
+		},{
+			"dates":"2014 Jan 24", 
+			"where":"Zero Station, Ho Chi Minh City, Vietnam",
+			"name":"KinectProjectorToolkit workshop"
+		},{
+			"dates":"2013 Nov 2-3", 
+			"where":"Lispher Inn, Davao, Philippines",
+			"name":"UnifiedField workshop on free software & art",
+			"info":"http://www.theunifiedfield.org/archives/3471"
+		},{
+			"dates":"2013 July 13", 
+			"where":"1335 Mabini, Manila, Philippines",
+			"name":"Projection mapping on moving bodies",
+			"info":"http://www.1335mabini.com/gene-koganworkshops-talksprogam/",
+		},{
+			"dates":"2013 Jul 5-12", 
+			"where":"Terminal Garden, Manila, Philippines",
+			"name":"Generative art with Processing, Fete Dela WSK",
+			"info":"http://fuckyeahfetedelawsk.tumblr.com/post/54098104690/terminalgarden-generative-art-workshop-when",
+			"video":"https://www.youtube.com/watch?v=iiempqvMFkM"
+		},{
+			"dates":"2012 Sep 22", 
+			"where":"Jaaga, Bangalore, India",
+			"name":"Art + Technology workshop",
+			"info":"http://www.genekogan.com/works/jaaga-workshop.html"
+		},{
+			"dates":"2012 Jun-Jul", 
+			"where":"Harvestworks, New York, NY",
+			"name":"Generative art summer course",
+			"info":"http://www.harvestworks.org/generative-art-summer-course/"
+		},{
+			"dates":"2010 Oct 28", 
+			"where":"Harvestworks, New York, NY",
+			"name":"Field recording workshop (with Filipe Chagas)"
+		}
+	],
+	"residencies":[
+		{
+			"dates":"2017 Jan",
+			"where":"Recurse Center, New York, NY",
+			"name":"Researcher-in-residence",
+			"info":"https://www.recurse.com/residents#Gene-Kogan"
+		},{
+			"dates":"2016 Mar",
+			"where":"DBRS Innovation Labs, New York, NY",
+			"name":"Researcher-in-residence",
+			"info":"https://medium.com/dbrs-innovation-labs/machine-learning-for-artists-7a3689a34e9e#.jvwunjd1g"
+		},{
+			"dates":"2015 Sep-Oct",
+			"where":"School for Poetic Computation, New York, NY",
+			"name":"Artist-in-residence",
+			"info":"http://sfpc.io/people/gene-kogan/"
+		},{
+			"dates":"2015 Mar-Aug",
+			"where":"Eyebeam, New York, NY",
+			"name":"Opera Toolkit (with Lisa Kori & Colin Self)",
+			"info":"http://archive.eyebeam.org/people/gene-kogan"
+		},{
+			"dates":"2015 Mar",
+			"where":"White Building, Phnom Penh, Cambodia",
+			"name":"Sa Sa Art Projects artist-in-residency",
+			"info":"http://whitebuilding.org/en/film/paths-experimental-performances-rehearsal-2015",
+			"video":"https://www.youtube.com/watch?v=Qxs5WB3017g"
+		},{
+			"dates":"2013 Nov",
+			"where":"Davao City, Philippines",
+			"name":"Unifiedfield artist-in-residency",
+			"info":"http://www.theunifiedfield.org/archives/3471"
+		},{
+			"dates":"2012 Sep-Dec",
+			"where":"Bangalore, India",
+			"name":"Artist-in-resident at Jaaga",
+			"info":"http://www.jaaga.in"
+		}
+	],
+	"writing_curating":[
+		{
+			"date":"2017 Apr 10", 
+			"where":"Resonate Festival, Belgrade, Serbia",
+			"name":"TBD"
+		},{
+			"date":"2016 Dec 3", 
+			"where":"COEX, Seoul, South Korea",
+			"name":"Talk at Global AI hackathon",
+			"info":"http://www.opendotlab.it/it/content/gene-kogan-opentalk"
+		},{
+			"date":"2016 Nov 28",
+			"where":"Merz Akademie, Stuttgart, Germany",
+			"name":"A tiny history of AI and knowledge asymmetry",
+			"info":"http://www.merz-akademie.de/lectures/a-tiny-history-of-ai-and-knowledge-asymmetry",
+			"video":"https://vimeo.com/195689761"
+		}
+	],
+	"publications":[
+		{
+			"date":"2015",
+			"authors":"Jeff Snyder, Eugene Kogan, Ryan Johns, Charlie Avis, Axel Kilian",
+			"title":"An Industrial Robotic Arm as an Instrument: Details of an Experimental Performance",
+			"publication":"New Interfaces for Musical Expression (NIME)",
+			"pdf":"http://www.nime.org/proceedings/2015/nime2015_275.pdf"
+		},{
+			"date":"2011",
+			"authors":"Cynthia Rudin, Benjamin Letham, Ansaf Salleb-Aouissi, Eugene Kogan and David Madigan",
+			"title":"Sequential Event Prediction with Association Rules",
+			"publication":"Proceedings of the 24th Annual Conference on Learning Theory (COLT)",
+			"pdf":"http://www.jmlr.org/proceedings/papers/v19/rudin11a/rudin11a.pdf"
+		}
+	]
+}
+
+
+/*
+// “Recommender systems and FreshDirect.”  Invited talk at Applied Math seminar series at Columbia University. 2009
+"Using Association Rules to Make Recommendations" Thesis presentation to CCLS & APAM faculty. 2008
+"Collaborative Filtering & Recommender Systems" Seminar talk to Applied Math students.  2007
+
+
+
+//
+//Singapore, KL
+//http://lifepatch.org/Lokakarya_Teknologi_Musik
+
+
+//“Code as expression, communication, and collaboration.” NYU-Poly MAGNET, Brooklyn, NY. 2015
+//Computer vision & KinectProjectorToolkit. Quad-C lectures @ Parsons MFA-DT, Brooklyn, NY. 2015
+
+// story of light http://thestoryoflight.org/starstomp/
+// ecohacker http://genekogan.com/works/ecohacker-build.html
+// Open Stage, Le Thanh Theatre, Ho Chi Minh City, Vietnam. 2013
+// Mediating Modernities Conference with Malmo University, Bangalore, India.  2013 [link]
+
+
+
+// Dorkbot presentation, Location One, New York, NY.  2011  http://dorkbot.org/dorkbotnyc/07.dec.2011/images/
+// “Blue Swimmer.” New York Electronic Arts Festival.  2011  http://nyeaf.org/2011/wp/louisa-armbrust-blue-swimmer/
+// “Beat Parade.”  Music Hack Day, New York, NY.  2011  http://evolver.fm/2011/02/18/beat-parade-spins-short-attention-span-dj-sets-from-a-single-song/
+// “Sourcetone: Learning the Mood of Music.”  Invited talk at meeting of Society of Industrial and Applied Mathematics (SIAM). 2010  http://www.scribd.com/doc/42486386/Sourcetone-Presentation-bit-ly-math-startup-11-10-10
+// “Symbiosis: Between Technology, Humans, and Art.” New York, NY. 2010  http://www.harvestworks.org/symbiosis-between-technology-humans-and-art/
+// “Making a Smart Store at FreshDirect.”  Invited talk at meeting of Society of Industrial and Applied Mathematics (SIAM). 2009  http://www.columbiaspectator.com/2009/11/19/crunching-numbers-math-beyond-finance
+
+
+//doodle tunes http://www.nabi.or.kr/project/current_read.nab?idx=544
+http://www.nabi.or.kr/project/current_read.nab?list_num=11&idx=539&
+
+
+// IXDS workshop
+
+
+
+
+
+
+{
+	"dates":"", 
+	"where":"",
+	"name":"",
+	"info":""
+}
+
+
+Shanghai of Course in china
+Shanghai of Course in new york
+Moscow Neuron
+FOSS - Bangalore, IN
+CIS talks (ask if there are there videos?)
+integrate edosa
+
+
+⁃ Generative art workshop at HackerspaceSG, Singapore. 2013 [link]
+
+
+http://www.harvestworks.org/?s=kogan
+
+http://www.harvestworks.org/symbiosis-between-technology-humans-and-art/
+
+
+- Bedroom Lab with Debbie Ding https://www.facebook.com/events/212113455603009/ jun 23 2013
+
+
+Misc::: Singapore, KL</li>
+
+⁃ Introduction to Generative Art and Processing (online) [Tenlegs]
+⁃ Visual Instruments (online) [Tenlegs]
+⁃ Computer Vision (online) [Tenlegs]
+
+⁃ Introduction to Generative art. Harvestworks, New York, NY. 2010-2012 [link]
+- online courses https://www.google.de/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Awww.harvestworks.org%2F%20kogan
+
+
+ Opera Toolkit improvisation workshop 23 nov 2015 http://archive.eyebeam.org/events/opera-toolkit-workshop
+ - nov 24 http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop https://www.flickr.com/photos/eyebeam/sets/72157663755508204
+ - aug 20 2015 and http://archive.eyebeam.org/events/opera-toolkit 
+
+http://www.nabi.or.kr/english/project/current_read.nab?idx=541
+http://www.nabi.or.kr/project/current_read.nab?list_num=11&idx=539&
+	
+Dorkbot 2011 jan
+
+Day 1- Presentation -Urban Incantations Sonic Interventions-SD
+
+ */

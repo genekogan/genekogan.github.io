@@ -1,0 +1,39 @@
+---
+layout: default
+title: "Blog"
+---
+
+<div id="work">
+	<div id="blog_date" class="post">
+		{{ page.date | date_to_long_string }}
+	</div>
+	<div id="blog_title" class="post">
+		{{ page.title }}
+	</div>
+	<div id="blog_subtitle" class="post">
+		{{ page.subtitle }}
+	</div>
+	<div id="blog_post" class="post">
+		{{ content }}
+	</div>
+	
+	{% if page.comments %}
+		<hr/>
+		<div id="disqus_thread"></div>
+		<script>
+		var disqus_config = function () {
+			this.page.url = 'https://genekogan.github.io';
+			this.page.identifier = '{{page.title}}';
+		};
+		(function() { // DON'T EDIT BELOW THIS LINE
+			var d = document, s = d.createElement('script');
+			s.src = '//genekogan-github-io.disqus.com/embed.js';
+			s.setAttribute('data-timestamp', +new Date());
+			(d.head || d.body).appendChild(s);
+			})();
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	{% endif %}					
+</div>
+
+<script id="dsq-count-scr" src="//genekogan-github-io.disqus.com/count.js" async></script>

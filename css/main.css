@@ -1,96 +1,198 @@
 body {
-    font-family: 'Source Sans Pro', sans-serif; font-weight: 200; color: #000;
-    font-size:13px;
+    font-family:'Geneva',sans-serif; 
+    color:#000;
+    font-size:12px;
+    /*font-weight:200; */
     margin:0px;
-}
-.navbar {
-    width: 66%;
-    margin-left:auto;
-    margin-right:auto;
-}
-.container {
-    width: 66%;
-    margin-left:auto;
-    margin-right:auto;
-}
-.header {
-    /*background-color:#eee;*/
-    padding:0px;
-    margin:0px;
-}
-nav ul, footer ul {
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
 }
 a {
-/*    background-color:#333;*/
     padding-left:1px;
     padding-right:1px;
-    text-decoration: none;
-	border-bottom: 0.5px dashed #888;
+    text-decoration:none;
+    border-bottom:0.5px dashed #444;
     color:#000;
-	font-weight:400;
-/*    font-weight: bold;               */
+    background-color:#eee; /*breaking lightbox*/
 }
 a:hover {
-    background-color:#1abc9c;
-    color:#fff;
+    background-color:#ddd;
+    color:#000;
 }
-.center {
-    text-align: center;
+
+/* navbar */
+.navbar {
+    margin-left:auto;
+    margin-right:auto;
+    min-width:680px;
+    font-size:1.0em;
+    padding-left:32px;
+    border-bottom:0.5px solid #eee;
 }
-.section {
-    font-size:30px;
-    background-color:#eee;
+.navbar a {
+    background-color:#fff;
+}
+.navbar a:hover {
+    background-color:#ddd;
+}
+nav ul li {
+    margin-right: 25px;
+    font-size: 1.4em;
+}
+nav ul li.active {
+    font-weight:bold;
+    font-size: 1.6em;
+}
+
+/* main page */
+.container {
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:100px;
+    min-width:680px;
+}
+.project {
+    width:324px;
+    height:240px;
+    margin:2px;
+    padding:0px;
+    position:relative;
+    display:inline-block;
+    text-align:left;
+}
+.project a, .project a:hover {
+    border-bottom:0;
+}
+#works {
+    text-align:center;
+    margin-top:15px;
+}
+
+/* main page overlays */
+.overlay {
+    display:none;
+}
+.overlay_title {
+    font-size:1.5em;
+}
+.overlay_description {
+    font-size:1.25em;
+    /*margin-top:8px;*/
+    position: absolute; 
+    bottom: 16px;
+}
+.project:hover .overlay {
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.6);
+    /*border:2px solid #1abc9c;*/
+    position:absolute;
+    top:0;
+    left:0;
+    display:inline-block;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    color:white;
     padding:10px;
 }
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-h2 {
-    font-size: 2.2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-h3 {
-    font-size: 1.6em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-h5 {
-    font-size:26px;
-    font-family: 'Source Sans Pro', sans-serif; font-weight: 200; color: #000;
+
+/* works pages */
+#work, #about {
+    width:75%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:20px;
+    margin-bottom:100px;
+    min-width:720px;
+    max-width:1080px;
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.35em;
+    font-size:1.5em;
+    line-height:1.4em;
     color: #333;
 }
-li {
-    font-size: 1.0em;
-    line-height:1.35em;
+.project_title {
+    font-size:2.4em;
+    font-weight:bold;
+}
+.project_year {
+    font-size:2.0em;
+    color:#555;
+    margin-left:12px;
 }
 
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
-
-.figure {
-    display: block;
-    margin: 0 auto;
-}
-
-ul.posts {
-    margin: 20px auto 40px;
-    /*font-size: 1.5em;*/
-}
-
-ul.posts li {
+/* cv,about */
+ul {
+    padding: 0px;
     list-style: none;
+    text-align:left;
 }
+ul li {
+    display: inline;
+    margin-right: 20px;
+    font-size: 1.4em;
+}
+#cv_bio, #workshops_about {
+    font-size:1.3em;
+}
+.cv_section, .workshops_section {
+    margin-top:25px;
+}
+.cv_heading, .workshops_heading {
+    font-size:1.4em;
+    margin-bottom:5px;
+}
+.talk, .teaching_, .residency, .publication, .education {
+    background-color: #eee;
+    margin:3px;
+    padding:3px;
+    min-width:750px;
+    max-width:1025px;
+    /*border-top:1px solid #ddd;*/
+}
+.date, .where, .name, .links, .info_link, .video_link {
+    display:inline-block;
+    vertical-align: middle
+}
+.date {
+    width:12%;
+    min-width:100px;
+}
+.where {
+    width:32%;
+    min-width:220px;
+}
+.name {
+    width:40%;
+    min-width:220px;
+}
+.links {
+    min-width:90px;
+}
+
+/* blog */
+#blog_title {
+    color: #111;
+    font-size: 2.4em;
+    font-weight: 900;
+    padding-bottom:10px;
+}
+#blog_subtitle { 
+    color: #444;
+    font-size: 1.6em;
+    font-weight: 400;
+    padding-bottom:30px;
+}
+#blog_date {   
+    color: #000;
+    font-size: 1.2em;
+    padding-bottom:10px;
+    padding-top:10px;
+}
+#blog_post {   
+    color:#000;
+    font-size:1.0em;  
+    padding-bottom:60px;
+}
+
+
 

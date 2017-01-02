@@ -4,6 +4,9 @@ collections:
   works:
     output: true
     permalink: /works/:path/    
+  writings:
+    output: true
+    permalink: /blog/:path/ 
   pages:
     output: true
     permalink: /:path/
