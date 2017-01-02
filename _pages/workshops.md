@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "workshops"
+title: Workshops
 includes: [jquery, lightbox]
 ---
 
@@ -22,7 +22,9 @@ includes: [jquery, lightbox]
 		<a href="/images/workshops/altai1.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_altai1.jpg" /></a>
 		<a href="/images/workshops/opendot2.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_opendot2.jpg" /></a>
 		<a href="/images/workshops/opendot1.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_opendot1.jpg" /></a>	
+		<a href="/images/workshops/nabi1.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_nabi1.jpg" /></a>	
 		<a href="/images/workshops/opendot3.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_opendot3.jpg" /></a>
 		<a href="/images/workshops/influencers1.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_influencers1.jpg" /></a>	
+		<a href="/images/workshops/nabi2.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_nabi2.jpg" /></a>	
 	</div>
 </div>
