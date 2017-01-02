@@ -6,7 +6,9 @@ includes: [jquery, lightbox]
 
 <div id="work">
 	<div id="workshops_about">
-		I regularly give workshops and teach classes, primarily on machine learning, computer vision, creative coding, and generative art. They usually focus on theory, applications, critical issues, or some combination among them, and can vary between technical/application-driven and discussion-oriented.
+		I regularly give workshops and teach classes, primarily on machine learning, computer vision, creative coding, and generative art. They usually focus on theory, applications, critical issues, or some combination among them, and can vary between technical/application-driven and discussion-oriented. Workshop materials are often made publicly available at the end, by open-sourcing the tech developed, or sometimes releasing screencasts or video lectures.
+		<br/><br/>
+		If you would like to organize a workshop with me, please <a href="mailto:kogan dot gene at gmail dot com">get in touch</a>.
 	</div>
 	<div class="workshops_section">
 		<ul>
