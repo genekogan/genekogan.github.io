@@ -10,7 +10,8 @@ title: "archive"
 	{% include project.md title="Gestural instruments" %} 
 	{% include project.md title="Processing shader examples" %} 
 	{% include project.md title="Tennis visualization" %} 
-	{% include project.md title="Robot Shakespeare" %} 
+	{% include project.md title="Robot Shakespeare" %}
+	{% include project.md title="Tip of the Tongue" %} 
 	{% include project.md title="The Rub" %} 
 	{% include project.md title="Flocking" %} 
 	{% include project.md title="Spectrogram sculptures" %} 
