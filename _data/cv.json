@@ -134,7 +134,8 @@
 		},{
 			"date":"2013 Oct 22",
 			"where":"<a href=\"http://www.objectifs.com.sg/\">Objectifs</a>, Singapore",
-			"name":"Artist Talk with Tengal Drilon & Joee Mejias"
+			"name":"Artist Talk (with Tengal Drilon & Joee Mejias)",
+			"extended":true
 		},{
 			"date":"2013 Aug 13",
 			"where":"<a href=\"http://kl10tch.ru/\">KL10TCH</a>, St. Petersburg, Russia",
@@ -144,8 +145,8 @@
 		},{
 			"date":"2013 Jun 23",
 			"where":"Terminal Garden, Manila, Philippines",
-			"name":"Bedroom Lab talk with Debbie Ding",
-			"info":"https://www.facebook.com/events/212113455603009/"
+			"name":"Bedroom Lab talk (with Debbie Ding)",
+			"info":"http://www.officeocd.com/events/wntgspsgk/"
 		},{
 			"date":"2013 Feb 24", 
 			"where":"Carnival of E-Creativity, Bhimtal, India",
@@ -317,9 +318,10 @@
 			"name":"UnifiedField workshop on free software & art",
 			"info":"http://www.theunifiedfield.org/archives/3471"
 		},{
-			"dates":"2013 Oct 20-21",
-			"where":"<a href=\"https://hackerspace.sg/\">HackerspaceSG</a>, Singapore",
-			"name":"Generative art/projection mapping with Tengal Drilon & Joee Mejias",
+			"dates":"2013 Oct 26",
+			"where":"<a href=\"http://www.greyprojects.org//\">Grey Projects</a>, Singapore",
+			"name":"New media, sound, & projection mapping (with Tengal Drilon & Joee Mejias)",
+			"info":"http://www.greyprojects.org/index.php/new-media-sound-and-projection-mapping-workshop/"
 		},{
 			"dates":"2013 Aug 7-9",
 			"where":"Neuron Hackspace, Moscow, Russia",

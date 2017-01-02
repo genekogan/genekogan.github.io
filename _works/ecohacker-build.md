@@ -3,7 +3,7 @@ layout: work
 title: Ecohacker-Build
 description: Collaborative sculpture and temporary performance space in upstate NY
 year: 2014
-collaborators: Biome Arts collective
+collaborators: Biome Arts collective http://biomearts.net/
 thumbnail: /images/home/thumb_ecohacker-build.jpg
 includes: [lightbox]
 ---
