@@ -10,7 +10,7 @@ includes: [lightbox]
 
 [Along the Karakoram](http://genekogan.wix.com/alongthekarakoram) was a collaborative project with [Grace Zhou](http://www.gracehzhou.com), collecting images and sounds while backpacking through the Karakoram Highway in summer 2010. The highway is a 1300km route connecting Xinjiang province of East Turkestan / Western China to Gilgit-Baltistan of Northern Pakistan, a route spanning dozens of languages, cultures, and climates, from the Taklamakan desert to the Hindu Kush mountain range.
 
-The full project can be found [here](http://www.alongthekarakoram.com). Below is a compilation of field recordings taken over the trip.
+The full project can be found [here](http://genekogan.wix.com/alongthekarakoram). Below is a compilation of field recordings taken over the trip.
 
 <center>
 	<p>

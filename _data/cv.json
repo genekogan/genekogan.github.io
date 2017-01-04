@@ -266,7 +266,8 @@
 			"dates":"2016 Mar 5-6", 
 			"where":"<a href=\"http://www.ofcn.io/\">OF Course</a>, Shanghai, China",
 			"name":"Machine learning & data visualization with t-SNE",
-			"info":"https://www.instagram.com/p/BChhDF3A4kz/"
+			"info":"http://www.huodongxing.com/event/4320519676800",
+			"photo":"https://www.instagram.com/p/BChhDF3A4kz/"
 		},{
 			"dates":"2016 Feb 17-19", 
 			"where":"<a href=\"http://ceg.annauniv.edu/\">Guindy College</a>, Chennai, India",
@@ -436,6 +437,8 @@
 	"name":"",
 	"info":""
 }
+
+// -> shanghai http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&tempkey=GO%2Fi%2FiQP8pjHMuye8CSlwCRSbTqmgmxncIqgtA%2FwE8%2B68rOzSDtsf9OSVAa1Wkfa6vGL8z3ZugevFEU0o4Wv5kZADT0dRzmSkQMRO7YkWUQxXNynnvaOGZ0Q%2B6xdquplX%2B7CyV%2B5iEqW8f7BSUFgzg%3D%3D&#rd
 
 info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
 */
