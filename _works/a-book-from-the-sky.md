@@ -5,6 +5,7 @@ description: Exploring the Latent Space of Chinese Handwriting
 year: 2015
 thumbnail_mp4: /images/home/thumb_a-book-from-the-sky.mp4
 thumbnail_webm: /images/home/thumb_a-book-from-the-sky.webm
+redirect_from: /works/a-book-from-the-sky.html
 ---
 
 <script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>

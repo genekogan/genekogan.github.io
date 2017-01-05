@@ -5,6 +5,7 @@ description: Creative coding workshop at Jaaga, Bangalore
 year: 2012
 thumbnail: /images/home/thumb_bezier-ribbons.jpg
 includes: [lightbox]
+redirect_from: /works/jaaga-workshop.html
 ---
 
 {::nomarkdown}

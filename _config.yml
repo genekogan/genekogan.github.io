@@ -10,3 +10,6 @@ collections:
   pages:
     output: true
     permalink: /:path/
+
+gems:
+  - jekyll-redirect-from

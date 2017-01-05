@@ -4,6 +4,7 @@ title: Gestural instruments
 description: Hand gesture-controlled Supercollider instruments
 year: 2013
 thumbnail: /images/home/thumb_gestural-instruments.jpg
+redirect_from: /works/gestural-instruments.html
 ---
 
 Gestural Instruments attempted to develop novel musical instruments with the [Leap Motion](https://www.leapmotion.com), a device providing precise hand tracking.

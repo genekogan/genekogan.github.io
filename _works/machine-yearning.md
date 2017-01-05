@@ -7,6 +7,7 @@ collaborators: PLOrk + Ryan Johns
 thumbnail_mp4: /images/home/thumb_machine-yearning.mp4
 thumbnail_webm: /images/home/thumb_machine-yearning.webm
 includes: [lightbox]
+redirect_from: /works/machine-yearning.html
 ---
 
 Machine Yearning was a performance with the [Princeton Laptop Orchestra (PLOrk)](http://plork.princeton.edu/index.php), [Axel Kilian](http://soa.princeton.edu/content/axel-kilian), [Ryan Johns](http://www.gshed.com/), and Charlie Avis, in April 2014 at Princeton University. 

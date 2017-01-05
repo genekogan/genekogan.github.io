@@ -4,6 +4,7 @@ title: Lost in translation
 description: Language translation feedback loops and their artifacts
 year: 2011
 thumbnail: /images/home/thumb_lost-in-translation.jpg
+redirect_from: /works/lost-in-translation.html
 ---
 
 Experiments with language translation loops, using the [Google Translate API](https://developers.google.com/translate/). The first process copied the U.S. Bill of Rights, translated it into French, then the result into Chinese, then that into Spanish, then Afrikaans, Dutch, Czech, Arabic, Japanese, and then back into English, producing an increasingly distorted version of the original.

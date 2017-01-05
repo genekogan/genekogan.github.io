@@ -4,6 +4,7 @@ title: Why is a raven like a writing desk?
 description: Recomposing images in the style of iconic paintings
 year: 2015
 thumbnail: /images/home/thumb_why-is-a-raven-like-a-writing-desk.jpg
+redirect_from: /works/style-transfer.html
 ---
 
 

@@ -5,6 +5,7 @@ description: A series of examples of using GLSL shaders in Processing
 year: 2013
 thumbnail: /images/home/thumb_processing-shader-examples.jpg
 includes: [lightbox]
+redirect_from: /works/processing-shader-examples.html
 ---
 
 [A collection of GLSL shaders used in Processing](http://www.github.com/genekogan/Processing-Shader-Examples), ranging from generic shaders like blur/contrast to  more experimental variants. It is a personal collection of shaders used in many works and a tutorial on how to use shaders within Processing. The code is [here](http://www.github.com/genekogan/Processing-Shader-Examples).

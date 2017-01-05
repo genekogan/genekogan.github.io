@@ -4,6 +4,7 @@ title: Kinect Projector Toolkit
 description: Processing/OpenFrameworks toolkit for calibrating a Kinect and projector
 year: 2013
 thumbnail: /images/home/thumb_kinect-projector-toolkit.jpg
+redirect_from: /works/kinect-projector-toolkit.html
 ---
 
 Kinect Projector Toolkit is a library for [Processing](http://www.github.com/genekogan/KinectProjectorToolkit) and [OpenFrameworks](http://www.github.com/genekogan/ofxKinectProjectorToolkit) which calibrates a projector to a Kinect depth camera, aligning a projection to the physical space it's lighting. Highlights from several installations:

@@ -4,6 +4,7 @@ title: Learning to generate text and audio
 description: Generating text and audio sequences with LSTM networks
 year: 2015
 thumbnail: /images/home/thumb_learning-sequences.jpg
+redirect_from: /works/learning-sequences.html
 ---
 
 Advances in techniques for predicting sequence elements have improved our ability to create generative sequences in various styles. The following are audio and text sequences generated using [Long Short Term Memory (LSTM)](https://en.wikipedia.org/wiki/Long_short-term_memory) neural networks in the style of various source texts and audio samples. 

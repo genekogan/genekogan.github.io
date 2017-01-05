@@ -4,6 +4,7 @@ title: Scratch ML visualization
 description: A turntablist-reactive sketch
 year: 2012
 thumbnail: "/images/home/thumb_scratchml-viz.jpg"
+redirect_from: /works/scratchML.html
 ---
 
 

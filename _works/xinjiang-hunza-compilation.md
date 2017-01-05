@@ -6,6 +6,7 @@ year: 2010
 collaborators: Grace Zhou
 thumbnail: /images/home/thumb_xinjiang-hunza-compilation.jpg
 includes: [lightbox]
+redirect_from: /works/xinjiang-hunza-compilation.html
 ---
 
 In summer of 2010 I traveled with some friends in the Karakoram highway stretching from western China, Xinjiang province, to the northern part of Pakistan in Hunza Valley. During this trip, I compiled a set of field recordings I took along the way, which later became part of [Along the Karakoram](http://www.alongthekarakoram.com) -- More information on this project [can be found here)(/works/along-the-karakoram.html).

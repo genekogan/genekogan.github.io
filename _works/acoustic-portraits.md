@@ -6,6 +6,7 @@ year: 2013
 collaborators: Angely Chi
 thumbnail: /images/home/thumb_acoustic-portraits.jpg
 includes: [lightbox]
+redirect_from: /works/acoustic-portraits.html
 ---
 
 Acoustic Portraits was a video piece made with Angely Chi during my residency with [The UnifiedField](http://www.theunifiedfield.org/archives/3471) in Davao, Philippines, and exhibited at [Fete Dela WSK](http://www.fetedelawsk.com) in Manila, November 2013. A recording of four local musicians from Davao City playing a mix of traditional and world instruments was time-stretched to 1/10th of the original speed to create a portrait of their music.

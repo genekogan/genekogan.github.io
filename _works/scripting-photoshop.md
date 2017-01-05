@@ -5,6 +5,7 @@ description: Scripting photoshop filters + generating textures
 year: 2011
 thumbnail: /images/home/thumb_scripting-photoshop.jpg
 includes: [lightbox]
+redirect_from: /works/scripting-photoshop.html
 ---
 
 Generating textures with Photoshop's scripting functions. A series of textures were collected as source images, and the following procedure was applied iteratively.

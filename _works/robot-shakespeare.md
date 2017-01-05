@@ -4,6 +4,7 @@ title: Robot Shakespeare
 description: Tweeting Fakespeare every 15 minutes since 2013
 year: 2013
 thumbnail: /images/home/thumb_robot-shakespeare.jpg
+redirect_from: /works/robot-shakespeare.html
 ---
 
 {::nomarkdown}

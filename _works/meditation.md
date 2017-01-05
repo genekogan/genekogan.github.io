@@ -5,6 +5,7 @@ description: Time-stretched sitar
 collaborators: Pradeep Ratnayake
 year: 2010
 thumbnail: /images/home/thumb_meditation.jpg
+redirect_from: /works/meditation.html
 ---
 
 An extremely [time-stretched](http://hypermammut.sourceforge.net/paulstretch/) recording of Sri Lankan sitarist [Pradeep Ratnayake](http://www.pradeepratnayake.com/), some chimes recorded in Ukraine, and Pushkina purring and licking towards the end.

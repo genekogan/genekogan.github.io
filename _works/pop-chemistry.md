@@ -4,6 +4,7 @@ title: Pop chemistry
 description: Beat-slicing pop music tracks with EchoNest Remix
 year: 2010
 thumbnail: /images/home/thumb_pop-chemistry.jpg
+redirect_from: /works/pop-chemistry.html
 ---
 
 

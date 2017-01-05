@@ -5,6 +5,7 @@ description: Finding the hidden color distribution behind words, phrases, concep
 year: 2011
 thumbnail: /images/home/thumb_color-of-words.jpg
 includes: [lightbox]
+redirect_from: /works/color-of-words.html
 ---
 
 This project sought to discover the implicit colors of words, phrases, and concepts. A set of words was selected and run through a google image search. The color distribution of the first hundred images was analyzed and re-synthesized using a [self-organizing map (SOM)](http://en.wikipedia.org/wiki/Self-organizing_map), a machine learning algorithm for clustering and visualizing data. The SOM was implemented using [ofxSelfOrganizingMap](http://www.github.com/genekogan/ofxSelfOrganizingMap). <!-- To emphasize the peaks and smooth out spurious colors, the covariance matrix of the GMM was divided by 10. -->

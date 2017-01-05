@@ -4,6 +4,7 @@ title: A day in New York
 description: Timelapse of Central Park from my old window on E 110th street
 year: 2011
 thumbnail: /images/home/thumb_a-day-in-new-york.jpg
+redirect_from: /works/a-day-in-new-york.html
 ---
 
 A daylong timelapse taken from outside my window in Spanish Harlem overlooking the northeast corner of Central Park, April 2011. Watch for the beautiful (and extremely brief!) sunset in the last few seconds of the video.

@@ -5,6 +5,7 @@ description: Wiggly processing sketch
 year: 2011
 thumbnail: /images/home/thumb_branching.jpg
 includes: [processingjs]
+redirect_from: /works/branching.html
 ---
 
 Noisy branches. [Click for code](http://www.openprocessing.org/sketch/65382).

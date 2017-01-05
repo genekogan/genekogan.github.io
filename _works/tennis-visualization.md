@@ -4,6 +4,7 @@ title: Tennis visualization
 description: Visualizing the last 30 years in professional tennis
 year: 2013
 thumbnail: /images/home/thumb_tennis-visualization.jpg
+redirect_from: /works/tennis-visualization.html
 ---
 
 

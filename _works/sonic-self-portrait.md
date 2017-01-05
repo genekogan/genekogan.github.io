@@ -4,6 +4,7 @@ title: Sonic self-portrait
 description: Sonifying my face
 year: 2010
 thumbnail: /images/home/thumb_sonic-self-portrait.jpg
+redirect_from: /works/sonic-self-portrait.html
 ---
 
 Sonifying my face, inspired by [Roger Dannenberg](http://www.cs.cmu.edu/~rbd/) at Carnegie Mellon. I ran a photo of my face through [Hough transform](http://en.wikipedia.org/wiki/Hough_transform) and then fed them to [SPEAR](http://www.klingbeil.com/spear/) which interpreted them as extraterrestrial-sounding partials.

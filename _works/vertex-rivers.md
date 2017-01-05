@@ -5,6 +5,7 @@ description: Dots over vector fields
 year: 2011
 thumbnail: /images/home/thumb_vertex-rivers.jpg
 includes: [processingjs]
+redirect_from: /works/vertex-rivers.html
 ---
 
 A generative sketch which was shown at [Big Screen Plaza](http://www.bigscreenplaza.com/) in January 2012. Code [at OpenProcessing](http://www.openprocessing.org/sketch/65385/). Click on it to make a new one.

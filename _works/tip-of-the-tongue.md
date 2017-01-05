@@ -6,6 +6,7 @@ year: 2012
 collaborators: Courtney Giannone
 thumbnail: /images/home/thumb_tip-of-the-tongue.jpg
 includes: [lightbox]
+redirect_from: /works/tip-of-the-tongue.html
 ---
 
 

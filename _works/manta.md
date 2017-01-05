@@ -5,6 +5,7 @@ description: Applications + interface for touch-sensitive controller
 collaborators: Jeff Snyder
 year: 2014
 thumbnail: /images/home/thumb_manta.jpg
+redirect_from: /works/manta.html
 ---
 
 The [Manta](http://www.snyderphonics.com/products.htm) is a touch-sensitive controller built by [Jeff Snyder](http://www.scattershot.org) of [Snyderphonics](http://www.snyderphonics.com) containing 48 capacitive touch sensors and LED switches, two sliders, and four buttons. It is an expressive controller which has been used in a [variety of ways](https://www.youtube.com/results?search_query=manta+snyderphonics) to interact with live audio and video. Since 2014, I am maintaining [two software libraries](https://github.com/genekogan/Manta) for interfacing with the Manta in performance.

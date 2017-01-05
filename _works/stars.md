@@ -5,6 +5,7 @@ description: Generative strategies for sketching stars
 year: 2011
 thumbnail: /images/home/thumb_stars.jpg
 includes: [lightbox,processingjs]
+redirect_from: /works/stars.html
 ---
 
 

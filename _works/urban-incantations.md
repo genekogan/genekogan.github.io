@@ -5,6 +5,7 @@ description: Field recordings of temples, mosques, and churches in Bangalore
 year: 2012
 collaborators: Sharath Chandra Ram
 thumbnail: /images/home/thumb_urban-incantations.jpg
+redirect_from: /works/urban-incantations.html
 ---
 
 [Urban Incantations](/works/incantations/) was a project initiating a compilation of field recordings taken from temples, mosques, and churches in and around the city of Bangalore, India

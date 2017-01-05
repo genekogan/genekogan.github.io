@@ -5,6 +5,7 @@ description: Automatic generation of photo mosaics
 year: 2010
 thumbnail: /images/home/thumb_mosaic.jpg
 includes: [lightbox]
+redirect_from: /works/mosaic.html
 ---
 
 Mosaic creates [photo mosaics](http://en.wikipedia.org/wiki/Photographic_mosaic), composited images of many small photographs stitched together in such a way as to resemble a single target photograph.

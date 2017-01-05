@@ -5,6 +5,7 @@ description: Moire interference patterns from deltoid curves
 year: 2012
 thumbnail: /images/home/thumb_interference.jpg
 includes: [lightbox]
+redirect_from: /works/interference.html
 ---
 
 

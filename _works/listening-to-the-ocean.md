@@ -6,6 +6,7 @@ year: 2012
 collaborators: Phillip Stearns + Dan Tesene
 thumbnail: /images/home/thumb_seashell-fabrication.jpg
 includes: [lightbox]
+redirect_from: /works/listening-to-the-ocean.html
 ---
 
 *Listening to the Ocean on a Shore of Gypsum Sand* is a collaboration with [Phillip Stearns](http://www.phillipstearns.com) and [Dan Tesene](http://areyoudevoted.squarespace.com/artists/tag/dan-tesene) investigating the sonic properties of real and imagined seashells. The seashells are algorithmically designed in custom software written in Processing and fabricated by printing and binding thin layers of gypsum powder.

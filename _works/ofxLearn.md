@@ -4,6 +4,7 @@ title: ofxLearn
 description: Machine learning framework for OpenFrameworks
 year: 2012
 thumbnail: /images/home/thumb_ofxLearn.jpg
+redirect_from: /works/ofxLearn.html
 ---
 
 [ofxLearn](http://www.github.com/genekogan/ofxLearn) is an addon for [OpenFrameworks](http://www.openframeworks.cc/) enabling general-purpose machine learning. It is designed for ease of use, automating most of the gritty details of machine learning procedures like model selection, optimization, and training, while still providing methods to customize those details if desired. It is a high-level wrapper to the free C++ [dlib](http://dlib.net/ml.html) machine learning library.

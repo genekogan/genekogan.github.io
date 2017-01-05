@@ -5,6 +5,7 @@ description: Implementation of a self organizing map for "tidying up" the colors
 year: 2011
 thumbnail: /images/home/thumb_tidy-photography.jpg
 includes: [lightbox, processingjs]
+redirect_from: /works/tidy-photography.html
 ---
 
 

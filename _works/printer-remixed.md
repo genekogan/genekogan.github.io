@@ -4,6 +4,7 @@ title: Remixing an HP inkjet printer
 description: Remixing an HP Photosmart Plus
 year: 2012
 thumbnail: /images/home/thumb_printer-remixed.jpg
+redirect_from: /works/printer-remixed.html
 ---
 
 A remix of my parents' HP inkjet printer.

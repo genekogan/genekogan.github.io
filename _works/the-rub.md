@@ -6,6 +6,7 @@ year: 2012
 collaborators: Nessa Norich
 thumbnail: /images/home/thumb_the-rub.jpg
 includes: [lightbox]
+redirect_from: /works/the-rub.html
 ---
 
 

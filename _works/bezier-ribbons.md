@@ -5,6 +5,7 @@ description: Interactive bezier curves floating in space
 year: 2011
 thumbnail: /images/home/thumb_bezier-ribbons.jpg
 includes: [lightbox, processingjs]
+redirect_from: /works/bezier-ribbons.html
 ---
 
 Bezier ribbons is Processing sketch continuously drawing a [bezier curve](http://en.wikipedia.org/wiki/B%C3%A9zier_curve) whose end points and control points are oscillating. The below program allows you to draw four paths for each of the four points of the bezier curve, by click-dragging your mouse on it. [Code here](/code/BezierRibbons/).

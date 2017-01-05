@@ -6,6 +6,7 @@ year: 2014
 collaborators: Biome Arts collective http://biomearts.net/
 thumbnail: /images/home/thumb_ecohacker-build.jpg
 includes: [lightbox]
+redirect_from: /works/ecohacker-build.html
 ---
 
 A [two-week residency](http://www.biomearts.net/ecohack2014/) with 11 people working collaboratively on a magic hut constructed in the remote woods of upstate New York, near Delancey, NY. 

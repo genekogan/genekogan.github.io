@@ -6,6 +6,7 @@ year: 2010
 collaborators: Grace Zhou
 thumbnail: /images/home/thumb_along-the-karakoram.jpg
 includes: [lightbox]
+redirect_from: /works/along-the-karakoram.html
 ---
 
 [Along the Karakoram](http://genekogan.wix.com/alongthekarakoram) was a collaborative project with [Grace Zhou](http://www.gracehzhou.com), collecting images and sounds while backpacking through the Karakoram Highway in summer 2010. The highway is a 1300km route connecting Xinjiang province of East Turkestan / Western China to Gilgit-Baltistan of Northern Pakistan, a route spanning dozens of languages, cultures, and climates, from the Taklamakan desert to the Hindu Kush mountain range.

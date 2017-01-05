@@ -5,6 +5,7 @@ description: Generative accordions
 year: 2011
 thumbnail: /images/home/thumb_accordion.jpg
 includes: [processingjs]
+redirect_from: /works/accordions.html
 ---
 
 Accordions -- code for this sketch [here](http://www.openprocessing.org/sketch/65378).

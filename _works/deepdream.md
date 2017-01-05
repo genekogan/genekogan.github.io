@@ -6,6 +6,7 @@ year: 2015
 thumbnail_mp4: /images/home/thumb_deepdream.mp4
 thumbnail_webm: /images/home/thumb_deepdream.webm
 includes: [lightbox]
+redirect_from: /works/deepdream.html
 ---
 
 A series of images produced using [Google's inceptionism/deepdream](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html) code released in July 2015. The software uses [artificial neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network) trained on large sets of classified images used by Google for image recognition. The [code](https://github.com/google/deepdream) accepts images as inputs and iteratively evolves the pixel values towards some coherent resemblance to the image classes it knows, producing wild images of "pig-snails," "camel-birds," "dog-fish," and the famous "puppy slugs," among many other categories.
