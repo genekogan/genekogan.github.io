@@ -1,6 +1,12 @@
 {
 	"talks":[
 		{
+			"date":"2017 Jan 3", 
+			"where":"<a href=\"https://www.recurse.com/\">Recurse Center</a>, New York, NY",
+			"name":"Resident talk",
+			"photo":"https://twitter.com/recursecenter/status/816446455179251712",
+			"extended":true
+		},{
 			"date":"2016 Dec 3", 
 			"where":"<a href=\"http://www.coex.co.kr/\">COEX</a>, Seoul, South Korea",
 			"name":"Talk at Nabi Global AI hackathon",
@@ -26,7 +32,8 @@
 			"date":"2016 Nov 4",
 			"where":"Kikk Festival, Namur, Belgium",
 			"name":"Adversarial Nets",
-			"info":"http://www.kikk.be/2016/en/program/conferences/gene-kogan"
+			"info":"http://www.kikk.be/2016/en/program/conferences/gene-kogan",
+			"video":"https://vimeo.com/197495131"
 		},{
 			"date":"2016 Oct 19-20", 
 			"where":"The Influencers, Barcelona, Spain",
