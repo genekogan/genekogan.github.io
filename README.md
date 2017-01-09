@@ -1,3 +1,5 @@
-### genekogan.github.io
+### genekogan.github.io <> genekogan.com
 
-slowly migrating my website. low-priority. under construction
+personal website (genekogan.com) and website for alt-AI (alt-AI.net).  
+
+made with [jekyll](http://jekyllrb.com).
