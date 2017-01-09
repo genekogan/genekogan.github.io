@@ -1,6 +1,22 @@
 {
 	"talks":[
 		{
+			"date":"2017 Apr", 
+			"where":"Resonate Festival, Belgrade, Serbia",
+			"name":"",
+			"photo":"",
+			"extended":true
+		},{
+			"date":"2017 Feb", 
+			"where":"ML meetup (w/ Memo Akten), London, England",
+			"name":"",
+			"extended":true
+		},{
+			"date":"2017 Jan 27", 
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"",
+			"extended":true
+		},{
 			"date":"2017 Jan 3", 
 			"where":"<a href=\"https://www.recurse.com/\">Recurse Center</a>, New York, NY",
 			"name":"Resident talk",
@@ -104,7 +120,8 @@
 			"date":"2016 Mar 21", 
 			"where":"NYU LaGuardia Co-op, New York, NY",
 			"name":"Machine learning for artists",
-			"info":"https://www.meetup.com/Product-Design-Workshop/events/229497566/"
+			"info":"https://www.meetup.com/Product-Design-Workshop/events/229497566/",
+			"extended":true
 		},{
 			"date":"2016 Feb 13",
 			"where":"<a href=\"http://www.datakind.org/chapters/datakind-blr\">DataKind</a>, Bangalore, India",
@@ -211,6 +228,36 @@
 	],
 	"teaching":[
 		{
+			"date":"2017 Jun 26", 
+			"where":"Eyeo Festival, Minneapolis, MN",
+			"name":"",
+			"extended":true
+		},{
+			"date":"2017 Jun 12-16", 
+			"where":"CIID, Copenhagen, Denmark",
+			"name":"Machine learning for designers",
+			"extended":true
+		},{
+			"date":"2017 Apr 24-28", 
+			"where":"ECAL, Lausanne, Switzerland",
+			"name":"",
+			"extended":true
+		},{
+			"date":"2017 Apr", 
+			"where":"Resonate Festival, Belgrade, Serbia",
+			"name":"",
+			"extended":true
+		},{
+			"date":"2017 Apr", 
+			"where":"<a href=\"http://spektrumberlin.de\">School of Machines</a>, Belgrade, Serbia",
+			"name":"",
+			"extended":true
+		},{
+			"date":"2017 Feb 18-19", 
+			"where":"Machine Room, London, England",
+			"name":"",
+			"extended":true
+		},{
 			"dates":"2016 Dec 16", 
 			"where":"<a href=\"http://isi.ac.id/\">Institute of the Arts</a>, Yogyakarta, Indonesia",
 			"name":"Generative composition (with Marcel Schwittlick & Lifepatch)",
@@ -283,7 +330,7 @@
 		},{
 			"dates":"2015 Nov 23-24",
 			"where":"<a href=\"https://eyebeam.org/\">Eyebeam</a>, New York, NY",
-			"name":"OperaToolit improvisation (w/ Lisa Kori & Sarah McSherry)",
+			"name":"Opera Toolit improvisation (w/ Lisa Kori & Sarah McSherry)",
 			"info":"http://archive.eyebeam.org/events/opera-toolkit-workshop",
 			"photo":"https://www.flickr.com/photos/eyebeam/sets/72157663755508204"
 		},{
@@ -448,4 +495,17 @@
 // -> shanghai http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&tempkey=GO%2Fi%2FiQP8pjHMuye8CSlwCRSbTqmgmxncIqgtA%2FwE8%2B68rOzSDtsf9OSVAa1Wkfa6vGL8z3ZugevFEU0o4Wv5kZADT0dRzmSkQMRO7YkWUQxXNynnvaOGZ0Q%2B6xdquplX%2B7CyV%2B5iEqW8f7BSUFgzg%3D%3D&#rd
 
 info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
+
+<b>Installations / performances</b>
+<ul>
+	<li>Cubist Mirror - Alt-AI - New York, NY</li>
+	<li>Contact (w/ Alec Schachner) - Panjim, Goa, India</li>	
+	<li>Machine Yearning (w/ Ryan Johns, Jeff Snyder, plOrk) - Princeton, NJ</li>
+	<li>Silhouettes in Saigon - Ho Chi Minh City, Vietnam - 2013.11.10 </li>
+	<li>Erarta @ St. PEtersburg</li>
+	<li>Listening to the Ocean (w/ Phillip Stearns + Dan Tesene) - Soundwalk, Los Angeles, CA - 2012</li>
+	<li>EcoHacker</li>
+	<li>Tip of the Tongue</li>
+	<li>The Rub</li>
+</ul>
 */
