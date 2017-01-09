@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Footsteps
-includes: [jquery, lightbox]
+includes: []
 ---
 
 <script src='https://api.mapbox.com/mapbox-gl-js/v0.30.0/mapbox-gl.js'></script>
@@ -13,7 +13,7 @@ includes: [jquery, lightbox]
 	var map = new mapboxgl.Map({
 	    container: 'map',
 	    style: 'mapbox://styles/genekogan/cixpidxzs00222sojgjerb9p6',
-		center: [-10, 20],
-		zoom: 1.5
+		center: [-9, 17.5],
+		zoom: 1.75
 	});
 </script>
