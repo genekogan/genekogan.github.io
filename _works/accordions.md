@@ -12,6 +12,6 @@ Accordions -- code for this sketch [here](http://www.openprocessing.org/sketch/6
 
 <p>
 <center>
-<canvas data-processing-sources="/js/code/Accordion/Accordion.pde"></canvas>
+<canvas data-processing-sources="/code/Accordion/Accordion.pde"></canvas>
 </center>
 </p>

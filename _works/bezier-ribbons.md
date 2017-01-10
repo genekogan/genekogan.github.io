@@ -12,7 +12,7 @@ Bezier ribbons is Processing sketch continuously drawing a [bezier curve](http:/
 
 
 <center>
-<canvas data-processing-sources="/js/code/BezierRibbons/BezierRibbons.pde  /js/code/BezierRibbons/BezierSpline.pde /js/code/BezierRibbons/Demo.pde /js/code/BezierRibbons/Menu.pde /js/code/BezierRibbons/NaturalCubicSpline.pde /js/code/BezierRibbons/Spline.pde"></canvas>
+<canvas data-processing-sources="/code/BezierRibbons/BezierRibbons.pde  /code/BezierRibbons/BezierSpline.pde /code/BezierRibbons/Demo.pde /code/BezierRibbons/Menu.pde /code/BezierRibbons/NaturalCubicSpline.pde /code/BezierRibbons/Spline.pde"></canvas>
 </center>
 
 

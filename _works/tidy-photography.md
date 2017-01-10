@@ -14,7 +14,7 @@ Implementation of a [Self-organizing Map (SOM)](http://en.wikipedia.org/wiki/Sel
 Try clicking on one of the pictures to see the flowers get tidied up.
 
 <center>
-<canvas data-processing-sources="/js/code/SOM/SOM.pde /js/code/SOM/SelfOrganizingMap.pde"></canvas>
+<canvas data-processing-sources="/code/SOM/SOM.pde /code/SOM/SelfOrganizingMap.pde"></canvas>
 </center>
 
 Some more examples of the SOM on flowers.

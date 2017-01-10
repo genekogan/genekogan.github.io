@@ -12,7 +12,7 @@ A generative sketch which was shown at [Big Screen Plaza](http://www.bigscreenpl
 
 <p>
 <center>
-<canvas data-processing-sources="/js/code/Vertex_Rivers/Vertex_Rivers.pde /js/code/Vertex_Rivers/Streak.pde"></canvas>
+<canvas data-processing-sources="/code/Vertex_Rivers/Vertex_Rivers.pde /code/Vertex_Rivers/Streak.pde"></canvas>
 </center>
 </p>
 

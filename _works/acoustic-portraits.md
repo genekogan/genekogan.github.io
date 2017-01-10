@@ -13,12 +13,7 @@ Acoustic Portraits was a video piece made with Angely Chi during my residency wi
 
 With [time stretching software](http://hypermammut.sourceforge.net/paulstretch/) we can nearly freeze the sound, bringing out rich qualities in the timbre of the instruments that are otherwise too transient to hear at normal playback.
 
-Thanks to our musicians:
-
-- Neil Cervantes // hegalong, flute
-- Anne Mendoza // kalimba, guitar
-- Romar Cinto // djembe, kubing, rainstick
-- El Felicilda // djembe, bird flute
+Thanks to our musicians: Neil Cervantes (hegalong, flute), Anne Mendoza (kalimba, guitar), Romar Cinto (djembe, kubing, rainstick), El Felicilda (djembe, bird flute)
 
 Thanks to Angely Chi, [Marta Moreno Muñoz](http://theunifiedfield.net/), AVL Studio, Gloryrose Dy, Glorypearl Dy, Marben Picar, Baian Lindo-Valdez, and Lulu Amorado for their support and contributions.
 

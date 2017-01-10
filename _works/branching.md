@@ -12,6 +12,6 @@ Noisy branches. [Click for code](http://www.openprocessing.org/sketch/65382).
 
 <p>
 	<center>
-	<canvas data-processing-sources="/js/code/Branching/Branching.pde"></canvas>
+	<canvas data-processing-sources="/code/Branching/Branching.pde"></canvas>
 	</center>
 </p>
