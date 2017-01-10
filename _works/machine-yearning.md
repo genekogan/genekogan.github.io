@@ -4,8 +4,7 @@ title: Machine Yearning
 description: Sonifying and projection-mapping an industrial robot arm
 year: 2014
 collaborators: PLOrk + Ryan Johns
-thumbnail_mp4: /images/home/thumb_machine-yearning.mp4
-thumbnail_webm: /images/home/thumb_machine-yearning.webm
+thumbnail: /images/home/thumb_machine-yearning.jpg
 includes: [lightbox]
 redirect_from: /works/machine-yearning.html
 ---
