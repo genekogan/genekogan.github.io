@@ -4,6 +4,7 @@ title: "archive"
 ---
 
 <div id="works">
+	{% include project.md title="Wiki t-SNE" %} 
 	{% include project.md title="Deepdream prototypes" %} 
 	{% include project.md title="Learning to generate text and audio" %} 
 	{% include project.md title="Manta" %} 
