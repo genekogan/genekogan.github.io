@@ -1,5 +1,5 @@
 ---
-title: DoodleTunes
+title: Doodle Tunes
 description: An application which transforms your drawings of musical instruments into music
 year: 2016
 collaborators: Andreas Refsgaard
