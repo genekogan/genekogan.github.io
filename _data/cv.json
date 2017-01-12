@@ -104,7 +104,7 @@
 		},{
 			"date":"2016 May 21", 
 			"where":"<a href=\"sfpc.io\">School for Poetic Computation</a>, New York, NY",
-			"name":"Talk at alt-AI",
+			"name":"<a href=\"http://alt-ai.net\">alt-AI</a>",
 			"info":"http://alt-ai.net/#people"
 		},{
 			"date":"2016 Apr 7", 
@@ -144,7 +144,7 @@
 			"info":"https://pioneerworks.org/s4ad/",
 		},{
 			"date":"2015 Mar 30", 
-			"where":"NYU-Poly MAGNET, Brooklyn, NY",
+			"where":"<a href=\"http://magnet.nyu.edu/\">NYU-Poly MAGNET</a>, Brooklyn, NY",
 			"name":"Code as expression, communication, and collaboration"
 		},{
 			"date":"2015 Feb 2",
@@ -176,7 +176,8 @@
 			"date":"2013 Feb 24", 
 			"where":"Carnival of E-Creativity, Bhimtal, India",
 			"name":"Artist talk at CEC-13",
-			"info":"http://www.theaea.org/cec_cac/cec13/"
+			"info":"http://www.theaea.org/cec_cac/cec13/",
+			"photo":"http://www.theaea.org/cec_cac/cec13/cec13pix.htm"
 		},{
 			"date":"2013 Jan 24",
 			"where":"<a href=\"http://www.bicentre.org/\">Bangalore International Centre</a>, Bangalore, India",
@@ -261,7 +262,8 @@
 			"dates":"2016 Dec 16", 
 			"where":"<a href=\"http://isi.ac.id/\">Institute of the Arts</a>, Yogyakarta, Indonesia",
 			"name":"Generative composition (with <a href=\"http://mrzl.net/\">Marcel Schwittlick</a> & <a href=\"http://lifepatch.org/\">Lifepatch</a>)",
-			"info":"http://lifepatch.org/Lokakarya_Teknologi_Musik"
+			"info":"http://lifepatch.org/Lokakarya_Teknologi_Musik",
+			"photo":"http://mrzl.net/generative-composition-workshop/"
 		},{
 			"dates":"2016 Dec 6", 
 			"where":"<a href=\"http://nabi.or.kr\">Art Center Nabi</a>, Seoul, South Korea",
@@ -275,9 +277,10 @@
 			"video":"http://ml4a.github.io/classes/opendot/"
 		},{
 			"dates":"2016 Nov 5", 
-			"where":"Kikk Festival, Berlin, Germany",
+			"where":"Kikk Festival, Namur, Belgium",
 			"name":"Machine learning for artists",
-			"info":"http://www.kikk.be/2016/en/program/workshops/machine-learning-for-artists"
+			"info":"http://www.kikk.be/2016/en/program/workshops/machine-learning-for-artists",
+			"photo":"https://www.flickr.com/photos/kikk_festival/30702838651/in/album-72157672531263603/"
 		},{
 			"dates":"2016 Oct 19-20", 
 			"where":"The Influencers, Barcelona, Spain",
@@ -290,7 +293,7 @@
 			"info":"https://retune.de/festival/2016/workshops/#Gene-Kogan"
 		},{
 			"dates":"2016 Oct 1", 
-			"where":"<a href=\"http://spektrumberlin.de\">School of Machines</a>, Berlin, Germany",
+			"where":"<a href=\"http://spektrumberlin.de\">Spektrum</a>, Berlin, Germany",
 			"name":"Machine learning for artists",
 			"info":"http://spektrumberlin.de/workshops/detail/workshop-machine-learning-for-artists-with-gene-kogan.html"
 		},{
@@ -309,7 +312,8 @@
 			"dates":"2016 May 22", 
 			"where":"<a href=\"sfpc.io\">School for Poetic Computation</a>, New York, NY",
 			"name":"Visualizing high-dimensional data, alt-AI",
-			"info":"http://alt-ai.net/#workshops"
+			"info":"http://alt-ai.net/#workshops",
+			"photo":"http://blog.sfpc.io/post/145354482196/from-workshops-and-conference-of-alt-ai-video-of"
 		},{
 			"dates":"2016 Mar-May", 
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
@@ -344,7 +348,7 @@
 			"where":"<a href=\"http://otionfront.com/\">Otion Front</a>, New York, NY",
 			"name":"Opera Toolkit (w/ <a href=\"http://lisakori.net\">Lisa Kori</a> & <a href=\"http://colin-self.com/\">Colin Self</a>)",
 			"info":"http://archive.eyebeam.org/events/opera-toolkit",
-			"photo":"http://operatoolkit.tumblr.com/"
+			"video":"https://vimeo.com/199067445"
 		},{
 			"dates":"2015 Aug 16",
 			"where":"<a href=\"https://eyebeam.org/\">117 Beeckman St</a>, New York, NY",
@@ -436,7 +440,8 @@
 			"dates":"2015 Mar-Aug",
 			"where":"<a href=\"https://eyebeam.org/\">Eyebeam</a>, New York, NY",
 			"name":"Opera Toolkit (with <a href=\"http://lisakori.net\">Lisa Kori</a> & <a href=\"http://colin-self.com/\">Colin Self</a>)",
-			"info":"http://archive.eyebeam.org/people/gene-kogan"
+			"info":"http://archive.eyebeam.org/people/gene-kogan",
+			"photo":"http://operatoolkit.tumblr.com/"
 		},{
 			"dates":"2015 Mar",
 			"where":"<a href=\"http://whitebuilding.org\">White Building</a>, Phnom Penh, Cambodia",
@@ -447,7 +452,8 @@
 			"dates":"2013 Nov",
 			"where":"Davao City, Philippines",
 			"name":"Unifiedfield artist-in-residency",
-			"info":"http://www.theunifiedfield.org/archives/3471"
+			"info":"http://www.theunifiedfield.org/archives/3471",
+			"video":"https://vimeo.com/78801880"
 		},{
 			"dates":"2012 Sep-Dec",
 			"where":"<a href=\"http://www.jaaga.in\">Jaaga</a>, Bangalore, India",
@@ -460,7 +466,8 @@
 			"authors":"Jeff Snyder, Eugene Kogan, Ryan Johns, Charlie Avis, Axel Kilian",
 			"title":"An Industrial Robotic Arm as an Instrument: Details of an Experimental Performance",
 			"publication":"New Interfaces for Musical Expression (NIME)",
-			"pdf":"http://www.nime.org/proceedings/2015/nime2015_275.pdf"
+			"pdf":"http://www.nime.org/proceedings/2015/nime2015_275.pdf",
+			"video":"https://vimeo.com/92879100"
 		},{
 			"date":"2011",
 			"authors":"Cynthia Rudin, Benjamin Letham, Ansaf Salleb-Aouissi, Eugene Kogan and David Madigan",
