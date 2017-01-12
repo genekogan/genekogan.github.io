@@ -14,17 +14,16 @@ A series of images produced using [Google's inceptionism/deepdream](http://googl
 I was able to get interesting animations by iteratively zooming into the output and oscillating which of the layers to enhance in the network.
 
 <center>
-
 <p>
-<video type="video/mp4" autoplay loop>
-<source src="/images/deepdream/deepzoom.mp4" />
-</video>					
-
-<video type="video/mp4" autoplay loop>
-<source src="/images/deepdream/deep-prototypes.mov" />
-</video>					
+	<video loop autoplay>
+		<source src="/images/deepdream/deepzoom.mp4" type="video/mp4">
+		<source src="/images/deepdream/deepzoom.webm" type='video/webm;codecs="vp8,vorbis"'>
+	</video>
+	<video loop autoplay>
+		<source src="/images/deepdream/deep-prototypes.mov" type="video/mp4">
+		<source src="/images/deepdream/deep-prototypes.webm" type='video/webm;codecs="vp8,vorbis"'>
+	</video>
 </p>
-
 </center>
 
 <p>

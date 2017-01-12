@@ -42,6 +42,11 @@ title: "CV"
 						<a href="{{ c.video }}">[video]</a>
 					</div>
 				{% endif %}
+				{% if c.photo %}
+					<div class="video_link">
+						<a href="{{ c.photo }}">[photos]</a>
+					</div>
+				{% endif %}
 			</div>
 		</div>
 		{% endif %}
@@ -114,6 +119,11 @@ title: "CV"
 				{% if c.pdf %}
 					<div class="info_link">
 						<a href="{{ c.pdf }}">[pdf]</a>
+					</div>
+				{% endif %}
+				{% if c.video %}
+					<div class="video_link">
+						<a href="{{ c.video }}">[video]</a>
 					</div>
 				{% endif %}
 			</div>

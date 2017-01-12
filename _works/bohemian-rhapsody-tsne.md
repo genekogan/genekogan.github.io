@@ -12,7 +12,9 @@ The middle section of Queen's Bohemian Rhapsody is segmented by onsets, and a fe
 Click to play.
 
 <center>
-<video controls="controls" onclick="this.play()">
-<source src="/images/bohemian-rhapsody-tsne/bohemian-rhapsody-tsne.mp4" type="video/mp4">
-</video>
+	<video controls="controls" onclick="this.play()">
+		<source src="/images/bohemian-rhapsody-tsne/bohemian-rhapsody-tsne.mp4" type="video/mp4">
+		<source src="/images/bohemian-rhapsody-tsne/bohemian-rhapsody-tsne.webm" type='video/webm;codecs="vp8,vorbis"'>
+	</video>
+
 </center>

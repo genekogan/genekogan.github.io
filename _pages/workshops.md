@@ -18,14 +18,15 @@ includes: [jquery, lightbox]
 	</div>
 	<div class="workshops_section">
 		<div class="workshops_heading">Photos from past workshops (click to enlarge)</div>
-		<a href="/images/workshops/influencers2.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_influencers2.jpg" /></a>
-		<a href="/images/workshops/altai1.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_altai1.jpg" /></a>
-		<a href="/images/workshops/opendot2.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_opendot2.jpg" /></a>
-		<a href="/images/workshops/opendot1.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_opendot1.jpg" /></a>	
-		<a href="/images/workshops/nabi1.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_nabi1.jpg" /></a>	
-		<a href="/images/workshops/opendot3.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_opendot3.jpg" /></a>
-		<a href="/images/workshops/influencers1.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_influencers1.jpg" /></a>	
-		<a href="/images/workshops/nabi2.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_nabi2.jpg" /></a>	
+		<a href="/images/workshops/influencers2.jpg" rel="lightbox[ws]" data-title="Influencers conference, Barcelona, Oct 2016"><img src="/images/workshops/thumb_influencers2.jpg" /></a>
+		<a href="/images/workshops/altai1.jpg" rel="lightbox[ws]" data-title="alt-AI, New York, May 2016"><img src="/images/workshops/thumb_altai1.jpg" /></a>
+		<a href="/images/workshops/opendot2.jpg" rel="lightbox[ws]" data-title="OpenDot Lab, Milan, Nov 2016"><img src="/images/workshops/thumb_opendot2.jpg" /></a>
+		<a href="/images/workshops/opendot1.jpg" rel="lightbox[ws]" data-title="OpenDot Lab, Milan, Nov 2016"><img src="/images/workshops/thumb_opendot1.jpg" /></a>	
+		<a href="/images/workshops/nabi1.jpg" rel="lightbox[ws]" data-title="Art Center Nabi, Seoul, Dec 2016"><img src="/images/workshops/thumb_nabi1.jpg" /></a>	
+		<a href="/images/workshops/opendot3.jpg" rel="lightbox[ws]" data-title="OpenDot Lab, Milan, Nov 2016"><img src="/images/workshops/thumb_opendot3.jpg" /></a>
+		<a href="/images/workshops/kikk1.jpg" rel="lightbox[ws]" data-title="Kikk Festival, Namur, Nov 2016"><img src="/images/workshops/thumb_kikk1.jpg" /></a>
+		<a href="/images/workshops/nabi2.jpg" rel="lightbox[ws]" data-title="Art Center Nabi, Seoul, Dec 2016"><img src="/images/workshops/thumb_nabi2.jpg" /></a>
+		<a href="/images/workshops/influencers1.jpg" rel="lightbox[ws]" data-title="Influencers conference, Barcelona, Oct 2016"><img src="/images/workshops/thumb_influencers1.jpg" /></a>	
 	</div>
 	
 	<div class="workshops_section">

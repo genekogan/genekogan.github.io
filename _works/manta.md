@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Manta
+title: Manta interface
 description: Applications + interface for touch-sensitive controller
 collaborators: Jeff Snyder
 year: 2014

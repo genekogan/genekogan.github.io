@@ -11,7 +11,7 @@ title: "archive"
 	{% include project.md title="t-SNE iterations" %} 
 	{% include project.md title="Learning to generate text and audio" %} 
 	{% include project.md title="Augmented Bass" %} 
-	{% include project.md title="Manta" %} 
+	{% include project.md title="Manta interface" %} 
 	{% include project.md title="Gestural instruments" %} 
 	{% include project.md title="Processing shader examples" %} 
 	{% include project.md title="Tennis visualization" %} 
