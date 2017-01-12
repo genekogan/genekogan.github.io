@@ -1,9 +1,9 @@
 ---
 layout: work
-title: Why is a raven like a writing desk?
+title: Experiments with style transfer
 description: Recomposing images in the style of iconic paintings
 year: 2015
-thumbnail: /images/home/thumb_why-is-a-raven-like-a-writing-desk.jpg
+thumbnail: /images/home/thumb_style-transfer.jpg
 redirect_from: /works/style-transfer.html
 ---
 
@@ -25,10 +25,6 @@ Pablo Picasso [painting on glass in 1937](https://www.youtube.com/watch?v=CkRS3w
 	<img src="/images/style-transfer/mrdiv-klimt.gif" />
 </center>
 
-Tea party and riddle scene from [Alice in Wonderland](https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1951_film)) restyled by 17 iconic paintings.
-
-<center><iframe src="https://player.vimeo.com/video/139123754" width="800" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
-
 Mona Lisa restyled by Egyptian hieroglyphs, the Crab Nebula, and Google Maps.
 
 <center>
@@ -44,6 +40,11 @@ Mona Lisa restyled by Picasso, van Gogh, and Monet.
 <center>
 	<img src="/images/style-transfer/ml_cubist_expressionist_impressionist.jpg" />
 </center>
+
+
+Tea party and riddle scene from [Alice in Wonderland](https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1951_film)) restyled by 17 iconic paintings.
+
+<center><iframe src="https://player.vimeo.com/video/139123754" width="800" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
 A more recent [implementation for video style transfer](http://github.com/manuelruder/artistic-videos), with improved frame-to-frame stability by adding an optical-flow-based loss term to the normal content/style reconstruction loss terms. Based on [the paper and code by Manuel Ruder et al](http://arxiv.org/abs/1604.08610). Van Gogh / Hokusai / Google Maps / Basquiat applied to a [video overlooking Manhattan from the J-train](http://instagram.com/p/6tBxonA4pw/?taken-by=genekogan).
 
