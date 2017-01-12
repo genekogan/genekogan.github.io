@@ -27,4 +27,12 @@ includes: [jquery, lightbox]
 		<a href="/images/workshops/influencers1.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_influencers1.jpg" /></a>	
 		<a href="/images/workshops/nabi2.jpg" rel="lightbox[ws]"><img src="/images/workshops/thumb_nabi2.jpg" /></a>	
 	</div>
+	
+	<div class="workshops_section">
+		<div class="workshops_heading">&nbsp;</div>
+		<center>
+			<iframe src="https://player.vimeo.com/video/165294912?autoplay=0&color=1abc9c" width="800" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		</center>
+	</div>
+	
 </div>

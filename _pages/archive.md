@@ -4,13 +4,18 @@ title: "archive"
 ---
 
 <div id="works">
-	{% include project.md title="Wiki t-SNE" %} 
+	{% include project.md title="Experiments with Deep Generator Networks" %} 
+	{% include project.md title="Closed-captioning WaveNets" %} 
 	{% include project.md title="Deepdream prototypes" %} 
+	{% include project.md title="Wiki t-SNE" %} 
+	{% include project.md title="t-SNE iterations" %} 
 	{% include project.md title="Learning to generate text and audio" %} 
+	{% include project.md title="Augmented Bass" %} 
 	{% include project.md title="Manta" %} 
 	{% include project.md title="Gestural instruments" %} 
 	{% include project.md title="Processing shader examples" %} 
 	{% include project.md title="Tennis visualization" %} 
+	{% include project.md title="VJing stills" %} 
 	{% include project.md title="Robot Shakespeare" %}
 	{% include project.md title="Tip of the Tongue" %} 
 	{% include project.md title="The Rub" %} 
@@ -31,7 +36,7 @@ title: "archive"
 	{% include project.md title="Stars" %} 
 	{% include project.md title="Timelapse cubism" %} 
 	{% include project.md title="Mosaic" %} 
-	{% include project.md title="Pop chemistry" %} 
 	{% include project.md title="Meditation" %} 
 	{% include project.md title="Sonic self-portrait" %} 
+	{% include project.md title="Pop chemistry" %} 
 </div>
