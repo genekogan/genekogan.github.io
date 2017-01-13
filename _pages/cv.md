@@ -4,6 +4,7 @@ title: "CV"
 ---
 
 {% assign cv = site.data.cv %}
+{% assign include_extended = false %}
 
 <div id="about">
 	<div id="cv_bio">
@@ -26,8 +27,8 @@ title: "CV"
 	<div class="cv_section">
 		<div class="cv_heading">Talks</div>
 		{% for c in cv.talks %}
-		{% if c.extended != true %}
-		<div class="talk">
+		{% if c.extended != true or include_extended == true %}
+		<div class="cv_entry">
 			<div class="date">{{ c.date }}</div>
 			<div class="where">{{ c.where }}</div>
 			<div class="name">{{ c.name }}</div>
@@ -55,8 +56,8 @@ title: "CV"
 	<div id="teaching" class="cv_section">
 		<div class="cv_heading">Teaching</div>
 		{% for c in cv.teaching %}
-		{% if c.extended != true %}
-		<div class="teaching_">
+		{% if c.extended != true or include_extended == true %}
+		<div class="cv_entry">
 			<div class="date">{{ c.dates }}</div>
 			<div class="where">{{ c.where }}</div>
 			<div class="name">{{ c.name }}</div>
@@ -89,7 +90,7 @@ title: "CV"
 	<div class="cv_section">
 		<div class="cv_heading">Residencies</div>
 		{% for c in cv.residencies %}
-		<div class="residency">
+		<div class="cv_entry">
 			<div class="date">{{ c.dates }}</div>
 			<div class="where">{{ c.where }}</div>
 			<div class="name">{{ c.name }}</div>
@@ -111,7 +112,7 @@ title: "CV"
 	<div class="cv_section">
 		<div class="cv_heading">Publications</div>
 		{% for c in cv.publications %}
-		<div class="publication">
+		<div class="cv_entry">
 			<div class="date">{{ c.date }}</div>
 			<div class="where">{{ c.authors }}</div>
 			<div class="name">"{{c.title}}" @ {{c.publication}}</div>
@@ -132,13 +133,13 @@ title: "CV"
 	</div>
 	<div class="cv_section">
 		<div class="cv_heading">Education, grants/awards</div>
-		<div class="education">
+		<div class="cv_entry">
 			<div class="date">2012-2013</div>
 			<div class="where"><a href="http://srishti.ac.in/">Srishti School of Art</a>, Design & Technology, Bangalore, India</div>
 			<div class="name">Fulbright Scholarship</div>
 			<div class="links"><div class="info_link"><a href="http://www.usief.org.in/2012-2013-USFellows/students/Kogan-Gennady.html">[info]</a></div></div>
 		</div>
-		<div class="education">
+		<div class="cv_entry">
 			<div class="date">2004-2008</div>
 			<div class="where"><a href="http://apam.columbia.edu/">Columbia University</a>, New York, NY</div>
 			<div class="name">B.S. Applied mathematics</div>

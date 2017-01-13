@@ -141,9 +141,9 @@ ul li {
     font-size:1.4em;
     margin-bottom:5px;
 }
-.talk, .teaching_, .residency, .publication, .education {
+.cv_entry {
     background-color: #eee;
-    margin:3px;
+    margin:2px;
     padding:3px;
     min-width:750px;
     max-width:1025px;

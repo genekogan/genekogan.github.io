@@ -25,7 +25,7 @@
 		},{
 			"date":"2016 Dec 3", 
 			"where":"<a href=\"http://www.coex.co.kr/\">COEX</a>, Seoul, South Korea",
-			"name":"Talk at Nabi Global AI hackathon",
+			"name":"Talk at <a href=\"http://nabihackathon.com/\">Nabi Global AI hackathon</a>",
 			"info":"http://nabi.or.kr/english/project/coming_read.nab?idx=543"
 		},{
 			"date":"2016 Nov 28",
@@ -70,7 +70,7 @@
 		},{
 			"date":"2016 Aug 23",
 			"where":"<a href=\"http://lacunalab.com/\">Lacuna Lab</a>, Berlin, Germany",
-			"name":"Interview with Kadenze.com",
+			"name":"Interview with <a href=\"http://www.kadenze.com\">Kadenze</a>",
 			"info":"https://vimeo.com/183574755",
 			"video":"https://vimeo.com/183574755"
 		},{
@@ -170,7 +170,7 @@
 		},{
 			"date":"2013 Jun 23",
 			"where":"Terminal Garden, Manila, Philippines",
-			"name":"Bedroom Lab talk (with Debbie Ding)",
+			"name":"Bedroom Lab talk (with <a href=\"http://dbbd.sg/\">Debbie Ding</a>)",
 			"info":"http://www.officeocd.com/events/wntgspsgk/"
 		},{
 			"date":"2013 Feb 24", 
@@ -181,7 +181,7 @@
 		},{
 			"date":"2013 Jan 24",
 			"where":"<a href=\"http://www.bicentre.org/\">Bangalore International Centre</a>, Bangalore, India",
-			"name":"Urban incantations at <a href=\"http://srishti.ac.in/mmf/docs/ModernitiesBookletFinal2013.pdf\">Mediating Modernities</a>",
+			"name":"<a href=\"http://srishti.ac.in/mmf/docs/ModernitiesBookletFinal2013.pdf\">Urban incantations</a> (with <a href=\"http://cis-india.org/author/sharath\">Sharath Chandra Ram</a>)",
 			"info":"http://cema.srishti.ac.in/birdseyeview/items/show/112"
 		},{
 			"date":"2012 Nov 30", 
@@ -203,17 +203,17 @@
 		},{
 			"date":"2011 Dec 7", 
 			"where":"<a href=\"http://www.location1.org/\">Location One</a>, New York, NY",
-			"name":"Dorkbot",
+			"name":"<a href=\"http://dorkbot.org/\">Dorkbot</a>",
 			"info":"http://dorkbot.org/dorkbotnyc/07.dec.2011/images/"
 		},{
 			"date":"2010 Nov 10", 
 			"where":"<a href=\"https://www.siam.org/students/chapters/current/columbia.php\">SIAM</a>, Columbia University, New York, NY",
-			"name":"Sourcetone: Learning the Mood of Music",
+			"name":"<a href=\"http://www.sourcetone.com/\">Sourcetone</a>: Learning the Mood of Music",
 			"info":"http://www.scribd.com/doc/42486386/Sourcetone-Presentation-bit-ly-math-startup-11-10-10"
 		},{
 			"date":"2009 Nov 16", 
 			"where":"<a href=\"https://www.siam.org/students/chapters/current/columbia.php\">SIAM</a>, Columbia University, New York, NY",
-			"name":"Seminar Talk (with Gold Truong)",
+			"name":"Seminar Talk (with <a href=\"https://about.me/goldtruong\">Gold Truong</a>)",
 			"info":"http://www.columbiaspectator.com/2009/11/19/crunching-numbers-math-beyond-finance"
 		},{
 			"date":"2008 May",
@@ -311,7 +311,7 @@
 		},{
 			"dates":"2016 May 22", 
 			"where":"<a href=\"sfpc.io\">School for Poetic Computation</a>, New York, NY",
-			"name":"Visualizing high-dimensional data, alt-AI",
+			"name":"Visualizing high-dimensional data, <a href=\"http://alt-ai.net\">alt-AI</a>",
 			"info":"http://alt-ai.net/#workshops",
 			"photo":"http://blog.sfpc.io/post/145354482196/from-workshops-and-conference-of-alt-ai-video-of"
 		},{
@@ -340,7 +340,7 @@
 		},{
 			"dates":"2015 Sep-Dec", 
 			"where":"<a href=\"http://www.bennington.edu/academics/areas-of-study-curriculum/visual-arts\">Bennington College</a>, Bennington, VT",
-			"name":"Generative Art with p5.js (DA2108)",
+			"name":"Generative Art with <a href=\"https://p5js.org\">p5.js</a> (DA2108)",
 			"info":"http://curriculum.bennington.edu/fall2015/2015/05/14/generative-art-with-processing/",
 			"code":"https://github.com/genekogan/Bennington_GenerativeArt"
 		},{
@@ -357,11 +357,11 @@
 		},{
 			"dates":"2015 Apr 11-12", 
 			"where":"<a href=\"http://www.newschool.edu/parsons/mfa-design-technology/\">Parsons MFA-DT</a>, New School, New York, NY",
-			"name":"Quad-C lectures on computer vision & KinectProjectorToolkit"
+			"name":"Quad-C lectures on computer vision & <a href=\"/works/kinect-projector-toolkit/\">KinectProjectorToolkit</a>"
 		},{
 			"dates":"2015 Feb 1", 
 			"where":"<a href=\"http://www.jaaga.in\">Jaaga</a>, Bangalore, India",
-			"name":"Interactive environments (with Alec Schachner)",
+			"name":"Interactive environments (with <a href=\"http://sheikspear.wixsite.com/kyta/alec\">Alec Schachner</a>)",
 			"info":"https://www.facebook.com/events/666300566825567"
 		},{
 			"dates":"2014 Sep", 
@@ -371,16 +371,16 @@
 		},{
 			"dates":"2014 Jan 24", 
 			"where":"<a href=\"http://zerostationvn.org/ga0/\">Zero Station</a>, Ho Chi Minh City, Vietnam",
-			"name":"KinectProjectorToolkit workshop"
+			"name":"<a href=\"/works/kinect-projector-toolkit/\">KinectProjectorToolkit</a> workshop"
 		},{
 			"dates":"2013 Nov 2-3", 
 			"where":"<a href=\"http://lispher.ph/\">Lispher Inn</a>, Davao, Philippines",
-			"name":"UnifiedField workshop on free software & art",
+			"name":"<a href=\"http://www.theunifiedfield.org/artist_in_residence\">UnifiedField</a> workshop on free software & art",
 			"info":"http://www.theunifiedfield.org/archives/3471"
 		},{
 			"dates":"2013 Oct 26",
 			"where":"<a href=\"http://www.greyprojects.org//\">Grey Projects</a>, Singapore",
-			"name":"New media & projection mapping (with Tengal Drilon & <a href=\"https://soundcloud.com/joee-mejias\">Joee Mejias</a>)",
+			"name":"New media & projection mapping (with <a href=\"http://en.wikipilipinas.org/index.php/Tengal_Drilon\">Tengal Drilon</a> & <a href=\"https://soundcloud.com/joee-mejias\">Joee Mejias</a>)",
 			"info":"http://www.greyprojects.org/index.php/new-media-sound-and-projection-mapping-workshop/"
 		},{
 			"dates":"2013 Aug 7-9",
@@ -417,7 +417,7 @@
 		},{
 			"dates":"2010 Oct 28", 
 			"where":"<a href=\"http://www.harvestworks.org\">Harvestworks</a>, New York, NY",
-			"name":"Field recording workshop (with Filipe Chagas)"
+			"name":"Field recording workshop (with <a href=\"https://vimeo.com/user1055167/\">Filipe Chagas</a>)"
 		}
 	],
 	"residencies":[
@@ -445,13 +445,13 @@
 		},{
 			"dates":"2015 Mar",
 			"where":"<a href=\"http://whitebuilding.org\">White Building</a>, Phnom Penh, Cambodia",
-			"name":"Sa Sa Art Projects artist-in-residency",
+			"name":"<a href=\"http://www.sasaart.info/\">Sa Sa Art Projects</a> artist-in-residency",
 			"info":"http://whitebuilding.org/en/film/paths-experimental-performances-rehearsal-2015",
 			"video":"https://www.youtube.com/watch?v=Qxs5WB3017g"
 		},{
 			"dates":"2013 Nov",
 			"where":"Davao City, Philippines",
-			"name":"Unifiedfield artist-in-residency",
+			"name":"<a href=\"http://www.theunifiedfield.org/artist_in_residence\">Unifiedfield</a> artist-in-residency",
 			"info":"http://www.theunifiedfield.org/archives/3471",
 			"video":"https://vimeo.com/78801880"
 		},{
