@@ -1,14 +1,18 @@
 {
 	"talks":[
 		{
-			"date":"2017 Apr", 
-			"where":"Resonate Festival, Belgrade, Serbia",
+			"date":"2017 May 24", 
+			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
 			"name":"",
-			"photo":"",
 			"extended":true
 		},{
-			"date":"2017 Feb", 
-			"where":"ML meetup (w/ Memo Akten), London, England",
+			"date":"2017 Apr", 
+			"where":"<a href=\"http://www.resonate.io/2017/\">Resonate Festival</a>, Belgrade, Serbia",
+			"name":"",
+			"extended":true
+		},{
+			"date":"2017 Feb 20", 
+			"where":"ML meetup (with <a href=\"http://www.memo.tv/category/work/by-type/\">Memo Akten</a>), London, England",
 			"name":"",
 			"extended":true
 		},{
@@ -19,7 +23,7 @@
 		},{
 			"date":"2017 Jan 3", 
 			"where":"<a href=\"https://www.recurse.com/\">Recurse Center</a>, New York, NY",
-			"name":"Resident talk",
+			"name":"Researcher-in-residence talk",
 			"photo":"https://twitter.com/recursecenter/status/816446455179251712",
 			"extended":true
 		},{
@@ -46,19 +50,19 @@
 			"info":"https://www.meetup.com/berlin-machine-learning/events/229181527/"
 		},{
 			"date":"2016 Nov 4",
-			"where":"Kikk Festival, Namur, Belgium",
+			"where":"<a href=\"http://www.kikk.be\">Kikk Festival</a>, Namur, Belgium",
 			"name":"Adversarial Nets",
 			"info":"http://www.kikk.be/2016/en/program/conferences/gene-kogan",
 			"video":"https://vimeo.com/197495131"
 		},{
 			"date":"2016 Oct 19-20", 
-			"where":"The Influencers, Barcelona, Spain",
+			"where":"<a href=\"http://theinfluencers.org/\">The Influencers</a>, Barcelona, Spain",
 			"name":"<a href=\"http://theinfluencers.org/ca/machine-learning-for-activists\">Machine learning for activists</a>",
 			"info":"http://theinfluencers.org/",
 			"extended":true
 		},{
 			"date":"2016 Oct 7", 
-			"where":"Retune Festival, Berlin, Germany",
+			"where":"<a href=\"https://retune.de/\">Retune Festival</a>, Berlin, Germany",
 			"name":"Machine learning for artists",
 			"info":"https://retune.de/festival/2016/artists/#Gene-Kogan"
 		},{
@@ -97,13 +101,13 @@
 			"extended":true
 		},{
 			"date":"2016 Jun 9",
-			"where":"Eyeo Festival, Minneapolis, MN",
+			"where":"<a href=\"http://www.eyeofestival.com\">Eyeo Festival</a>, Minneapolis, MN",
 			"name":"The Neural Aesthetic",
 			"info":"http://eyeofestival.com/2016/speaker/gene-kogan/",
 			"video":"https://vimeo.com/180044029"
 		},{
 			"date":"2016 May 21", 
-			"where":"<a href=\"sfpc.io\">School for Poetic Computation</a>, New York, NY",
+			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
 			"name":"<a href=\"http://alt-ai.net\">alt-AI</a>",
 			"info":"http://alt-ai.net/#people"
 		},{
@@ -174,7 +178,7 @@
 			"info":"http://www.officeocd.com/events/wntgspsgk/"
 		},{
 			"date":"2013 Feb 24", 
-			"where":"Carnival of E-Creativity, Bhimtal, India",
+			"where":"<a href=\"http://www.theaea.org/cec_cac/cec13/\">Carnival of E-Creativity</a>, Bhimtal, India",
 			"name":"Artist talk at CEC-13",
 			"info":"http://www.theaea.org/cec_cac/cec13/",
 			"photo":"http://www.theaea.org/cec_cac/cec13/cec13pix.htm"
@@ -230,22 +234,22 @@
 	"teaching":[
 		{
 			"date":"2017 Jun 26", 
-			"where":"Eyeo Festival, Minneapolis, MN",
+			"where":"<a href=\"http://www.eyeofestival.com\">Eyeo Festival</a>, Minneapolis, MN",
 			"name":"",
 			"extended":true
 		},{
 			"date":"2017 Jun 12-16", 
-			"where":"CIID, Copenhagen, Denmark",
+			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
 			"name":"Machine learning for designers",
 			"extended":true
 		},{
 			"date":"2017 Apr 24-28", 
-			"where":"ECAL, Lausanne, Switzerland",
+			"where":"<a href=\"http://ecal.ch/fr/100/homepage\">Ecole cantonale d'art</a>, Lausanne, Switzerland",
 			"name":"",
 			"extended":true
 		},{
 			"date":"2017 Apr", 
-			"where":"Resonate Festival, Belgrade, Serbia",
+			"where":"<a href=\"http://www.resonate.io/2017/\">Resonate Festival</a>, Belgrade, Serbia",
 			"name":"",
 			"extended":true
 		},{
@@ -255,7 +259,7 @@
 			"extended":true
 		},{
 			"date":"2017 Feb 18-19", 
-			"where":"Machine Room, London, England",
+			"where":"<a href=\"http://machinesroom.org/\">Machines Room<a/>, London, England",
 			"name":"",
 			"extended":true
 		},{
@@ -277,18 +281,18 @@
 			"video":"http://ml4a.github.io/classes/opendot/"
 		},{
 			"dates":"2016 Nov 5", 
-			"where":"Kikk Festival, Namur, Belgium",
+			"where":"<a href=\"http://www.kikk.be\">Kikk Festival</a>, Namur, Belgium",
 			"name":"Machine learning for artists",
 			"info":"http://www.kikk.be/2016/en/program/workshops/machine-learning-for-artists",
 			"photo":"https://www.flickr.com/photos/kikk_festival/30702838651/in/album-72157672531263603/"
 		},{
 			"dates":"2016 Oct 19-20", 
-			"where":"The Influencers, Barcelona, Spain",
+			"where":"<a href=\"http://theinfluencers.org/\">The Influencers</a>, Barcelona, Spain",
 			"name":"Machine learning for activists",
 			"info":"http://theinfluencers.org/ca/machine-learning-for-activists"
 		},{
 			"dates":"2016 Oct 6", 
-			"where":"Retune Festival, Berlin, Germany",
+			"where":"<a href=\"https://retune.de/\">Retune Festival</a>, Berlin, Germany",
 			"name":"Machine learning for artists",
 			"info":"https://retune.de/festival/2016/workshops/#Gene-Kogan"
 		},{
@@ -299,7 +303,7 @@
 		},{
 			"dates":"2016 Jul 4-29", 
 			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
-			"name":"The Neural Aesthetic",
+			"name":"The Neural Aesthetic (with <a href=\"https://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths/welcome.html\">Rebecca Fiebrink</a>)",
 			"info":"http://schoolofma.org/neural-aesthetic/",
 			"video":"http://ml4a.github.io/classes/neural-aesthetic/"
 		},{
@@ -310,7 +314,7 @@
 			"video":"http://ml4a.github.io/classes/itp-S16/07/"
 		},{
 			"dates":"2016 May 22", 
-			"where":"<a href=\"sfpc.io\">School for Poetic Computation</a>, New York, NY",
+			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
 			"name":"Visualizing high-dimensional data, <a href=\"http://alt-ai.net\">alt-AI</a>",
 			"info":"http://alt-ai.net/#workshops",
 			"photo":"http://blog.sfpc.io/post/145354482196/from-workshops-and-conference-of-alt-ai-video-of"
@@ -365,7 +369,7 @@
 			"info":"https://www.facebook.com/events/666300566825567"
 		},{
 			"dates":"2014 Sep", 
-			"where":"33 Flatbush, New York, NY",
+			"where":"<a href=\"http://www.metropolitanexchange.org/\">Metropolitan Exchange</a>, New York, NY",
 			"name":"Generative Arts workshop at <a href=\"http://www.ofcn.io/\">OF Course</a>",
 			"info":"http://www.ofcn.io/previous-class/"
 		},{
@@ -433,7 +437,7 @@
 			"info":"https://medium.com/dbrs-innovation-labs/machine-learning-for-artists-7a3689a34e9e#.jvwunjd1g"
 		},{
 			"dates":"2015 Sep-Oct",
-			"where":"<a href=\"sfpc.io\">School for Poetic Computation</a>, New York, NY",
+			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
 			"name":"Artist-in-residence",
 			"info":"http://sfpc.io/people/gene-kogan/"
 		},{
@@ -457,7 +461,7 @@
 		},{
 			"dates":"2012 Sep-Dec",
 			"where":"<a href=\"http://www.jaaga.in\">Jaaga</a>, Bangalore, India",
-			"name":"Artist-in-resident at Jaaga"
+			"name":"Artist-in-resident at <a href=\"http://www.jaaga.in\">Jaaga</a>"
 		}
 	],
 	"publications":[

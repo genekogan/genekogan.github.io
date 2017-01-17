@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "CV"
+redirect_from: 
+ - /about.html
+ - /about/
 ---
 
 {% assign cv = site.data.cv %}
