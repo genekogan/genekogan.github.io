@@ -233,33 +233,33 @@
 	],
 	"teaching":[
 		{
-			"date":"2017 Jun 26", 
+			"dates":"2017 Jun 26", 
 			"where":"<a href=\"http://www.eyeofestival.com\">Eyeo Festival</a>, Minneapolis, MN",
 			"name":"",
 			"extended":true
 		},{
-			"date":"2017 Jun 12-16", 
+			"dates":"2017 Jun 12-16", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
 			"name":"Machine learning for designers",
 			"extended":true
 		},{
-			"date":"2017 Apr 24-28", 
+			"dates":"2017 Apr 24-28", 
 			"where":"<a href=\"http://ecal.ch/fr/100/homepage\">Ecole cantonale d'art</a>, Lausanne, Switzerland",
 			"name":"",
 			"extended":true
 		},{
-			"date":"2017 Apr", 
+			"dates":"2017 Apr 17-19", 
 			"where":"<a href=\"http://www.resonate.io/2017/\">Resonate Festival</a>, Belgrade, Serbia",
 			"name":"",
 			"extended":true
 		},{
-			"date":"2017 Apr", 
+			"dates":"2017 Apr 3-16", 
 			"where":"<a href=\"http://spektrumberlin.de\">School of Machines</a>, Belgrade, Serbia",
 			"name":"",
 			"extended":true
 		},{
-			"date":"2017 Feb 18-19", 
-			"where":"<a href=\"http://machinesroom.org/\">Machines Room<a/>, London, England",
+			"dates":"2017 Feb 18-19", 
+			"where":"<a href=\"http://machinesroom.org/\">Machines Room</a>, London, England",
 			"name":"",
 			"extended":true
 		},{

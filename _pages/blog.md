@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "blog"
+redirect_from: /writing/
 ---
 
 {% for post in site.writings %}

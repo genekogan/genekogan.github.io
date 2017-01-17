@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CV"
+title: CV
 redirect_from: 
  - /about.html
  - /about/
