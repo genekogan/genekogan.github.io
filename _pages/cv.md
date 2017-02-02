@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 {% assign cv = site.data.cv %}
-{% assign include_extended = true %}
+{% assign include_extended = false %}
 
 <div id="about">
 	<div id="cv_bio">
