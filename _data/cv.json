@@ -1,7 +1,7 @@
 {
 	"talks":[
 		{
-			"date":"2017 May 24", 
+			"date":"2017 May 22", 
 			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
 			"name":"",
 			"extended":true
@@ -16,9 +16,14 @@
 			"name":"",
 			"extended":true
 		},{
+			"date":"2017 Jan", 
+			"where":"<a href=\"https://www.neural.it\">Neural Magazine</a>",
+			"name":"Interview for Neural Magazine",
+			"extended":true
+		},{
 			"date":"2017 Jan 27", 
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
-			"name":"",
+			"name":"Machine relearning",
 			"extended":true
 		},{
 			"date":"2017 Jan 3", 
@@ -30,7 +35,8 @@
 			"date":"2016 Dec 3", 
 			"where":"<a href=\"http://www.coex.co.kr/\">COEX</a>, Seoul, South Korea",
 			"name":"Talk at <a href=\"http://nabihackathon.com/\">Nabi Global AI hackathon</a>",
-			"info":"http://nabi.or.kr/english/project/coming_read.nab?idx=543"
+			"info":"http://nabi.or.kr/english/project/coming_read.nab?idx=543",
+			"photo":"http://www.nabi.or.kr/english/project/current_read.nab?idx=541"
 		},{
 			"date":"2016 Nov 28",
 			"where":"<a href=\"http://www.merz-akademie.de/\">Merz Akademie</a>, Stuttgart, Germany",
@@ -121,6 +127,12 @@
 			"name":"Maching learning for artists",
 			"info":"https://www.eventbrite.com/e/ocr-friday-with-gene-kogan-tickets-22694338377#"
 		},{
+			"date":"2016 Mar 24", 
+			"where":"<a href=\"https://www.clarifai.com/\">Clarifai</a>, New York, NY",
+			"name":"Maching learning for artists",
+			"info":"",
+			"extended":true
+		},{
 			"date":"2016 Mar 21", 
 			"where":"NYU LaGuardia Co-op, New York, NY",
 			"name":"Machine learning for artists",
@@ -146,6 +158,11 @@
 			"where":"<a href=\"https://pioneerworks.org/\">Pioneer Works</a>, New York, NY",
 			"name":"Software for Artists Day",
 			"info":"https://pioneerworks.org/s4ad/",
+		},{
+			"date":"2015 Oct 18", 
+			"where":"<a href=\"http://aum.dartmouth.edu/~avsynth/2015/\">Workshop in the Woods</a>, Dartmouth College, NH",
+			"name":"New Approaches to Audiovisual Synthesis using Deep Learning",
+			"info":"http://aum.dartmouth.edu/~avsynth/2015/wiki/doku.php?id=gene_kogan"
 		},{
 			"date":"2015 Mar 30", 
 			"where":"<a href=\"http://magnet.nyu.edu/\">NYU-Poly MAGNET</a>, Brooklyn, NY",
@@ -260,7 +277,8 @@
 		},{
 			"dates":"2017 Feb 18-19", 
 			"where":"<a href=\"http://machinesroom.org/\">Machines Room</a>, London, England",
-			"name":"",
+			"name":"Machine learning for artists",
+			"info":"http://machinesroom.co.uk/classes-workshops/gene-kogan-machine-learning-for-artists-31105139309/",
 			"extended":true
 		},{
 			"dates":"2016 Dec 16", 
@@ -519,4 +537,11 @@ info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
 	<li>Tip of the Tongue</li>
 	<li>The Rub</li>
 </ul>
+// Starving computer scientists: how to make no money in machine learning
+
+// new:
+ - Amsterdam workshops
+ - Strelka @ Moscow
+ - ECAL
+ - HEAD Geneva
 */
