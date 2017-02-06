@@ -1,9 +1,9 @@
 ---
-layout: blog
-title: "Visualizing my field recordings"
-subtitle: ""
-comments: true
-date: 2012/9/7
+layout: work
+title: Visualizing my field recordings
+description: Visualizing field recording samples with PCA and audio analysis
+year: 2012
+thumbnail: /images/home/thumb_field-rec-navigator.jpg
 redirect_from: /writing/field-rec-navigator.html
 ---
 
@@ -20,14 +20,14 @@ redirect_from: /writing/field-rec-navigator.html
 	Because I compile many hours of recordings, I can gain some agility in managing my collection via audio processing techniques to help organize those sounds along various parameters of interest, and find clusters of similar sounds and complementary sound pairs. I am aided here by <a href="https://www.jyu.fi/hum/laitokset/musiikki/en/research/coe/materials/mirtoolbox">MIRtoolbox</a>, a MATLAB-based library for <a href="http://en.wikipedia.org/wiki/Music_information_retrieval">music information retrieval</a>, made by a group at the University of Jyväskylä in Finland. MIRtoolbox fluidly handles a number of common audio tasks. With it I automatically segmented the raw recordings into a collection of relatively self-contained sound events ranging from half a second  to  more than 10 seconds long. The segmentation algorithm attempts to optimally divide each recording to maximize the dissimilarity among all segment pairs, example shown below.
 </p>
 	<center>
-	<a href="../images/writing/audio-segmentation.jpg" rel="lightbox[fieldrecnav]"><img src="../images/writing/thumb_audio-segmentation.jpg" /></a>
+	<a href="/images/field-rec-navigator/audio-segmentation.jpg" rel="lightbox[fieldrecnav]"><img src="/images/field-rec-navigator/thumb_audio-segmentation.jpg" /></a>
 	</center>
 <p>
 	I then extract features from the segments, which are various quantities characterizing the dynamics and timbre of the sound, providing for a compact representation of each segment, with similar groups of sounds having relatively similar representations (ideally). Some of those features are shown below: spectral flux is a measure of the dispersion of the sound among all frequency bands (loosely related to the "noisiness" of the sound), roughness can be interpreted as a measure of dissonance in the signal, brightness is a measure of how much of the sound's energy is contained in frequencies above 1500 Hz, and RMS (root mean squared) energy corresponds to the average energy level, correlating to loudness.
 </p>
 <p>
 	<center>
-	<a href="../images/writing/audio-features.jpg" rel="lightbox[fieldrecnav]"><img src="../images/writing/thumb_audio-features.jpg" /></a>
+	<a href="/images/field-rec-navigator/audio-features.jpg" rel="lightbox[fieldrecnav]"><img src="/images/field-rec-navigator/thumb_audio-features.jpg" /></a>
 	</center>
 </p>
 <p>
@@ -35,7 +35,7 @@ redirect_from: /writing/field-rec-navigator.html
 </p>
 <p>
 	<center>
-	<a href="../images/writing/field-rec-3d.jpg" rel="lightbox[fieldrecnav]"><img src="../images/writing/thumb_field-rec-3d.jpg" /></a>
+	<a href="/images/field-rec-navigator/field-rec-3d.jpg" rel="lightbox[fieldrecnav]"><img src="/images/field-rec-navigator/thumb_field-rec-3d.jpg" /></a>
 	</center>
 </p>
 <p>

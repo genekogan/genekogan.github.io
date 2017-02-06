@@ -1,9 +1,9 @@
 ---
-layout: blog
-title: "Logger"
-subtitle: ""
-comments: true
-date: 2012/9/25
+layout: work
+title: Logger
+description: Software for daily life log
+year: 2012
+thumbnail: /images/home/thumb_logger.jpg
 redirect_from: /writing/intro-to-logger.html
 ---
 

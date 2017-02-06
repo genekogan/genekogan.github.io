@@ -23,6 +23,7 @@ title: "archive"
 	{% include project.md title="Spectrogram sculptures" %} 
 	{% include project.md title="ofxLearn" %} 
 	{% include project.md title="Interference" %} 
+	{% include project.md title="Visualizing my field recordings" %} 
 	{% include project.md title="Tidy photography" %} 
 	{% include project.md title="Vertex rivers" %} 
 	{% include project.md title="Tree" %} 
