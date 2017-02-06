@@ -5,6 +5,7 @@ description: Visualizing field recording samples with PCA and audio analysis
 year: 2012
 thumbnail: /images/home/thumb_field-rec-navigator.jpg
 redirect_from: /writing/field-rec-navigator.html
+includes: [jquery, lightbox]
 ---
 
 {::nomarkdown}
