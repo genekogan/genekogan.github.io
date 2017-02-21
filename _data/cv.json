@@ -11,11 +11,16 @@
 			"name":"",
 			"extended":true
 		},{
+			"date":"2017 Feb 27", 
+			"where":"<a href=\"\">Mobiskill</a>, Paris, France",
+			"name":"Hors serie : Machine Learning for Arts",
+			"info":"https://www.meetup.com/Paris-Machine-learning-applications-group/events/237699459/"
+		},{
 			"date":"2017 Feb 20", 
 			"where":"<a href=\"https://www.digitalcatapultcentre.org.uk/\">Digital Catapult Centre</a>, London, England",
 			"name":"Artists and Machine Learning (with <a href=\"http://www.memo.tv/category/work/by-type/\">Memo Akten</a>)",
 			"info":"https://www.eventbrite.co.uk/e/artists-and-machine-learning-registration-31817203111",
-			"extended":true
+			"photo":"https://twitter.com/elluba/status/833759776018399232"
 		},{
 			"date":"2017 Jan", 
 			"where":"<a href=\"https://www.neural.it\">Neural Magazine</a>",
@@ -272,15 +277,24 @@
 			"extended":true
 		},{
 			"dates":"2017 Apr 3-16", 
-			"where":"<a href=\"http://spektrumberlin.de\">School of Machines</a>, Belgrade, Serbia",
-			"name":"",
+			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Belgrade, Serbia",
+			"name":"Thinking and Feeling",
 			"extended":true
+		},{
+			"dates":"2017 Mar 7", 
+			"where":"<a href=\"http://spektrumberlin.de\">Spektrum</a>, Berlin, Germany",
+			"name":"Real-time applications of machine learning",
+			"info":"http://spektrumberlin.de/workshops/detail/real-time-applications-of-machine-learning.html",
+		},{
+			"dates":"2017 Feb 28", 
+			"where":"<a href=\"http://www.newschool.edu/parsons-paris/\">Parsons MFA-DT</a>, Paris, France",
+			"name":"D+TM #49: Intro to Machine Learning",
+			"info":"http://paris.parsons.edu/amt/dtm-49-gene-kogan/",
 		},{
 			"dates":"2017 Feb 18-19", 
 			"where":"<a href=\"http://machinesroom.org/\">Machines Room</a>, London, England",
 			"name":"Machine learning for artists",
 			"info":"http://machinesroom.co.uk/classes-workshops/gene-kogan-machine-learning-for-artists-31105139309/",
-			"extended":true
 		},{
 			"dates":"2016 Dec 16", 
 			"where":"<a href=\"http://isi.ac.id/\">Institute of the Arts</a>, Yogyakarta, Indonesia",
@@ -540,9 +554,26 @@ info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
 </ul>
 // Starving computer scientists: how to make no money in machine learning
 
-// new:
- - Amsterdam workshops
- - Strelka @ Moscow
- - ECAL
- - HEAD Geneva
+New workshops
+ x MachinesRoom London
+ x Parsons @ Paris
+ x Spektrum 3/7
+ - Amsterdam CCAmsterdam + Sam
+ - Strelka 
+ - SchoolOfMa Thinking + Feeling
+ - Resonate
+ - ECAL Lausanne
+ - CIID
+ - Eyeo
+ ? CIID summer school
+ ? CIID New York
+ 
+Talks
+ x London CreativeAI w/ Memo
+ x Paris ML meetup group
+ - Resonate
+ - Sensorium Bratislava
+ - HEAD Geneva 1 + ECAL Lausanne
+ - HEAD Geneva 2
+ ? Shanghai
 */
