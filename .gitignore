@@ -1,3 +1,5 @@
 _site/
 .DS_Store
 Gemfile.lock
+
+_writings/the-enemy-of-my-enemy.md
