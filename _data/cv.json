@@ -12,7 +12,7 @@
 			"extended":true
 		},{
 			"date":"2017 Feb 27", 
-			"where":"<a href=\"\">Mobiskill</a>, Paris, France",
+			"where":"<a href=\"https://mobiskill.fr/\">Mobiskill</a>, Paris, France",
 			"name":"Hors serie : Machine Learning for Arts",
 			"info":"https://www.meetup.com/Paris-Machine-learning-applications-group/events/237699459/"
 		},{
@@ -284,7 +284,7 @@
 			"dates":"2017 Mar 7", 
 			"where":"<a href=\"http://spektrumberlin.de\">Spektrum</a>, Berlin, Germany",
 			"name":"Real-time applications of machine learning",
-			"info":"http://spektrumberlin.de/workshops/detail/real-time-applications-of-machine-learning.html",
+			"info":"http://spektrumberlin.de/events/detail/real-time-applications-of-machine-learning.html",
 		},{
 			"dates":"2017 Feb 28", 
 			"where":"<a href=\"http://www.newschool.edu/parsons-paris/\">Parsons MFA-DT</a>, Paris, France",
@@ -332,7 +332,7 @@
 			"dates":"2016 Oct 1", 
 			"where":"<a href=\"http://spektrumberlin.de\">Spektrum</a>, Berlin, Germany",
 			"name":"Machine learning for artists",
-			"info":"http://spektrumberlin.de/workshops/detail/workshop-machine-learning-for-artists-with-gene-kogan.html"
+			"info":"http://spektrumberlin.de/events/detail/workshop-machine-learning-for-artists-with-gene-kogan.html"
 		},{
 			"dates":"2016 Jul 4-29", 
 			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
