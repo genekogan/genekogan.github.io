@@ -11,10 +11,17 @@
 			"name":"",
 			"extended":true
 		},{
+			"date":"2017 Mar 9",
+			"where":"<a href=\"http://www.pankeculture.com/\">Panke</a>, Berlin, Germany",
+			"name":"<a href=\"http://scopesessions.org/\">Scope Sessions #63</a>",
+			"info":"https://www.facebook.com/events/165734697268218/",
+			"extended":true
+		},{
 			"date":"2017 Feb 27", 
 			"where":"<a href=\"https://mobiskill.fr/\">Mobiskill</a>, Paris, France",
 			"name":"Hors serie : Machine Learning for Arts",
-			"info":"https://www.meetup.com/Paris-Machine-learning-applications-group/events/237699459/"
+			"info":"http://nuit-blanche.blogspot.de/2017/02/ce-soir-paris-machine-learning-hors.html",
+			"video":"https://www.youtube.com/watch?v=OdNxwTgRkqg"
 		},{
 			"date":"2017 Feb 20", 
 			"where":"<a href=\"https://www.digitalcatapultcentre.org.uk/\">Digital Catapult Centre</a>, London, England",
@@ -258,7 +265,7 @@
 		{
 			"dates":"2017 Jun 26", 
 			"where":"<a href=\"http://www.eyeofestival.com\">Eyeo Festival</a>, Minneapolis, MN",
-			"name":"",
+			"name":"Machine learning for artists",
 			"extended":true
 		},{
 			"dates":"2017 Jun 12-16", 
