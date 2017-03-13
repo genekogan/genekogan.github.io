@@ -326,7 +326,7 @@
 		},{
 			"dates":"2017 Apr 3-16", 
 			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Belgrade, Serbia",
-			"name":"Thinking and Feeling",
+			"name":"Thinking and Feeling (with <a href=\"http://www.hannahishere.com/\">Hannah Davis</a>)",
 			"info":"http://schoolofma.org/feeling-and-thinking/"
 		},{
 			"dates":"2017 Mar 30-31", 
@@ -337,7 +337,7 @@
 			"dates":"2017 Mar 14-15", 
 			"where":"<a href=\"http://www.strelka.com/\">Strelka Institue</a>, Moscow, Russia",
 			"name":"Imaginary blueprints (with <a href=\"http://sougwen.com\">Sougwen Chung</a>)",
-			"extended":true
+			"info":"http://www.strelka.com/en/magazine/2016/08/30/-what-is-the-new-normal-and-how-to-untangle-it"
 		},{
 			"dates":"2017 Mar 7", 
 			"where":"<a href=\"http://spektrumberlin.de\">Spektrum</a>, Berlin, Germany",
