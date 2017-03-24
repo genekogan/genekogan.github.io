@@ -1,13 +1,32 @@
 {
 	"talks":[
 		{
+			"date":"2017 Aug", 
+			"where":"<a href=\"http://www.uxweek.com\">UX Week</a>, San Francisco, CA",
+			"name":"Learned Interfaces",
+			"info":"http://uxweek.com/schedule/learned-interfaces"
+		},{
+			"date":"2017 Jun", 
+			"where":"<a href=\"https://www.http://eyeofestival.com/\">Eyeo Festival</a>, Minneapolis, MN",
+			"name":"TBD",
+			"info":"http://eyeofestival.com/speaker/gene-kogan/"
+		},{
+			"date":"2017 May 30", 
+			"where":"<a href=\"\">DAOHAM</a>, Munich, Germany",
+			"name":"TBD",
+			"extended":true
+		},{
 			"date":"2017 May 22", 
 			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
 			"name":"TBD",
 			"extended":true
 		},{
 			"date":"2017 May 6", 
-			"where":"<a href=\"http://pydata.org/london2017/\">PyData conference</a>, London, England",
+			"where":"<a href=\"http://pydata.org/london2017/\">PyData</a>, London, England",
+			"name":"TBD"
+		},{
+			"date":"2017 May 3", 
+			"where":"<a href=\"http://www.gold.ac.uk/computing/\">Goldsmiths, University of London</a>, England",
 			"name":"TBD",
 			"extended":true
 		},{
@@ -133,7 +152,7 @@
 		},{
 			"date":"2016 Jul 12", 
 			"where":"<a href=\"https://www.ixds.com/\">IXDS</a>, Berlin, Germany",
-			"name":"Pre-work talks",
+			"name":"Pre-work talks (with <a href=\"http://www.patrycjaslawuta.com/\">Patrycja Slawuta</a>)",
 			"info":"https://www.ixds.com/events/pre-work-talk-berlin",
 			"video":"https://www.youtube.com/watch?v=tXWd6MnzN-4"
 		},{
@@ -166,7 +185,6 @@
 			"date":"2016 Mar 24", 
 			"where":"<a href=\"https://www.clarifai.com/\">Clarifai</a>, New York, NY",
 			"name":"Maching learning for artists",
-			"info":"",
 			"extended":true
 		},{
 			"date":"2016 Mar 21", 
@@ -286,6 +304,11 @@
 	],
 	"teaching":[
 		{
+			"dates":"2017 Aug 21-25", 
+			"where":"<a href=\"https://ciid.dk\">CIID</a>, New York, NY",
+			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"extended":true
+		},{
 			"dates":"2017 Jul 24-28", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
 			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
@@ -304,6 +327,11 @@
 			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
 			"name":"TBD"
 		},{
+			"dates":"2017 May 19", 
+			"where":"<a href=\"https://www.soundcloud.com/\">SoundCloud</a>, Berlin, Germany",
+			"name":"TBD",
+			"extended":true
+		},{
 			"dates":"2017 May 5", 
 			"where":"<a href=\"http://thephotographersgallery.org.uk/\">Photographers Gallery</a>, London, England",
 			"name":"TBD",
@@ -316,8 +344,7 @@
 		},{
 			"dates":"2017 Apr 24-28", 
 			"where":"<a href=\"http://ecal.ch/fr/100/homepage\">Ecole cantonale d'art</a>, Lausanne, Switzerland",
-			"name":"TBD",
-			"extended":true
+			"name":"Machine learning for artists"
 		},{
 			"dates":"2017 Apr 17-19", 
 			"where":"<a href=\"http://www.resonate.io/2017/\">Resonate Festival</a>, Belgrade, Serbia",

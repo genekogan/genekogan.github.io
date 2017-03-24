@@ -7,7 +7,6 @@ redirect_from:
 ---
 
 {% assign cv = site.data.cv %}
-{% assign include_extended = false %}
 
 <div id="about">
 	<div id="cv_bio">
@@ -31,8 +30,7 @@ redirect_from:
 	<div class="cv_section">
 		<div class="cv_heading">Talks</div>
 		{% for c in cv.talks %}
-		{% if c.extended != true or include_extended == true %}
-		<div class="cv_entry">
+		<div class="cv_entry {% if c.extended == true %}extended{% endif %}">
 			<div class="date">{{ c.date }}</div>
 			<div class="where">{{ c.where }}</div>
 			<div class="name">{{ c.name }}</div>
@@ -54,14 +52,12 @@ redirect_from:
 				{% endif %}
 			</div>
 		</div>
-		{% endif %}
 		{% endfor %}			
 	</div>
 	<div id="teaching" class="cv_section">
 		<div class="cv_heading">Teaching</div>
 		{% for c in cv.teaching %}
-		{% if c.extended != true or include_extended == true %}
-		<div class="cv_entry">
+		<div class="cv_entry {% if c.extended == true %}extended{% endif %}">
 			<div class="date">{{ c.dates }}</div>
 			<div class="where">{{ c.where }}</div>
 			<div class="name">{{ c.name }}</div>
@@ -88,7 +84,6 @@ redirect_from:
 				{% endif %}
 			</div>
 		</div>
-		{% endif %}			
 		{% endfor %}			
 	</div>
 	<div class="cv_section">
@@ -151,3 +146,17 @@ redirect_from:
 		</div>
 	</div>
 </div>
+
+<script>
+function displayAllEntries(){
+	var d = document.getElementsByClassName("cv_entry extended");
+	for(var i = 0; i < d.length; i++){ d[i].style.display = "block" }
+}
+window.onload = function() {
+  	console.log("GO!!!")
+	if (window.location.hash=="#all") {
+		displayAllEntries();
+	}
+
+};
+</script>

@@ -149,6 +149,9 @@ ul li {
     max-width:1025px;
     /*border-top:1px solid #ddd;*/
 }
+.cv_entry.extended {
+	display: none;
+}
 .date, .where, .name, .links, .info_link, .video_link {
     display:inline-block;
     vertical-align: middle
@@ -193,6 +196,5 @@ ul li {
     font-size:1.0em;  
     padding-bottom:60px;
 }
-
 
 
