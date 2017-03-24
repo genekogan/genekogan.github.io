@@ -152,6 +152,9 @@ ul li {
 .cv_entry.extended {
 	display: none;
 }
+.cv_entry.upcoming {
+	background-color:#ddeedd;
+}
 .date, .where, .name, .links, .info_link, .video_link {
     display:inline-block;
     vertical-align: middle

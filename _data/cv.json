@@ -334,8 +334,11 @@
 		},{
 			"dates":"2017 May 5", 
 			"where":"<a href=\"http://thephotographersgallery.org.uk/\">Photographers Gallery</a>, London, England",
-			"name":"TBD",
-			"extended":true
+			"name":"TBD"
+		},{
+			"dates":"2017 May 2", 
+			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
+			"name":"TBD"
 		},{
 			"dates":"2017 Apr 30", 
 			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
@@ -419,7 +422,7 @@
 			"name":"Machine learning for artists",
 			"info":"http://spektrumberlin.de/events/detail/workshop-machine-learning-for-artists-with-gene-kogan.html"
 		},{
-			"dates":"2017 Sep 30", 
+			"dates":"2016 Sep 30", 
 			"where":"<a href=\"https://www.ixds.com\">IXDS</a>, Berlin, Germany",
 			"name":"Machine learning for artists",
 			"extended":true

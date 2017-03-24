@@ -148,13 +148,31 @@ redirect_from:
 </div>
 
 <script>
-function displayAllEntries(){
+function displayAllEntries() {
 	var d = document.getElementsByClassName("cv_entry extended");
-	for(var i = 0; i < d.length; i++){ d[i].style.display = "block" }
-}
+	for(var i = 0; i < d.length; i++){ d[i].style.display = "block"; }
+};
+
+function highlightUpcoming() {
+	var today = new Date();
+	var d = document.getElementsByClassName("cv_entry");
+	for(var i = 0; i < d.length; i++){ 
+		var text = d[i].children[0].textContent;
+		var split = text.indexOf("-")
+		if (split != -1) {
+			text = text.substring(0, split);
+		}
+		var date = new Date(text);
+		if (date.getTime() > today.getTime()) {
+			d[i].className += " upcoming";
+		}
+	}
+};
+
 window.onload = function() {
 	if (window.location.hash=="#all") {
 		displayAllEntries();
 	}
+	highlightUpcoming();
 };
 </script>
