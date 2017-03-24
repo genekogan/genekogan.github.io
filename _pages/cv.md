@@ -153,10 +153,8 @@ function displayAllEntries(){
 	for(var i = 0; i < d.length; i++){ d[i].style.display = "block" }
 }
 window.onload = function() {
-  	console.log("GO!!!")
 	if (window.location.hash=="#all") {
 		displayAllEntries();
 	}
-
 };
 </script>
