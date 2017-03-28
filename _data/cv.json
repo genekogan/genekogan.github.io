@@ -35,11 +35,6 @@
 			"name":"TBD",
 			"extended":true
 		},{
-			"date":"2017 Mar 31", 
-			"where":"<a href=\"http://www.creativecodingamsterdam.com/\">Creative Coding Amsterdam</a>, Amsterdam, Netherlands",
-			"name":"TBD",
-			"info":"https://www.meetup.com/Creative-Coding-Amsterdam/events/238717740/"
-		},{
 			"date":"2017 Apr 29", 
 			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
 			"name":"TBD",
@@ -49,6 +44,11 @@
 			"where":"<a href=\"http://www.resonate.io/2017/\">Resonate Festival</a>, Belgrade, Serbia",
 			"name":"TBD",
 			"info":"http://resonate.io/2017/lecture/gene-kogan/"
+		},{
+			"date":"2017 Mar 31", 
+			"where":"<a href=\"http://www.creativecodingamsterdam.com/\">Creative Coding Amsterdam</a>, Amsterdam, Netherlands",
+			"name":"TBD",
+			"info":"https://www.meetup.com/Creative-Coding-Amsterdam/events/238717740/"
 		},{
 			"date":"2017 Mar 9",
 			"where":"<a href=\"http://www.pankeculture.com/\">Panke</a>, Berlin, Germany",
