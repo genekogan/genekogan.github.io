@@ -27,8 +27,8 @@
 		},{
 			"date":"2017 May 3", 
 			"where":"<a href=\"http://www.gold.ac.uk/computing/\">Goldsmiths, University of London</a>, England",
-			"name":"TBD",
-			"extended":true
+			"name":"The Neural Aesthetic",
+			"info":"https://www.gold.ac.uk/calendar/?id=10684"
 		},{
 			"date":"2017 May 2", 
 			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
@@ -36,9 +36,9 @@
 			"extended":true
 		},{
 			"date":"2017 Mar 31", 
-			"where":"Creative Coding Amsterdam, Amsterdam, Netherlands",
+			"where":"<a href=\"http://www.creativecodingamsterdam.com/\">Creative Coding Amsterdam</a>, Amsterdam, Netherlands",
 			"name":"TBD",
-			"extended":true
+			"info":"https://www.meetup.com/Creative-Coding-Amsterdam/events/238717740/"
 		},{
 			"date":"2017 Apr 29", 
 			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
@@ -609,9 +609,6 @@
 }
 
 /*
-// Todo
-// - add links to people's websites
-// - links and photos
 // Missing:
 // story of light http://thestoryoflight.org/starstomp/
 // “Symbiosis: Between Technology, Humans, and Art.” New York, NY. 2010  http://www.harvestworks.org/symbiosis-between-technology-humans-and-art/
@@ -630,6 +627,7 @@
 }
 
 // -> shanghai http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&tempkey=GO%2Fi%2FiQP8pjHMuye8CSlwCRSbTqmgmxncIqgtA%2FwE8%2B68rOzSDtsf9OSVAa1Wkfa6vGL8z3ZugevFEU0o4Wv5kZADT0dRzmSkQMRO7YkWUQxXNynnvaOGZ0Q%2B6xdquplX%2B7CyV%2B5iEqW8f7BSUFgzg%3D%3D&#rd
+// http://oicwx.com/detail/795754
 
 info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
 

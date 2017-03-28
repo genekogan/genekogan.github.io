@@ -27,7 +27,7 @@ redirect_from:
 			<li><a href="mailto:kogan dot gene at gmail dot com">E-mail me</a></li>
 	    </ul>
 	</div>
-	<div class="cv_section">
+	<div id="talks" class="cv_section">
 		<div class="cv_heading">Talks</div>
 		{% for c in cv.talks %}
 		<div class="cv_entry {% if c.extended == true %}extended{% endif %}">
