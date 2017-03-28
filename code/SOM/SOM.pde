@@ -9,7 +9,7 @@ boolean somActive = false;
 // this sketch.
 
 //String path = "";                      // <-- if in Processing
-String path = "/js/code/SOM/data/";   // <-- if using ProcessingJS
+String path = "/code/SOM/data/";   // <-- if using ProcessingJS
 
 void setup()
 {

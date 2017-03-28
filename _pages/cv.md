@@ -17,7 +17,7 @@ redirect_from:
 			<li><a href="https://www.twitter.com/genekogan">Twitter</a></li>
 			<li><a href="https://www.github.com/genekogan">Github</a></li>
 			<li><a href="https://www.vimeo.com/genekogan">Vimeo</a></li>
-			<li><a href="https://www.youtube.com/user/ekogan19/videos">YouTube</a></li>
+			<li><a href="https://www.youtube.com/c/genekogan">YouTube</a></li>
 			<li><a href="https://www.flickr.com/genekogan">Flickr</a></li>
 			<li><a href="https://www.soundcloud.com/genekogan">SoundCloud</a></li>
 			<li><a href="https://www.medium.com/@genekogan">Medium</a></li>
