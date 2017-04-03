@@ -23,7 +23,8 @@
 		},{
 			"date":"2017 May 6", 
 			"where":"<a href=\"http://pydata.org/london2017/\">PyData</a>, London, England",
-			"name":"TBD"
+			"name":"Picasso's terminal; data science and AI in the visual arts",
+			"info":"https://pydata.org/london2017/schedule/presentation/64/"
 		},{
 			"date":"2017 May 3", 
 			"where":"<a href=\"http://www.gold.ac.uk/computing/\">Goldsmiths, University of London</a>, England",
@@ -46,8 +47,8 @@
 			"info":"http://resonate.io/2017/lecture/gene-kogan/"
 		},{
 			"date":"2017 Mar 31", 
-			"where":"<a href=\"http://www.creativecodingamsterdam.com/\">Creative Coding Amsterdam</a>, Amsterdam, Netherlands",
-			"name":"TBD",
+			"where":"<a href=\"http://www.fiber-space.nl/\">Fiber</a>, Amsterdam, Netherlands",
+			"name":"<a href=\"http://www.creativecodingamsterdam.com/\">Creative Coding Amsterdam</a> talk",
 			"info":"https://www.meetup.com/Creative-Coding-Amsterdam/events/238717740/"
 		},{
 			"date":"2017 Mar 9",
