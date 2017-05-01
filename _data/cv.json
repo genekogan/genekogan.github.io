@@ -21,6 +21,11 @@
 			"name":"ML for artists and designers",
 			"extended":true
 		},{	
+			"date":"2017 May 11", 
+			"where":"<a href=\"http://stockholm.ai/\">Stockholm.ai</a>, Stockholm, Sweden",
+			"name":"Machine learning in real-time",
+			"info":"http://stockholm.ai/"
+		},{	
 			"date":"2017 May 6", 
 			"where":"<a href=\"http://pydata.org/london2017/\">PyData</a>, London, England",
 			"name":"Picasso's terminal; data science and AI in the visual arts",
