@@ -12,33 +12,33 @@
 			"info":"http://eyeofestival.com/speaker/gene-kogan/"
 		},{
 			"date":"2017 May 30", 
-			"where":"<a href=\"\">DAOHAM</a>, Munich, Germany",
+			"where":"<a href=\"https://daho.am/\">DAHO.AM</a>, Munich, Germany",
 			"name":"TBD",
-			"extended":true
+			"info":"https://daho.am/speaker/gene-kogan/",
 		},{
 			"date":"2017 May 22", 
 			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
-			"name":"TBD",
+			"name":"ML for artists and designers",
 			"extended":true
-		},{
+		},{	
 			"date":"2017 May 6", 
 			"where":"<a href=\"http://pydata.org/london2017/\">PyData</a>, London, England",
 			"name":"Picasso's terminal; data science and AI in the visual arts",
 			"info":"https://pydata.org/london2017/schedule/presentation/67/"
+		},{
+			"date":"2017 May 4", 
+			"where":"<a href=\"https://www.bell-labs.com/connect/global-locations/cambridge-uk//\">Bell Labs</a>, Cambridge, UK",
+			"name":"Shannon Luminary Lecture",
+			"info":"https://www.eventbrite.co.uk/e/nokia-science-and-spritz-vol-8-ml-for-artists-shannon-luminary-lecture-tickets-34136667692",
 		},{
 			"date":"2017 May 3", 
 			"where":"<a href=\"http://www.gold.ac.uk/computing/\">Goldsmiths, University of London</a>, England",
 			"name":"The Neural Aesthetic",
 			"info":"https://www.gold.ac.uk/calendar/?id=10684"
 		},{
-			"date":"2017 May 2", 
-			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
-			"name":"TBD",
-			"extended":true
-		},{
 			"date":"2017 Apr 29", 
 			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
-			"name":"TBD",
+			"name":"Machine learning for artists",
 			"info":"http://sensorium.is/speakers/gene-kogan",
 		},{
 			"date":"2017 Apr 20", 
@@ -337,10 +337,6 @@
 			"where":"<a href=\"http://thephotographersgallery.org.uk/\">Photographers Gallery</a>, London, England",
 			"name":"Machine's eye view",
 			"info":"http://thephotographersgallery.org.uk/machine-learning-for-artists-2"
-		},{
-			"dates":"2017 May 2", 
-			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
-			"name":"TBD"
 		},{
 			"dates":"2017 Apr 30", 
 			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
