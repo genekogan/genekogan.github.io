@@ -10,7 +10,7 @@ redirect_from:
 
 <div id="about">
 	<div id="cv_bio">
-		<!--<a href="/images/home/gene.jpg" rel="lightbox[eb]">Gene Kogan</a>-->Gene Kogan is an artist and a programmer who is interested in generative systems, artificial intelligence, and software for creativity and self-expression. He is a collaborator within numerous <a href="https://www.github.com/genekogan">open-source</a> software projects, and leads <a href="/workshops">workshops</a> and demonstrations on topics at the intersection of code, art, and technology activism. Gene initiated and contributes to <a href="https://ml4a.github.io">ml4a</a>, a free book about machine learning for artists, activists, and citizen scientists. He regularly publishes <a href="https://ml4a.github.io/classes">video lectures</a>, writings, and tutorials to facilitate a greater public understanding of the topic.
+		<a href="/images/home/gene.mp4">Gene</a> Kogan is an artist and a programmer who is interested in generative systems, artificial intelligence, and software for creativity and self-expression. He is a collaborator within numerous <a href="https://www.github.com/genekogan">open-source</a> software projects, and leads <a href="/workshops">workshops</a> and demonstrations on topics at the intersection of code, art, and technology activism. Gene initiated and contributes to <a href="https://ml4a.github.io">ml4a</a>, a free book about machine learning for artists, activists, and citizen scientists. He regularly publishes <a href="https://ml4a.github.io/classes">video lectures</a>, writings, and tutorials to facilitate a greater public understanding of the topic.
 	</div>	
 	<div id="cv_elsewhere" class="cv_section">
 		<ul>
@@ -148,7 +148,7 @@ redirect_from:
 </div>
 
 <script>
-function displayAllEntries() {
+	function displayAllEntries() {
 	var d = document.getElementsByClassName("cv_entry extended");
 	for(var i = 0; i < d.length; i++){ d[i].style.display = "block"; }
 };
@@ -163,7 +163,7 @@ function highlightUpcoming() {
 			text = text.substring(0, split);
 		}
 		var date = new Date(text);
-		if (date.getTime() > today.getTime()) {
+		if (date.getTime() >= today.getTime()) {
 			d[i].className += " upcoming";
 		}
 	}
