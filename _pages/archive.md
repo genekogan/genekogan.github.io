@@ -4,6 +4,7 @@ title: "archive"
 ---
 
 <div id="works">
+	{% include project.md title="pix2pix webcam (meat puppet)" %} 
 	{% include project.md title="Experiments with Deep Generator Networks" %} 
 	{% include project.md title="Closed-captioning WaveNets" %} 
 	{% include project.md title="Deepdream prototypes" %} 
