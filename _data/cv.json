@@ -29,7 +29,8 @@
 			"date":"2017 May 6", 
 			"where":"<a href=\"http://pydata.org/london2017/\">PyData</a>, London, England",
 			"name":"Picasso's terminal; data science and AI in the visual arts",
-			"info":"https://pydata.org/london2017/schedule/presentation/67/"
+			"info":"https://pydata.org/london2017/schedule/presentation/67/",
+			"video":"https://www.youtube.com/watch?v=JXx2MYtAU3o"
 		},{
 			"date":"2017 May 4", 
 			"where":"<a href=\"https://www.bell-labs.com/connect/global-locations/cambridge-uk//\">Bell Labs</a>, Cambridge, England",
