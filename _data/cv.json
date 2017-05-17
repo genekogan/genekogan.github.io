@@ -321,7 +321,7 @@
 	],
 	"teaching":[
 		{
-			"date":"2017 Sep 6", 
+			"dates":"2017 Sep 6", 
 			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
 			"name":"TBD",
 			"extended":true
