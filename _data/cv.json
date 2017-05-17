@@ -342,12 +342,12 @@
 			"info":"http://eyeofestival.com/workshops/"
 		},{
 			"dates":"2017 Jun 24", 
-			"where":"<a href=\"https://itp.nyu.edu/camp2017/\">ITP-Camp</a></a>, New York University, New York, NY",
+			"where":"<a href=\"https://itp.nyu.edu/camp2017/\">ITP-Camp</a>, New York University, New York, NY",
 			"name":"From principal components to puppyslugs: the mathematics of deep learning for art",
 			"info":"https://itp.nyu.edu/camp2017/session/32"
 		},{
 			"dates":"2017 Jun 21", 
-			"where":"<a href=\"https://itp.nyu.edu/camp2017/\">ITP-Camp</a></a>, New York University, New York, NY",
+			"where":"<a href=\"https://itp.nyu.edu/camp2017/\">ITP-Camp</a>, New York University, New York, NY",
 			"name":"Practical resources for machine learning for artists",
 			"info":"https://itp.nyu.edu/camp2017/session/34"
 		},{
@@ -361,11 +361,11 @@
 		},{
 			"dates":"2017 May 22", 
 			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
-			"name":"TBD"
+			"name":"Machine learning for artists and designers 2"
 		},{
 			"dates":"2017 May 19", 
 			"where":"<a href=\"https://www.soundcloud.com/\">SoundCloud</a>, Berlin, Germany",
-			"name":"Machine learning for artists and designers 2",
+			"name":"Machine learning for artists and designers",
 			"extended":true
 		},{
 			"dates":"2017 May 16", 
@@ -404,7 +404,7 @@
 		},{
 			"dates":"2017 Mar 30-31", 
 			"where":"<a href=\"https://www.mediamonks.com/\">Media Monks</a>, Hilversum, Netherlands",
-			"name":"TBD",
+			"name":"Machine learning for artists",
 			"extended":true
 		},{
 			"dates":"2017 Mar 14-15", 
