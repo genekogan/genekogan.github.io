@@ -11,6 +11,11 @@
 			"name":"TBD",
 			"info":"http://eyeofestival.com/speaker/gene-kogan/"
 		},{
+			"date":"2017 Jun 24", 
+			"where":"<a href=\"https://www.meetup.com/NYC-Machine-Learning/\">NYC machine learning meetup</a>, New York, NY",
+			"name":"TBD",
+			"extended":true
+		},{
 			"date":"2017 May 30", 
 			"where":"<a href=\"https://daho.am/\">DAHO.AM</a>, Munich, Germany",
 			"name":"Picasso's terminal; machine learning for art and creativity",
@@ -326,11 +331,21 @@
 			"name":"Machine learning for artists (with <a href=\"http://frnsys.com\">Francis Tseng</a>)",
 			"info":"http://eyeofestival.com/workshops/"
 		},{
+			"dates":"2017 Jun 24", 
+			"where":"<a href=\"https://itp.nyu.edu/camp2017/\">ITP-Camp</a></a>, New York University, New York, NY",
+			"name":"From principal components to puppyslugs: the mathematics of deep learning for art",
+			"info":"https://itp.nyu.edu/camp2017/session/32"
+		},{
+			"dates":"2017 Jun 21", 
+			"where":"<a href=\"https://itp.nyu.edu/camp2017/\">ITP-Camp</a></a>, New York University, New York, NY",
+			"name":"Practical resources for machine learning for artists",
+			"info":"https://itp.nyu.edu/camp2017/session/34"
+		},{
 			"dates":"2017 Jun 12-16", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
 			"name":"Machine learning for designers (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
 		},{
-			"dates":"2017 May 27", 
+			"dates":"2017 Jun 4", 
 			"where":"<a href=\"https://www.lacunalab.com\">Lacuna Lab</a>, Berlin, Germany",
 			"name":"TBD"
 		},{
