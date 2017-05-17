@@ -1,6 +1,11 @@
 {
 	"talks":[
 		{
+			"date":"2017 Sep 5", 
+			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
+			"name":"TBD",
+			"extended":true
+		},{
 			"date":"2017 Aug", 
 			"where":"<a href=\"http://www.uxweek.com\">UX Week</a>, San Francisco, CA",
 			"name":"Learned Interfaces",
@@ -316,6 +321,11 @@
 	],
 	"teaching":[
 		{
+			"date":"2017 Sep 6", 
+			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
+			"name":"TBD",
+			"extended":true
+		},{
 			"dates":"2017 Aug 21-25", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, New York, NY",
 			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
