@@ -28,8 +28,8 @@
 		},{
 			"date":"2017 May 22", 
 			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
-			"name":"ML for artists and designers",
-			"extended":true
+			"name":"Machine learning for artists and designers",
+			"info":"https://www.hesge.ch/head/en/event/2017/conference-gene-kogan"
 		},{	
 			"date":"2017 May 11", 
 			"where":"<a href=\"http://stockholm.ai/\">Stockholm.ai</a>, Stockholm, Sweden",
