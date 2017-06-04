@@ -1,24 +1,35 @@
 {
 	"talks":[
 		{
+			"date":"2017 Nov", 
+			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop Festival</a>, Berlin, Germany",
+			"name":"TBD",
+			"extended":true
+		},{
 			"date":"2017 Sep 5", 
 			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
 			"name":"TBD",
 			"extended":true
 		},{
-			"date":"2017 Aug", 
+			"date":"2017 Aug 29", 
 			"where":"<a href=\"http://www.uxweek.com\">UX Week</a>, San Francisco, CA",
 			"name":"Learned Interfaces",
 			"info":"http://uxweek.com/schedule/learned-interfaces"
 		},{
 			"date":"2017 Jun 28", 
 			"where":"<a href=\"https://www.http://eyeofestival.com/\">Eyeo Festival</a>, Minneapolis, MN",
-			"name":"TBD",
+			"name":"Starving computer scientist",
 			"info":"http://eyeofestival.com/speaker/gene-kogan/"
 		},{
 			"date":"2017 Jun 24", 
 			"where":"<a href=\"https://www.meetup.com/NYC-Machine-Learning/\">NYC machine learning meetup</a>, New York, NY",
 			"name":"TBD",
+			"extended":true
+		},{
+			"date":"2017 Jun 14", 
+			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
+			"name":"Open lecture",
+			"info":"http://ciid.dk/about/open-lectures/",
 			"extended":true
 		},{
 			"date":"2017 May 30", 
@@ -361,7 +372,7 @@
 		},{
 			"dates":"2017 May 22", 
 			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
-			"name":"Machine learning for artists and designers 2"
+			"name":"Machine learning for artists and designers (p2)"
 		},{
 			"dates":"2017 May 19", 
 			"where":"<a href=\"https://www.soundcloud.com/\">SoundCloud</a>, Berlin, Germany",
@@ -380,7 +391,7 @@
 		},{
 			"dates":"2017 May 2", 
 			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
-			"name":"Machine learning for artists and designers 1",
+			"name":"Machine learning for artists and designers (p1)",
 			"extended":true
 		},{
 			"dates":"2017 Apr 30", 
@@ -546,6 +557,11 @@
 			"where":"<a href=\"http://zerostationvn.org/ga0/\">Zero Station</a>, Ho Chi Minh City, Vietnam",
 			"name":"<a href=\"/works/kinect-projector-toolkit/\">KinectProjectorToolkit</a> workshop"
 		},{
+			"dates":"2013 Oct-2014 Feb", 
+			"where":"<a href=\"http://www.tenlegs.com//\">Tenlegs.com</a>",
+			"name":"Visual instruments, computer vision, generative art (online courses)",
+			"info":"http://www.harvestworks.org/processing-fall-winter-online-intensive/"
+		},{
 			"dates":"2013 Nov 2-3", 
 			"where":"<a href=\"http://lispher.ph/\">Lispher Inn</a>, Davao, Philippines",
 			"name":"<a href=\"http://www.theunifiedfield.org/artist_in_residence\">UnifiedField</a> workshop on free software & art",
@@ -576,6 +592,11 @@
 			"where":"<a href=\"http://jaaga.in/\">Jaaga</a>, Bangalore, India",
 			"name":"Kinect workshop",
 			"info":"http://electricdosa.tumblr.com/post/35841689321/kinect-workshop-at-jaaga-14-nov-2012"
+		},{
+			"dates":"2012 Nov 5-26", 
+			"where":"<a href=\"http://www.tenlegs.com//\">Tenlegs.com</a>",
+			"name":"Introduction to computer vision (online course)",
+			"info":"http://www.harvestworks.org/computer-vision-online-course/"
 		},{
 			"dates":"2012 Sep 22", 
 			"where":"<a href=\"http://www.jaaga.in\">Jaaga</a>, Bangalore, India",
@@ -652,12 +673,10 @@
 }
 
 /*
-// Missing:
 // story of light http://thestoryoflight.org/starstomp/
 // “Symbiosis: Between Technology, Humans, and Art.” New York, NY. 2010  http://www.harvestworks.org/symbiosis-between-technology-humans-and-art/
 // “Blue Swimmer.” New York Electronic Arts Festival.  2011  http://nyeaf.org/2011/wp/louisa-armbrust-blue-swimmer/
 // “Beat Parade.”  Music Hack Day, New York, NY.  2011  http://evolver.fm/2011/02/18/beat-parade-spins-short-attention-span-dj-sets-from-a-single-song/
-// IXDS workshop
 // Introduction to Generative Art and Processing (online) [Tenlegs]
 // Visual Instruments (online) [Tenlegs]
 // Computer Vision (online) [Tenlegs]
