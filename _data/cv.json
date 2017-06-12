@@ -9,7 +9,7 @@
 			"date":"2017 Sep 5", 
 			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
 			"name":"TBD",
-			"extended":true
+			"info":"https://2017.theconference.se/speakers/gene-kogan"
 		},{
 			"date":"2017 Aug 29", 
 			"where":"<a href=\"http://www.uxweek.com\">UX Week</a>, San Francisco, CA",
@@ -26,11 +26,10 @@
 			"name":"TBD",
 			"extended":true
 		},{
-			"date":"2017 Jun 14", 
+			"date":"2017 Jun 13", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
-			"name":"Open lecture",
-			"info":"http://ciid.dk/about/open-lectures/",
-			"extended":true
+			"name":"Open lecture: Learning interaction",
+			"info":"http://ciid.dk/gene-kogan/",
 		},{
 			"date":"2017 May 30", 
 			"where":"<a href=\"https://daho.am/\">DAHO.AM</a>, Munich, Germany",
