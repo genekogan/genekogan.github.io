@@ -129,7 +129,7 @@
 			"date":"2016 Nov 23", 
 			"where":"<a href=\"http://www.opendotlab.it\">OpenDot Lab</a>, Milan, Italy",
 			"name":"A beautiful and interesting game",
-			"info":"http://www.opendotlab.it/it/content/gene-kogan-opentalk",
+			"info":"http://www.opendotlab.it/calendario/machine-learning-for-artists/",
 			"video":"https://www.youtube.com/watch?v=sKgiA0TTwG8"
 		},{
 			"date":"2016 Nov 7", 
@@ -244,6 +244,12 @@
 			"where":"<a href=\"http://aum.dartmouth.edu/~avsynth/2015/\">Workshop in the Woods</a>, Dartmouth College, NH",
 			"name":"New Approaches to Audiovisual Synthesis using Deep Learning",
 			"info":"http://aum.dartmouth.edu/~avsynth/2015/wiki/doku.php?id=gene_kogan"
+		},{
+			"date":"2015 Sep 24", 
+			"where":"<a href=\"http://opentranscripts.org/sources/ethical-machines/\">Ethical Machines</a> (online)",
+			"name":"Ethical Machines episode 3: Alex J. Champandard and Gene Kogan",
+			"info":"http://opentranscripts.org/transcript/ethical-machines-alex-champandard-gene-kogan/",
+			"extended":true
 		},{
 			"date":"2015 Mar 30", 
 			"where":"<a href=\"http://magnet.nyu.edu/\">NYU-Poly MAGNET</a>, Brooklyn, NY",
@@ -454,7 +460,7 @@
 			"dates":"2016 Nov 21-25", 
 			"where":"<a href=\"http://www.opendotlab.it\">OpenDot Lab</a>, Milan, Italy",
 			"name":"Machine learning for artists",
-			"info":"http://www.opendotlab.it/it/content/workshop-machine-learning-artists",
+			"info":"http://www.opendotlab.it/calendario/workshop-machine-learning-for-artists/",
 			"video":"http://ml4a.github.io/classes/opendot/"
 		},{
 			"dates":"2016 Nov 5", 
