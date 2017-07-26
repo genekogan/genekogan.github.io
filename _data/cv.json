@@ -3,12 +3,12 @@
 		{
 			"date":"2017 Nov", 
 			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop Festival</a>, Berlin, Germany",
-			"name":"TBD",
-			"extended":true
+			"name":"Deep Listener: Machine learning in the composer's future toolkit",
+			"info":"https://loop.ableton.com/2017/participants/gene-kogan/"
 		},{
 			"date":"2017 Sep 5", 
 			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
-			"name":"TBD",
+			"name":"Machine learning for creativity",
 			"info":"https://2017.theconference.se/speakers/gene-kogan"
 		},{
 			"date":"2017 Aug 29", 
@@ -681,6 +681,8 @@
 	]
 }
 
+
+
 /*
 // story of light http://thestoryoflight.org/starstomp/
 // “Symbiosis: Between Technology, Humans, and Art.” New York, NY. 2010  http://www.harvestworks.org/symbiosis-between-technology-humans-and-art/
@@ -714,4 +716,11 @@ info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
 	<li>Tip of the Tongue</li>
 	<li>The Rub</li>
 </ul>
+
+// Goldsmiths video
+https://www.pscp.tv/w/1lDxLjDPVdLGm
+
+/* Interviews, press, 
+
+
 */
