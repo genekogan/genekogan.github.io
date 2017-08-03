@@ -342,6 +342,11 @@
 			"name":"TBD",
 			"extended":true
 		},{
+			"dates":"2017 Aug 2-4", 
+			"where":"<a href=\"http://schoolofma.org\"><a href=\"http://schoolofma.org\">School of Machines</a></a>, Berlin, Germany",
+			"name":"Prototyping designs with computer vision",
+			"info":"http://schoolofma.org/august2017/"
+		},{
 			"dates":"2017 Jul 24-28", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
 			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
