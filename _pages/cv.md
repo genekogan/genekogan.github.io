@@ -10,7 +10,9 @@ redirect_from:
 
 <div id="about">
 	<div id="cv_bio">
-		<a href="/images/home/gene.mp4">Gene</a> Kogan is an artist and a programmer who is interested in generative systems, artificial intelligence, and software for creativity and self-expression. He is a collaborator within numerous <a href="https://www.github.com/genekogan">open-source</a> software projects, and leads <a href="/workshops">workshops</a> and demonstrations on topics at the intersection of code, art, and technology activism. Gene initiated and contributes to <a href="https://ml4a.github.io">ml4a</a>, a free book about machine learning for artists, activists, and citizen scientists. He regularly publishes <a href="https://ml4a.github.io/classes">video lectures</a>, writings, and tutorials to facilitate a greater public understanding of the topic.
+		<a href="/images/home/gene.mp4">Gene</a> Kogan is an artist and a programmer who is interested in generative systems, artificial intelligence, and software for creativity and self-expression. He is a collaborator within numerous <a href="https://www.github.com/genekogan">open-source</a> software projects, and leads <a href="/workshops">workshops</a> and demonstrations on topics at the intersection of code and art. Gene initiated and contributes to <a href="https://ml4a.github.io">ml4a</a>, a free book about machine learning for artists, activists, and citizen scientists. He regularly publishes <a href="https://ml4a.github.io/classes">video lectures</a>, writings, and tutorials to facilitate a greater public understanding of the topic.
+		
+<!-- Gene has been exhibited work at Ars Electronica, Eyebeam, Art Center Nabi,  -->
 	</div>	
 	<div id="cv_elsewhere" class="cv_section">
 		<ul>
