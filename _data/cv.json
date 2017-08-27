@@ -6,15 +6,30 @@
 			"name":"Deep Listener: Machine learning in the composer's future toolkit",
 			"info":"https://loop.ableton.com/2017/participants/gene-kogan/"
 		},{
+			"date":"2017 Sep 9", 
+			"where":"<a href=\"https://www.aec.at/ai/en">Ars Electronica</a>, Linz, Austria",
+			"name":"Experts Tour: The Neural Aesthetic",
+			"info":"https://www.aec.at/ai/en/expertstour-neuralaesthetic/"
+		},{
 			"date":"2017 Sep 5", 
 			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
 			"name":"Machine learning for creativity",
 			"info":"https://2017.theconference.se/speakers/gene-kogan"
 		},{
+			"date":"2017 Aug 31", 
+			"where":"<a href=\"https://www.google.com">Google</a>, San Francisco, CA",
+			"name":"ml4a talk",
+			"extended":true
+		},{
 			"date":"2017 Aug 29", 
 			"where":"<a href=\"http://www.uxweek.com\">UX Week</a>, San Francisco, CA",
 			"name":"Learned Interfaces",
 			"info":"http://uxweek.com/schedule/learned-interfaces"
+		},{
+			"date":"2017 Aug 25", 
+			"where":"<a href=\"http://theshed.org/">The Shed</a>, New York, NY",
+			"name":"ml4a talk",
+			"extended":true
 		},{
 			"date":"2017 Jun 28", 
 			"where":"<a href=\"https://www.http://eyeofestival.com/\">Eyeo Festival</a>, Minneapolis, MN",
@@ -337,6 +352,11 @@
 	],
 	"teaching":[
 		{
+			"dates":"2018 Aug 6-10", 
+			"where":"<a href=\"https://www.andersonranch.org/">Anderson Ranch</a>, Snowmass Village, CO",
+			"name":"Machine learning for new media art",
+			"extended":true
+		},{
 			"dates":"2017 Sep 6", 
 			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
 			"name":"TBD"
@@ -728,5 +748,11 @@ canceled:
 https://www.pscp.tv/w/1lDxLjDPVdLGm
 
 //Interviews/press
+
+
+// addition
+ - the shed 8/25
+ - google 8/31
+ - ars tutorial 9/10 
 
 */
