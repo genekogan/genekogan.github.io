@@ -9,11 +9,11 @@ redirect_from:
 {% assign cv = site.data.cv %}
 
 <div id="about">
+
 	<div id="cv_bio">
-		<a href="/images/home/gene.mp4">Gene</a> Kogan is an artist and a programmer who is interested in generative systems, artificial intelligence, and software for creativity and self-expression. He is a collaborator within numerous <a href="https://www.github.com/genekogan">open-source</a> software projects, and leads <a href="/workshops">workshops</a> and demonstrations on topics at the intersection of code and art. Gene initiated and contributes to <a href="https://ml4a.github.io">ml4a</a>, a free book about machine learning for artists, activists, and citizen scientists. He regularly publishes <a href="https://ml4a.github.io/classes">video lectures</a>, writings, and tutorials to facilitate a greater public understanding of the topic.
-		
-<!-- Gene has been exhibited work at Ars Electronica, Eyebeam, Art Center Nabi,  -->
+		<a href="/images/home/gene.mp4">Gene</a> Kogan is an artist and a programmer who is interested in generative systems, artificial intelligence, and software for creativity and self-expression. He is a collaborator within numerous <a href="https://www.github.com/genekogan">open-source</a> software projects, and leads <a href="/workshops">workshops</a> and demonstrations on topics at the intersection of code and art. Gene initiated and contributes to <a href="https://ml4a.github.io">ml4a</a>, a free book about machine learning for artists, activists, and citizen scientists. He regularly publishes <a href="https://ml4a.github.io/classes">video lectures</a>, writings, and tutorials to facilitate a greater public understanding of the topic. <!-- His work has been exhibited at <a href="http://www.aec.at/">Ars Electronica</a>, <a href="http://eyebeam.org/">Eyebeam</a>, <a href="http://www.nabi.or.kr/main/main.nab">Art Center Nabi</a>, and <a href="http://www.artmuseum.qut.edu.au/">QUT Art Museum</a>.-->
 	</div>	
+
 	<div id="cv_elsewhere" class="cv_section">
 		<ul>
 			<li><a href="https://www.twitter.com/genekogan">Twitter</a></li>
@@ -26,9 +26,21 @@ redirect_from:
 			<li><a href="https://electricdosa.tumblr.com">Tumblr</a></li>
 			<li><a href="https://www.instagram.com/genekogan">Instagram</a></li>
 			<li><a href="https://www.facebook.com/genekogan1">Facebook</a></li>
-			<li><a href="mailto:kogan dot gene at gmail dot com">E-mail me</a></li>
+			<li><a href="mailto:kogan dot gene at gmail dot com">E-mail</a></li>
 	    </ul>
 	</div>
+
+	<div id="cv_elsewhere" class="cv_section">
+		<ul>
+			<li><a href="#talks">Talks</a></li>
+			<li><a href="#teaching">Teaching</a></li>
+			<li><a href="#exhibitions">Exhibitions</a></li>
+			<li><a href="#residencies">Residencies</a></li>
+			<li><a href="#publications">Publications</a></li>
+			<li><a href="#education">Education</a></li>
+		</ul>
+	</div>
+
 	<div id="talks" class="cv_section">
 		<div class="cv_heading">Talks</div>
 		{% for c in cv.talks %}
@@ -56,6 +68,7 @@ redirect_from:
 		</div>
 		{% endfor %}			
 	</div>
+
 	<div id="teaching" class="cv_section">
 		<div class="cv_heading">Teaching</div>
 		{% for c in cv.teaching %}
@@ -88,7 +101,31 @@ redirect_from:
 		</div>
 		{% endfor %}			
 	</div>
-	<div class="cv_section">
+
+	<div id="exhibitions" class="cv_section">
+		<div class="cv_heading">Exhibitions, installations, & performances</div>
+		{% for c in cv.exhibitions %}
+		<div class="cv_entry">
+			<div class="date">{{ c.dates }}</div>
+			<div class="where">{{ c.where }}</div>
+			<div class="name">{{ c.name }}</div>
+			<div class="links">
+				{% if c.info %}
+					<div class="info_link">
+						<a href="{{ c.info }}">[info]</a>
+					</div>
+				{% endif %}
+				{% if c.video %}
+					<div class="video_link">
+						<a href="{{ c.video }}">[video]</a>
+					</div>
+				{% endif %}
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+
+	<div id="residencies" class="cv_section">
 		<div class="cv_heading">Residencies</div>
 		{% for c in cv.residencies %}
 		<div class="cv_entry">
@@ -110,7 +147,8 @@ redirect_from:
 		</div>
 		{% endfor %}
 	</div>
-	<div class="cv_section">
+
+	<div id="publications" class="cv_section">
 		<div class="cv_heading">Publications</div>
 		{% for c in cv.publications %}
 		<div class="cv_entry">
@@ -132,7 +170,8 @@ redirect_from:
 		</div>
 		{% endfor %}
 	</div>
-	<div class="cv_section">
+
+	<div id="education" class="cv_section">
 		<div class="cv_heading">Education, grants/awards</div>
 		<div class="cv_entry">
 			<div class="date">2012-2013</div>
@@ -147,6 +186,7 @@ redirect_from:
 			<div class="links"></div>
 		</div>
 	</div>
+
 </div>
 
 <script>

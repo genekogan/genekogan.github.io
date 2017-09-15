@@ -6,6 +6,11 @@
 			"name":"Deep Listener: Machine learning in the composer's future toolkit",
 			"info":"https://loop.ableton.com/2017/participants/gene-kogan/"
 		},{
+			"date":"2017 Sep 12", 
+			"where":"<a href=\"https://twitter.com/artandtechvie\">Arts+Tech Vienna</a>, Vienna, Austria",
+			"name":"Talk at Arts+Tech Vienna",
+			"extended":true
+		},{
 			"date":"2017 Sep 9", 
 			"where":"<a href=\"https://www.aec.at/ai/en\">Ars Electronica</a>, Linz, Austria",
 			"name":"Experts Tour: The Neural Aesthetic",
@@ -76,7 +81,8 @@
 			"date":"2017 May 3", 
 			"where":"<a href=\"http://www.gold.ac.uk/computing/\">Goldsmiths, University of London</a>, England",
 			"name":"The Neural Aesthetic",
-			"info":"https://www.gold.ac.uk/calendar/?id=10684"
+			"info":"https://www.gold.ac.uk/calendar/?id=10684",
+			"video":"https://www.pscp.tv/w/1lDxLjDPVdLGm"
 		},{
 			"date":"2017 Apr 29", 
 			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
@@ -357,6 +363,17 @@
 			"where":"<a href=\"https://www.andersonranch.org/\">Anderson Ranch</a>, Snowmass Village, CO",
 			"name":"Machine learning for new media art",
 			"extended":true
+		},{
+			"dates":"2017 Nov", 
+			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
+			"name":"TBD Loop workshop",
+			"info":"_",
+			"extended":true
+		},{
+			"dates":"2017 Sep 10", 
+			"where":"<a href=\"https://www.aec.at/ai/en\">Ars Electronica</a>, Linz, Austria",
+			"name":"Tutorial on machine learning for artists",
+			"info":"https://www.aec.at/ai/en/ai-tutorial-sessions/"
 		},{
 			"dates":"2017 Sep 6", 
 			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
@@ -644,6 +661,91 @@
 			"name":"Field recording workshop (with <a href=\"https://vimeo.com/user1055167/\">Filipe Chagas</a>)"
 		}
 	],
+	"exhibitions":[
+		{
+			"dates":"2017 Sep 7-11",
+			"name":"Selection of real-time neural-image transformations",
+			"where":"<a href=\"https://www.aec.at/ai/en\">Ars Electronica</a>, Linz, Austria",
+			"info":"https://www.aec.at/ai/en/image-transformations/"
+		},{
+			"dates":"2017 Aug 20-Oct 29",
+			"name":"Group exhibition: Why the Future Still Needs Us",
+			"where":"<a href=\"http://www.artmuseum.qut.edu.au/\">QUT Art Museum</a>, Brisbane, Australia",
+			"info":"http://www.artmuseum.qut.edu.au/exhibit/2017/future-needs.jsp"
+		},{
+			"dates":"2016 Nov 15-Jan 20",
+			"name":"Group exhibition: Why the Future Still Needs Us",
+			"where":"<a href=\"http://nabi.or.kr\">Art Center Nabi</a>, Seoul, South Korea",
+			"info":"http://www.nabi.or.kr/english/project/current_read.nab?idx=541"
+		},{
+			"dates":"2016 May 20-22",
+			"name":"Installation: Cubist Mirror at <a href=\"http://www.alt-ai.net/\">alt-AI</a>",
+			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
+			"info":"http://www.alt-ai.net/#exhibition",
+			"video":"https://vimeo.com/167910860"
+		},{
+			"dates":"2015 Nov 19-Dec 20",
+			"name":"Group exhibition: Inside/Out (with <a href=\"http://lisakori.net\">Lisa Kori</a> & <a href=\"http://colin-self.com/\">Colin Self</a>)",
+			"where":"<a href=\"https://eyebeam.org/\">Eyebeam</a>, New York, NY",
+			"info":"http://archive.eyebeam.org/events/insideout"
+		},{
+			"dates":"2015 Jan 14-18",
+			"name":"Installation: Contact (with Alec Schachner)",
+			"where":"<a href=\"http://thestoryoflight.org/\">Story of Light Festival</a>, Panjim, Goa, India",
+			"info":"https://thestoryoflight.org/gene-alec/",
+			"video":"https://vimeo.com/120653546"
+		},{
+			"dates":"2014 Nov 15",
+			"name":"Installation: Silhouettes in Saigon",
+			"where":"Cargo, Ho Chi Minh City, Vietnam",
+			"info":"http://genekogan.com/works/kinect-projector-toolkit/",
+			"video":"https://vimeo.com/112243428"
+		},{
+			"dates":"2014 Jul 18-30",
+			"name":"Exhibition: <a href=\"http://biomearts.net/ecohack2014/\">Biome Arts</a>",
+			"where":"EcoHacker-Build, Delancey, NY",
+			"info":"http://genekogan.com/works/ecohacker-build/",
+			"video":"https://vimeo.com/102197478"
+		},{
+			"dates":"2014 Apr 23",
+			"name":"Performance: Machine Yearning (with <a href=\"https://soa.princeton.edu/content/axel-kilian\">Axel Kilian</a>, <a href=\"http://www.gshed.com/\">Ryan Johns</a>, Charlie Avis, <a href=\"https://snyderphonics.com/\">Jeff Snyder</a>, and <a href=\"http://plork.princeton.edu/index.php\">Princeton Laptop Orchestra</a>)",
+			"where":"<a href=\"https://soa.princeton.edu/\">Princeton University</a>, Princeton, NJ",
+			"info":"http://genekogan.com/works/machine-yearning/",
+			"video":"https://vimeo.com/99536775"
+		},{
+			"dates":"2013 Sep 1",
+			"name":"Performance: СУПЕРПОЗИЦИЯ (Superposition) (with Maria Seledets)",
+			"where":"<a href=\"https://www.erarta.com/\">Erarta Museum</a>, St. Petersburg, Russia",
+			"info":"https://www.erarta.com/ru/calendar/detail/48cb0e6a-0664-11e3-814b-8920284aa333/"
+		},{
+			"dates":"2012 Sep 1",
+			"name":"Exhibition: Listening to the Ocean (with <a href=\"http://www.phillipstearns.com/\">Phillip Stearns</a> and <a href=\"http://dantesene.com/\">Dan Tesene</a>)",
+			"where":"<a href=\"http://soundwalk.org/soundwalk-2012.html\">Soundwalk</a>, Los Angeles, CA",
+			"info":"http://soundwalk.org/artists/phillip-stearns-dan-tesene-gene-kogan/"
+		},{
+			"dates":"2012 April 26-27",
+			"name":"Performance: Tip of the Tongue (with <a href=\"http://www.courtneygiannone.com/\">Courtney Giannone</a>)",
+			"where":"<a href=\"http://www.streb.org\">STREB Extreme Action</a>, Brooklyn, NY",
+			"info":"http://genekogan.com/works/tip-of-the-tongue/",
+			"video":"https://vimeo.com/71362270"
+		},{
+			"dates":"2012 Feb 16-18",
+			"name":"Performance: <a href=\"http://genekogan.com/works/the-rub/\">The Rub</a> (with <a href=\"http://www.nessanorich.com/\">Nessa Norich</a>)",
+			"where":"<a href=\"https://www.facebook.com/MagicFuturebox/\">Magic FutureBox</a>, Brooklyn, NY",
+			"info":"http://www.tremorcollective.tumblr.com/",
+			"video":"https://www.youtube.com/watch?v=__UfCmlAa4E"
+		},{
+			"dates":"2010 Aug 28",
+			"name":"Group exhibition: Symbiosis: Between Technology, Humans, and Art",
+			"where":"<a href=\"http://www.harvestworks.org/\">Harvestworks</a>, New York, NY",
+			"info":"http://www.harvestworks.org/symbiosis-between-technology-humans-and-art/"
+		},{
+			"dates":"2011 Feb 17",
+			"name":"Application: Beat Parade (with John Gallagher)",
+			"where":"<a href=\"https://www.wired.com/2011/02/music-hack-day-nyc/\">Music Hack Day</a>, New York, NY",
+			"info":"http://evolver.fm/2011/02/18/beat-parade-spins-short-attention-span-dj-sets-from-a-single-song/"
+		}
+	],
 	"residencies":[
 		{
 			"dates":"2017 Jan",
@@ -704,39 +806,18 @@
 
 
 
+
 /*
-// story of light http://thestoryoflight.org/starstomp/
-// “Symbiosis: Between Technology, Humans, and Art.” New York, NY. 2010  http://www.harvestworks.org/symbiosis-between-technology-humans-and-art/
 // “Blue Swimmer.” New York Electronic Arts Festival.  2011  http://nyeaf.org/2011/wp/louisa-armbrust-blue-swimmer/
-// “Beat Parade.”  Music Hack Day, New York, NY.  2011  http://evolver.fm/2011/02/18/beat-parade-spins-short-attention-span-dj-sets-from-a-single-song/
 // Introduction to Generative Art and Processing (online) [Tenlegs]
 // Visual Instruments (online) [Tenlegs]
 // Computer Vision (online) [Tenlegs]
 // online courses https://www.google.de/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Awww.harvestworks.org%2F%20kogan
-{
-	"dates":"", 
-	"where":"",
-	"name":"",
-	"info":""
-}
 
 // -> shanghai http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&tempkey=GO%2Fi%2FiQP8pjHMuye8CSlwCRSbTqmgmxncIqgtA%2FwE8%2B68rOzSDtsf9OSVAa1Wkfa6vGL8z3ZugevFEU0o4Wv5kZADT0dRzmSkQMRO7YkWUQxXNynnvaOGZ0Q%2B6xdquplX%2B7CyV%2B5iEqW8f7BSUFgzg%3D%3D&#rd
 // http://oicwx.com/detail/795754
 
 info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
-
-<b>Installations / performances</b>
-<ul>
-	<li>Cubist Mirror - Alt-AI - New York, NY</li>
-	<li>Contact (with Alec Schachner) - Panjim, Goa, India</li>	
-	<li>Machine Yearning (with Ryan Johns, Jeff Snyder, plOrk) - Princeton, NJ</li>
-	<li>Silhouettes in Saigon - Ho Chi Minh City, Vietnam - 2013.11.10 </li>
-	<li>Erarta @ St. PEtersburg</li>
-	<li>Listening to the Ocean (with Phillip Stearns + Dan Tesene) - Soundwalk, Los Angeles, CA - 2012</li>
-	<li>EcoHacker</li>
-	<li>Tip of the Tongue</li>
-	<li>The Rub</li>
-</ul>
 
 canceled:
 {
@@ -745,16 +826,4 @@ canceled:
 	"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
 	"info":"http://ciid.dk/education/summer-school/ciid-summer-school-2017-nyc/workshops/machine-learning-for-interaction-design/"
 }
-
-// Goldsmiths video
-https://www.pscp.tv/w/1lDxLjDPVdLGm
-
-//Interviews/press
-
-
-// addition
- - the shed 8/25
- - google 8/31
- - ars tutorial 9/10 
-
 */

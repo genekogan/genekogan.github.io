@@ -9,7 +9,7 @@ includes: [lightbox]
 redirect_from: /works/machine-yearning.html
 ---
 
-Machine Yearning was a performance with the [Princeton Laptop Orchestra (PLOrk)](http://plork.princeton.edu/index.php), [Axel Kilian](http://soa.princeton.edu/content/axel-kilian), [Ryan Johns](http://www.gshed.com/), and Charlie Avis, in April 2014 at Princeton University. 
+Machine Yearning was a performance with the [Princeton Laptop Orchestra (PLOrk)](http://plork.princeton.edu/index.php), [Jeff Snyder](https://snyderphonics.com/), [Axel Kilian](http://soa.princeton.edu/content/axel-kilian), [Ryan Johns](http://www.gshed.com/), and Charlie Avis, in April 2014 at Princeton University. 
 
 An ABB industrial robot arm housed inside a glass cube was mic'd with piezos under the robot's six motors, and a score was composed for which the motors would be rotated at the precise speeds needed to make the melody. The robot's coordinates were streamed in real-time and a modified version of [KinectProjectorToolkit](https://github.com/genekogan/KinectProjectorToolkit) was used to projection map the robot arm as it vigorously flailed around in its cube. [Full source code here](https://github.com/genekogan/MachineYearning).
 
