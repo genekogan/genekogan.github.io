@@ -367,8 +367,13 @@
 			"dates":"2017 Nov", 
 			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
 			"name":"TBD Loop workshop",
-			"info":"_",
+			"info":"_______",
 			"extended":true
+		},{
+			"dates":"2017 Oct 14", 
+			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
+			"name":"Decentralized AI",
+			"info":"https://www.eventbrite.com/e/decentralised-ai-tickets-37888384177"
 		},{
 			"dates":"2017 Sep 10", 
 			"where":"<a href=\"https://www.aec.at/ai/en\">Ars Electronica</a>, Linz, Austria",
