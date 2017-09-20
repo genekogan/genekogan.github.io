@@ -81,8 +81,7 @@
 			"date":"2017 May 3", 
 			"where":"<a href=\"http://www.gold.ac.uk/computing/\">Goldsmiths, University of London</a>, England",
 			"name":"The Neural Aesthetic",
-			"info":"https://www.gold.ac.uk/calendar/?id=10684",
-			"video":"https://www.pscp.tv/w/1lDxLjDPVdLGm"
+			"info":"https://www.gold.ac.uk/calendar/?id=10684"
 		},{
 			"date":"2017 Apr 29", 
 			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
@@ -831,4 +830,8 @@ canceled:
 	"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
 	"info":"http://ciid.dk/education/summer-school/ciid-summer-school-2017-nyc/workshops/machine-learning-for-interaction-design/"
 }
+
+// video for goldsmiths
+"video":"https://www.pscp.tv/w/1lDxLjDPVdLGm"
+
 */
