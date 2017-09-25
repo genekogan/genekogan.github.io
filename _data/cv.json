@@ -261,6 +261,12 @@
 			"name":"Software for Artists Day",
 			"info":"https://pioneerworks.org/s4ad/",
 		},{
+			"date":"2015 Nov 3", 
+			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
+			"name":"Sonic Code Sessions: Deep audio, video, and text",
+			"info":"https://www.meetup.com/spektrum/events/226062505/",
+			"extended":true
+		},{
 			"date":"2015 Oct 18", 
 			"where":"<a href=\"http://aum.dartmouth.edu/~avsynth/2015/\">Workshop in the Woods</a>, Dartmouth College, NH",
 			"name":"New Approaches to Audiovisual Synthesis using Deep Learning",
