@@ -50,12 +50,12 @@
 			"date":"2017 Jun 13", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
 			"name":"Open lecture: Learning interaction",
-			"info":"http://ciid.dk/gene-kogan/",
+			"info":"http://ciid.dk/gene-kogan/"
 		},{
 			"date":"2017 May 30", 
 			"where":"<a href=\"https://daho.am/\">DAHO.AM</a>, Munich, Germany",
 			"name":"Picasso's terminal; machine learning for art and creativity",
-			"info":"https://daho.am/speaker/gene-kogan/",
+			"info":"https://daho.am/speaker/gene-kogan/"
 		},{
 			"date":"2017 May 22", 
 			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
@@ -76,7 +76,7 @@
 			"date":"2017 May 4", 
 			"where":"<a href=\"https://www.bell-labs.com/connect/global-locations/cambridge-uk//\">Bell Labs</a>, Cambridge, England",
 			"name":"Shannon Luminary Lecture",
-			"info":"https://www.eventbrite.co.uk/e/nokia-science-and-spritz-vol-8-ml-for-artists-shannon-luminary-lecture-tickets-34136667692",
+			"info":"https://www.eventbrite.co.uk/e/nokia-science-and-spritz-vol-8-ml-for-artists-shannon-luminary-lecture-tickets-34136667692"
 		},{
 			"date":"2017 May 3", 
 			"where":"<a href=\"http://www.gold.ac.uk/computing/\">Goldsmiths, University of London</a>, England",
@@ -86,7 +86,7 @@
 			"date":"2017 Apr 29", 
 			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
 			"name":"Machine learning for artists",
-			"info":"http://sensorium.is/speakers/gene-kogan",
+			"info":"http://sensorium.is/speakers/gene-kogan"
 		},{
 			"date":"2017 Apr 20", 
 			"where":"<a href=\"http://www.resonate.io/2017/\">Resonate Festival</a>, Belgrade, Serbia",
@@ -101,7 +101,7 @@
 			"date":"2017 Mar 9",
 			"where":"<a href=\"http://www.pankeculture.com/\">Panke</a>, Berlin, Germany",
 			"name":"<a href=\"http://scopesessions.org/\">Scope Sessions #63</a> (with <a href=\"http://www.margheritapevere.com/\">Margherita Pevere</a>)",
-			"info":"http://scopesessions.org/session/2017/02/09/063.html",
+			"info":"http://scopesessions.org/session/2017/02/09/063.html"
 		},{
 			"date":"2017 Mar 3", 
 			"where":"<a href=\"https://www.charite.de/en/\">Charité Universitätsmedizin</a>, Berlin, Germany",
@@ -244,7 +244,7 @@
 			"date":"2016 Feb 13",
 			"where":"<a href=\"http://www.datakind.org/chapters/datakind-blr\">DataKind</a>, Bangalore, India",
 			"name":"Creative hacks of machine learning",
-			"info":"https://www.meetup.com/DataKind-Bangalore/events/228577897/",
+			"info":"https://www.meetup.com/DataKind-Bangalore/events/228577897/"
 		},{
 			"date":"2016 Jan 22", 
 			"where":"<a href=\"http://cis-india.org/\">Center for Internet & Society</a>, Bangalore, India",
@@ -254,12 +254,12 @@
 			"date":"2016 Jan 14",
 			"where":"<a href=\"http://kitchentablecoders.com/\">Kitchen Table Coders</a>, New York, NY",
 			"name":"Subversive machines",
-			"info":"https://www.eventbrite.com/e/subversive-machines-machine-intelligence-in-nontraditional-contexts-tickets-20588427541#",
+			"info":"https://www.eventbrite.com/e/subversive-machines-machine-intelligence-in-nontraditional-contexts-tickets-20588427541#"
 		},{
 			"date":"2015 Dec 5",
 			"where":"<a href=\"https://pioneerworks.org/\">Pioneer Works</a>, New York, NY",
 			"name":"Software for Artists Day",
-			"info":"https://pioneerworks.org/s4ad/",
+			"info":"https://pioneerworks.org/s4ad/"
 		},{
 			"date":"2015 Nov 3", 
 			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
@@ -398,7 +398,7 @@
 			"dates":"2017 Jul 24-28", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
 			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
-			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-2017/workshops/machine-learning-for-interaction-design/",
+			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-2017/workshops/machine-learning-for-interaction-design/"
 		},{
 			"dates":"2017 Jun 26", 
 			"where":"<a href=\"http://www.eyeofestival.com\">Eyeo Festival</a>, Minneapolis, MN",
@@ -483,17 +483,17 @@
 			"dates":"2017 Mar 7", 
 			"where":"<a href=\"http://spektrumberlin.de\">Spektrum</a>, Berlin, Germany",
 			"name":"Real-time applications of machine learning",
-			"info":"http://spektrumberlin.de/events/detail/real-time-applications-of-machine-learning.html",
+			"info":"http://spektrumberlin.de/events/detail/real-time-applications-of-machine-learning.html"
 		},{
 			"dates":"2017 Feb 28", 
 			"where":"<a href=\"http://www.newschool.edu/parsons-paris/\">Parsons MFA-DT</a>, Paris, France",
 			"name":"D+TM #49: Intro to Machine Learning",
-			"info":"http://paris.parsons.edu/amt/dtm-49-gene-kogan/",
+			"info":"http://paris.parsons.edu/amt/dtm-49-gene-kogan/"
 		},{
 			"dates":"2017 Feb 18-19", 
 			"where":"<a href=\"http://machinesroom.org/\">Machines Room</a>, London, England",
 			"name":"Machine learning for artists",
-			"info":"http://machinesroom.co.uk/classes-workshops/gene-kogan-machine-learning-for-artists-31105139309/",
+			"info":"http://machinesroom.co.uk/classes-workshops/gene-kogan-machine-learning-for-artists-31105139309/"
 		},{
 			"dates":"2016 Dec 16", 
 			"where":"<a href=\"http://isi.ac.id/\">Institute of the Arts</a>, Yogyakarta, Indonesia",
@@ -637,7 +637,7 @@
 			"dates":"2013 July 13", 
 			"where":"<a href=\"http://www.1335mabini.com\">1335 Mabini</a>, Manila, Philippines",
 			"name":"Projection mapping on moving bodies",
-			"info":"http://www.1335mabini.com/gene-koganworkshops-talksprogam/",
+			"info":"http://www.1335mabini.com/gene-koganworkshops-talksprogam/"
 		},{
 			"dates":"2013 Jul 5-12", 
 			"where":"Terminal Garden, Manila, Philippines",
@@ -813,33 +813,3 @@
 		}
 	]
 }
-
-
-
-
-/*
-
-// “Blue Swimmer.” New York Electronic Arts Festival.  2011  http://nyeaf.org/2011/wp/louisa-armbrust-blue-swimmer/
-// Introduction to Generative Art and Processing (online) [Tenlegs]
-// Visual Instruments (online) [Tenlegs]
-// Computer Vision (online) [Tenlegs]
-// online courses https://www.google.de/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Awww.harvestworks.org%2F%20kogan
-
-// -> shanghai http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&tempkey=GO%2Fi%2FiQP8pjHMuye8CSlwCRSbTqmgmxncIqgtA%2FwE8%2B68rOzSDtsf9OSVAa1Wkfa6vGL8z3ZugevFEU0o4Wv5kZADT0dRzmSkQMRO7YkWUQxXNynnvaOGZ0Q%2B6xdquplX%2B7CyV%2B5iEqW8f7BSUFgzg%3D%3D&#rd
-// http://oicwx.com/detail/795754
-
-"info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
-
-canceled:
-{
-	"dates":"2017 Aug 21-25", 
-	"where":"<a href=\"https://ciid.dk\">CIID</a>, New York, NY",
-	"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
-	"info":"http://ciid.dk/education/summer-school/ciid-summer-school-2017-nyc/workshops/machine-learning-for-interaction-design/"
-}
-
-// video for goldsmiths
-"video":"https://www.pscp.tv/w/1lDxLjDPVdLGm"
-
-*/
-
