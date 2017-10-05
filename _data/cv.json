@@ -385,7 +385,8 @@
 		},{
 			"dates":"2017 Dec 7-8", 
 			"where":"<a href=\"https://www.rmit.edu.au/\">RMIT University</a>, Melbourne, Australia",
-			"name":"TBD"
+			"name":"TBD",
+			"extended":true
 		},{
 			"dates":"2017 Nov 25", 
 			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
@@ -404,7 +405,8 @@
 		},{
 			"dates":"2017 Oct 31", 
 			"where":"<a href=\"\">ACADIA</a>, Boston, MA",
-			"name":"TBD"
+			"name":"TBD",
+			"extended":true
 		},{
 			"dates":"2017 Oct 29", 
 			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
