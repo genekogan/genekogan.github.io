@@ -159,7 +159,7 @@
 			"info":"https://www.meetup.com/berlin-machine-learning/events/229181527/"
 		},{
 			"date":"2016 Nov 4",
-			"where":"<a href=\"http://www.kikk.be\">Kikk Festival</a>, Namur, Belgium",
+			"where":"<a href=\"http://www.kikk.be/2016\">Kikk Festival</a>, Namur, Belgium",
 			"name":"Adversarial Nets",
 			"info":"http://www.kikk.be/2016/en/program/conferences/gene-kogan",
 			"video":"https://vimeo.com/197495131"
@@ -369,11 +369,46 @@
 			"name":"Machine learning for new media art",
 			"extended":true
 		},{
+			"dates":"2018 May 28-Jun 1", 
+			"where":"<a href=\"http://www.cityu.edu.hk/\">City University of Hong Kong</a>, Hong Kong",
+			"name":"TBD",
+			"extended":true
+		},{
+			"dates":"2018 Feb", 
+			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry @ Carnegie Mellon University</a>, Pittsburgh, PA",
+			"name":"TBD",
+			"extended":true
+		},{
+			"dates":"2017 Dec 12", 
+			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
+			"name":"Decentralized AI"
+		},{
+			"dates":"2017 Dec 7-8", 
+			"where":"<a href=\"https://www.rmit.edu.au/\">RMIT University</a>, Melbourne, Australia",
+			"name":"TBD"
+		},{
+			"dates":"2017 Nov 25", 
+			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
+			"name":"TBD",
+			"extended":true
+		},{
 			"dates":"2017 Nov", 
 			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
-			"name":"TBD Loop workshop",
-			"info":"_______",
+			"name":"Machine learning for artists",
 			"extended":true
+		},{
+			"dates":"2017 Nov 4", 
+			"where":"<a href=\"http://www.kikk.be/2017\">Kikk Festival</a>, Namur, Belgium",
+			"name":"Interactive machine learning (with <a href=\"http://stoj.io/\">Støj</a>)",
+			"info":"https://www.kikk.be/2017/en/program/workshops/stoj-gene-kogan"
+		},{
+			"dates":"2017 Oct 31", 
+			"where":"<a href=\"\">ACADIA</a>, Boston, MA",
+			"name":"TBD"
+		},{
+			"dates":"2017 Oct 29", 
+			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
+			"name":"Decentralized AI"
 		},{
 			"dates":"2017 Oct 14", 
 			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
@@ -513,7 +548,7 @@
 			"video":"http://ml4a.github.io/classes/opendot/"
 		},{
 			"dates":"2016 Nov 5", 
-			"where":"<a href=\"http://www.kikk.be\">Kikk Festival</a>, Namur, Belgium",
+			"where":"<a href=\"http://www.kikk.be/2016\">Kikk Festival</a>, Namur, Belgium",
 			"name":"Machine learning for artists",
 			"info":"http://www.kikk.be/2016/en/program/workshops/machine-learning-for-artists",
 			"photo":"https://www.flickr.com/photos/kikk_festival/30702838651/in/album-72157672531263603/"
@@ -813,3 +848,32 @@
 		}
 	]
 }
+
+
+
+/*
+
+// “Blue Swimmer.” New York Electronic Arts Festival.  2011  http://nyeaf.org/2011/wp/louisa-armbrust-blue-swimmer/
+// Introduction to Generative Art and Processing (online) [Tenlegs]
+// Visual Instruments (online) [Tenlegs]
+// Computer Vision (online) [Tenlegs]
+// online courses https://www.google.de/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Awww.harvestworks.org%2F%20kogan
+
+// -> shanghai http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&tempkey=GO%2Fi%2FiQP8pjHMuye8CSlwCRSbTqmgmxncIqgtA%2FwE8%2B68rOzSDtsf9OSVAa1Wkfa6vGL8z3ZugevFEU0o4Wv5kZADT0dRzmSkQMRO7YkWUQxXNynnvaOGZ0Q%2B6xdquplX%2B7CyV%2B5iEqW8f7BSUFgzg%3D%3D&#rd
+// http://oicwx.com/detail/795754
+
+"info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
+
+canceled:
+{
+	"dates":"2017 Aug 21-25", 
+	"where":"<a href=\"https://ciid.dk\">CIID</a>, New York, NY",
+	"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+	"info":"http://ciid.dk/education/summer-school/ciid-summer-school-2017-nyc/workshops/machine-learning-for-interaction-design/"
+}
+
+// video for goldsmiths
+"video":"https://www.pscp.tv/w/1lDxLjDPVdLGm"
+
+*/
+
