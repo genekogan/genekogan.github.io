@@ -1,7 +1,11 @@
 {
 	"talks":[
 		{
-			"date":"2017 Nov", 
+			"dates":"2017 Dec 12", 
+			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
+			"name":"Decentralized AI"
+		},{
+			"date":"2017 Nov 12", 
 			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
 			"name":"Deep Listener: Machine learning in the composer's future toolkit",
 			"info":"https://loop.ableton.com/2017/participants/gene-kogan/"
@@ -375,11 +379,11 @@
 			"extended":true
 		},{
 			"dates":"2018 Feb", 
-			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry @ Carnegie Mellon University</a>, Pittsburgh, PA",
+			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry, Carnegie Mellon University</a>, Pittsburgh, PA",
 			"name":"TBD",
 			"extended":true
 		},{
-			"dates":"2017 Dec 12", 
+			"dates":"2017 Dec 17", 
 			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
 			"name":"Decentralized AI"
 		},{
@@ -393,10 +397,10 @@
 			"name":"TBD",
 			"extended":true
 		},{
-			"dates":"2017 Nov", 
+			"dates":"2017 Nov 12", 
 			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
 			"name":"Machine learning for artists",
-			"extended":true
+			"info":"https://loop.ableton.com/2017/participants/gene-kogan/"
 		},{
 			"dates":"2017 Nov 4", 
 			"where":"<a href=\"http://www.kikk.be/2017\">Kikk Festival</a>, Namur, Belgium",
@@ -404,9 +408,9 @@
 			"info":"https://www.kikk.be/2017/en/program/workshops/stoj-gene-kogan"
 		},{
 			"dates":"2017 Oct 31", 
-			"where":"<a href=\"\">ACADIA</a>, Boston, MA",
-			"name":"TBD",
-			"extended":true
+			"where":"<a href=\"https://sap.mit.edu/\">MIT</a>, Cambridge, MA",
+			"name":"<a href=\"http://2017.acadia.org/home.html\">Acadia 2017</a>: ML for design and the built environment",
+			"info":"http://2017.acadia.org/workshops.html"
 		},{
 			"dates":"2017 Oct 29", 
 			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
@@ -711,7 +715,7 @@
 	"exhibitions":[
 		{
 			"dates":"2017 Sep 7-11",
-			"name":"Selection of real-time neural-image transformations",
+			"name":"Installation: Selection of real-time neural-image transformations",
 			"where":"<a href=\"https://www.aec.at/ai/en\">Ars Electronica</a>, Linz, Austria",
 			"info":"https://www.aec.at/ai/en/image-transformations/"
 		},{
@@ -749,7 +753,7 @@
 			"video":"https://vimeo.com/112243428"
 		},{
 			"dates":"2014 Jul 18-30",
-			"name":"Exhibition: <a href=\"http://biomearts.net/ecohack2014/\">Biome Arts</a>",
+			"name":"Group exhibition: <a href=\"http://biomearts.net/ecohack2014/\">Biome Arts</a>",
 			"where":"EcoHacker-Build, Delancey, NY",
 			"info":"http://genekogan.com/works/ecohacker-build/",
 			"video":"https://vimeo.com/102197478"
