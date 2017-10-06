@@ -2,7 +2,7 @@
 	"talks":[
 		{
 			"date":"2017 Dec 14", 
-			"where":"<a href=\"http://cis-india.org/\">Center for Internet & Society</a>, Bangalore, India"
+			"where":"<a href=\"http://cis-india.org/\">Center for Internet & Society</a>, Bangalore, India",
 			"name":"TBD",
 			"extended":true
 		},{
@@ -414,7 +414,7 @@
 		},{
 			"dates":"2017 Oct 31", 
 			"where":"<a href=\"https://sap.mit.edu/\">MIT</a>, Cambridge, MA",
-			"name":"<a href=\"http://2017.acadia.org/home.html\">Acadia 2017</a>: ML for design and the built environment",
+			"name":"ML for design and the built environment (<a href=\"http://2017.acadia.org/home.html\">Acadia 2017</a>)",
 			"info":"http://2017.acadia.org/workshops.html"
 		},{
 			"dates":"2017 Oct 29", 
