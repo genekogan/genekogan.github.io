@@ -16,6 +16,11 @@
 			"name":"Deep Listener: Machine learning in the composer's future toolkit",
 			"info":"https://loop.ableton.com/2017/participants/gene-kogan/"
 		},{
+			"dates":"2017 Oct 20", 
+			"where":"<a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>, Prague, Czech Republic",
+			"name":"Machine learning for artists",
+			"extended":true
+		},{
 			"date":"2017 Sep 12", 
 			"where":"<a href=\"https://twitter.com/artandtechvie\">Arts+Tech Vienna</a>, Vienna, Austria",
 			"name":"Talk at Arts+Tech Vienna",
@@ -423,10 +428,15 @@
 			"name":"Decentralized AI",
 			"info":"https://www.eventbrite.com/e/decentralised-ai-tickets-38723662517"
 		},{
+			"dates":"2017 Oct 21", 
+			"where":"<a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>, Prague, Czech Republic",
+			"name":"Machine learning for artists"
+		},{
 			"dates":"2017 Oct 14", 
 			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
 			"name":"Decentralized AI",
-			"info":"https://www.eventbrite.com/e/decentralised-ai-tickets-37888384177"
+			"info":"https://www.eventbrite.com/e/decentralised-ai-tickets-37888384177",
+			"slides":"https://docs.google.com/presentation/d/1RI6BnBsJtTBg3djZbD1hDjuhQagPBAUtAqcqoYWQTxU"
 		},{
 			"dates":"2017 Sep 10", 
 			"where":"<a href=\"https://www.aec.at/ai/en\">Ars Electronica</a>, Linz, Austria",
