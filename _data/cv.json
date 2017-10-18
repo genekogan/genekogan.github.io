@@ -19,7 +19,7 @@
 			"dates":"2017 Oct 20", 
 			"where":"<a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>, Prague, Czech Republic",
 			"name":"Machine learning for artists",
-			"extended":true
+			"info":"http://www.lunchmeat.cz/en/events/input/schedule/[input]-no3---workshop-w-gene-kogan-474.html"
 		},{
 			"date":"2017 Sep 12", 
 			"where":"<a href=\"https://twitter.com/artandtechvie\">Arts+Tech Vienna</a>, Vienna, Austria",
@@ -405,7 +405,7 @@
 		},{
 			"dates":"2017 Nov 25", 
 			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
-			"name":"TBD",
+			"name":"Neural synthesis",
 			"extended":true
 		},{
 			"dates":"2017 Nov 12", 
@@ -430,7 +430,8 @@
 		},{
 			"dates":"2017 Oct 21", 
 			"where":"<a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>, Prague, Czech Republic",
-			"name":"Machine learning for artists"
+			"name":"Machine learning for artists",
+			"info":"http://www.lunchmeat.cz/en/events/input/schedule/[input]-no3---workshop-w-gene-kogan-474.html"
 		},{
 			"dates":"2017 Oct 14", 
 			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
@@ -731,18 +732,29 @@
 	],
 	"exhibitions":[
 		{
+			"dates":"2017 Nov 25",
+			"name":"Exhibition: Neural synthesis",
+			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
+			"extended":true
+		},{
+			"dates":"2017 Oct 19-21", 
+			"where":"<a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>, Prague, Czech Republic",
+			"name":"Installation: Meat puppet (face2pix)",
+			"info":"http://lunchmeatfestival.cz/2017/program/symposium/"
+			"extended":true
+		},{
 			"dates":"2017 Sep 7-11",
 			"name":"Installation: Selection of real-time neural-image transformations",
 			"where":"<a href=\"https://www.aec.at/ai/en\">Ars Electronica</a>, Linz, Austria",
 			"info":"https://www.aec.at/ai/en/image-transformations/"
 		},{
 			"dates":"2017 Aug 20-Oct 29",
-			"name":"Group exhibition: Why the Future Still Needs Us",
+			"name":"Exhibition: Why the Future Still Needs Us",
 			"where":"<a href=\"http://www.artmuseum.qut.edu.au/\">QUT Art Museum</a>, Brisbane, Australia",
 			"info":"http://www.artmuseum.qut.edu.au/exhibit/2017/future-needs.jsp"
 		},{
 			"dates":"2016 Nov 15-Jan 20",
-			"name":"Group exhibition: Why the Future Still Needs Us",
+			"name":"Exhibition: Why the Future Still Needs Us",
 			"where":"<a href=\"http://nabi.or.kr\">Art Center Nabi</a>, Seoul, South Korea",
 			"info":"http://www.nabi.or.kr/english/project/current_read.nab?idx=541"
 		},{
@@ -753,7 +765,7 @@
 			"video":"https://vimeo.com/167910860"
 		},{
 			"dates":"2015 Nov 19-Dec 20",
-			"name":"Group exhibition: Inside/Out (with <a href=\"http://lisakori.net\">Lisa Kori</a> & <a href=\"http://colin-self.com/\">Colin Self</a>)",
+			"name":"Exhibition: Inside/Out (with <a href=\"http://lisakori.net\">Lisa Kori</a> & <a href=\"http://colin-self.com/\">Colin Self</a>)",
 			"where":"<a href=\"https://eyebeam.org/\">Eyebeam</a>, New York, NY",
 			"info":"http://archive.eyebeam.org/events/insideout"
 		},{
@@ -770,7 +782,7 @@
 			"video":"https://vimeo.com/112243428"
 		},{
 			"dates":"2014 Jul 18-30",
-			"name":"Group exhibition: <a href=\"http://biomearts.net/ecohack2014/\">Biome Arts</a>",
+			"name":"Exhibition: <a href=\"http://biomearts.net/ecohack2014/\">Biome Arts</a>",
 			"where":"EcoHacker-Build, Delancey, NY",
 			"info":"http://genekogan.com/works/ecohacker-build/",
 			"video":"https://vimeo.com/102197478"
