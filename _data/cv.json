@@ -16,7 +16,7 @@
 			"name":"Deep Listener: Machine learning in the composer's future toolkit",
 			"info":"https://loop.ableton.com/2017/participants/gene-kogan/"
 		},{
-			"dates":"2017 Oct 20", 
+			"date":"2017 Oct 20", 
 			"where":"<a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>, Prague, Czech Republic",
 			"name":"Machine learning for artists",
 			"info":"http://www.lunchmeat.cz/en/events/input/schedule/[input]-no3---workshop-w-gene-kogan-474.html"
@@ -405,8 +405,7 @@
 		},{
 			"dates":"2017 Nov 25", 
 			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
-			"name":"Neural synthesis",
-			"extended":true
+			"name":"Neural synthesis (TBA)"
 		},{
 			"dates":"2017 Nov 12", 
 			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
