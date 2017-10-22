@@ -132,6 +132,11 @@ redirect_from:
 						<a href="{{ c.video }}">[video]</a>
 					</div>
 				{% endif %}
+				{% if c.photo %}
+					<div class="video_link">
+						<a href="{{ c.photo }}">[photos]</a>
+					</div>
+				{% endif %}
 			</div>
 		</div>
 		{% endfor %}
