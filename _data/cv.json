@@ -396,7 +396,8 @@
 		},{
 			"dates":"2017 Dec 17", 
 			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
-			"name":"Decentralized AI"
+			"name":"Decentralized AI",
+			"info":"https://anthillinside.in/2017-decentralized-ai-applications/"
 		},{
 			"dates":"2017 Dec 7-8", 
 			"where":"<a href=\"https://www.rmit.edu.au/\">RMIT University</a>, Melbourne, Australia",
@@ -737,10 +738,10 @@
 			"extended":true
 		},{
 			"dates":"2017 Oct 19-21", 
-			"where":"<a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>, Prague, Czech Republic",
-			"name":"Installation: Meat puppet (face2pix)",
-			"info":"http://lunchmeatfestival.cz/2017/program/symposium/",
-			"extended":true
+			"where":"<a href=\"http://www.holesovickasachta.cz/\">Holešovická Šachta</a>, Prague, Czech Republic",
+			"name":"Exhibition: Neural synthesis (at <a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>)",
+			"info":"http://lunchmeatfestival.cz/2017/program/exhibition/",
+			"photos":"https://www.instagram.com/p/BajFfGSgSRX/?taken-by=genekogan"
 		},{
 			"dates":"2017 Sep 7-11",
 			"name":"Installation: Selection of real-time neural-image transformations",
