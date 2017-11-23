@@ -11,6 +11,17 @@
 			"name":"Decentralized AI",
 			"info":"https://anthillinside.in/2017-dec-bangalore-lecture/"
 		},{
+			"date":"2017 Dec 11", 
+			"where":"<a href=\"http://cis-india.org/\">Center for Internet & Society</a>, Bangalore, India",
+			"name":"Elements of a decentralized web",
+			"info":"https://cis-india.org/internet-governance/events/elements-of-a-decentralized-web-talk-by-gene-kogan"
+		},{
+			"date":"2017 Nov 16", 
+			"where":"<a href=\"http://www.ppluk.com/\">PPL meetup</a>, London, UK",
+			"name":"Machine learning for musicians (online)",
+			"info":"https://twitter.com/PPLUK/status/931169521632731137",
+			"extended":true
+		},{
 			"date":"2017 Nov 12", 
 			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
 			"name":"Deep Listener: Machine learning in the composer's future toolkit",
@@ -734,9 +745,9 @@
 	"exhibitions":[
 		{
 			"dates":"2017 Nov 25",
-			"name":"Exhibition: Neural synthesis",
+			"name":"Group Exhibition: Neural synthesis (at Cybernetic Choreographies exhibition)",
 			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
-			"extended":true
+			"info":"http://spektrumberlin.de/events/detail/exhibition-13-cybernetic-choreographies.html"
 		},{
 			"dates":"2017 Oct 19-21", 
 			"where":"<a href=\"http://www.holesovickasachta.cz/\">Holešovická Šachta</a>, Prague, Czech Republic",
