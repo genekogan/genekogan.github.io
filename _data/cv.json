@@ -17,9 +17,9 @@
 			"info":"https://cis-india.org/internet-governance/events/elements-of-a-decentralized-web-talk-by-gene-kogan"
 		},{
 			"date":"2017 Dec 8", 
-			"where":"<a href=\"http://designhub.rmit.edu.au/\">RMIT</a>, Melbourne, Australia",
-			"name":"Symposium on machine learning for design",
-			"extended":true
+			"where":"<a href=\"http://designhub.rmit.edu.au/\">RMIT University</a>, Melbourne, Australia",
+			"name":"Symposium on machine learning for creative practice",
+			"info":"http://architecture.rmit.edu.au/news-events/?ajaxpost=5438&ajaxpost=5438"
 		},{
 			"date":"2017 Nov 28", 
 			"where":"<a href=\"https://www.hub.berlin\">hub.berlin</a>, Berlin, Germany",
@@ -437,7 +437,7 @@
 		},{
 			"dates":"2017 Dec 7-8", 
 			"where":"<a href=\"https://www.rmit.edu.au/\">RMIT University</a>, Melbourne, Australia",
-			"name":"Machine learning for artists"
+			"name":"Machine learning for architecture and design"
 		},{
 			"dates":"2017 Nov 25", 
 			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
