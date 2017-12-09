@@ -16,6 +16,11 @@
 			"name":"Elements of a decentralized web",
 			"info":"https://cis-india.org/internet-governance/events/elements-of-a-decentralized-web-talk-by-gene-kogan"
 		},{
+			"date":"2017 Dec 8", 
+			"where":"<a href=\"http://designhub.rmit.edu.au/\">RMIT</a>, Melbourne, Australia",
+			"name":"Symposium on machine learning for design",
+			"extended":true
+		},{
 			"date":"2017 Nov 28", 
 			"where":"<a href=\"https://www.hub.berlin\">hub.berlin</a>, Berlin, Germany",
 			"name":"Machine learning for artists",
@@ -405,9 +410,24 @@
 			"name":"TBD",
 			"extended":true
 		},{
-			"dates":"2018 Feb", 
+			"dates":"2018 Feb 12-18", 
+			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
+			"name":"TBD",
+			"extended":true
+		},{
+			"dates":"2018 Feb 3-11", 
 			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry, Carnegie Mellon University</a>, Pittsburgh, PA",
 			"name":"TBD",
+			"extended":true
+		},{
+			"dates":"2018 Feb 2", 
+			"where":"<a href=\"https://www.microsoft.com/en-us/garage/\">Microsoft Garage</a>, Vancouver, BC",
+			"name":"TBD",
+			"extended":true
+		},{
+			"dates":"2017 Nov 22-29", 
+			"where":"<a href=\"https://bcgdv.com/\">BCGDV</a>, Berlin, Germany",
+			"name":"Decentralized AI",
 			"extended":true
 		},{
 			"dates":"2017 Dec 17", 
@@ -417,8 +437,7 @@
 		},{
 			"dates":"2017 Dec 7-8", 
 			"where":"<a href=\"https://www.rmit.edu.au/\">RMIT University</a>, Melbourne, Australia",
-			"name":"TBD",
-			"extended":true
+			"name":"Machine learning for artists"
 		},{
 			"dates":"2017 Nov 25", 
 			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
@@ -556,7 +575,7 @@
 			"name":"Imaginary blueprints (with <a href=\"http://sougwen.com\">Sougwen Chung</a>)",
 			"info":"http://www.strelka.com/en/magazine/2016/08/30/-what-is-the-new-normal-and-how-to-untangle-it"
 		},{
-			"dates":"2017 Mar 7", 
+			"dates":"2017 Mar 7",
 			"where":"<a href=\"http://spektrumberlin.de\">Spektrum</a>, Berlin, Germany",
 			"name":"Real-time applications of machine learning",
 			"info":"http://spektrumberlin.de/events/detail/real-time-applications-of-machine-learning.html"
@@ -749,6 +768,22 @@
 	],
 	"exhibitions":[
 		{
+			"dates":"2017 Dec 15-17",
+			"name":"Group Exhibition: Cubist Mirror, Meat Puppet, Neural Synth",
+			"where":"<a href=\"https://befantastic.in/\">Bangalore Fantastic</a>, Bangalore, India",
+			"info":"https://befantastic.in/portfolio/gene-kogan/"
+		},{
+			"dates":"2017 Dec 4-9",
+			"name":"Exhibition: NIPS Workshp on ML for Creativity & Design",
+			"where":"<a href=\"https://nips.cc/\">NIPS conference</a>, Long Beach, CA",
+			"info":"http://nips4creativity.com/art/gene-kogan/",
+			"video":"https://vimeo.com/manage/246047871"
+		},{
+			"dates":"2017 Nov 29",
+			"name":"Exhibition: Cubist Mirror & Meat Puppet",
+			"where":"<a href=\"https://www.hub.berlin\">hub.berlin</a>, Berlin, Germany",
+			"info":"https://www.hub.berlin/en/artists/gene-kogan"
+		},{
 			"dates":"2017 Nov 25",
 			"name":"Group Exhibition: Neural synthesis (at Cybernetic Choreographies exhibition)",
 			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
