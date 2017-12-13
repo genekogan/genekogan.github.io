@@ -3,13 +3,23 @@ layout: work
 title: Neural synthesis
 description: Recent experiments with neural channel synthesis a.k.a. Deepdream
 year: 2017
-thumbnail: /images/home/thumb_neural-synth.jpg(not_found)
+thumbnail: /images/home/thumb_neural-synth.jpg
 includes: [lightbox]
 redirect_from: /works/neural-synth.html
 ---
 
+<p>
+Some recent experiments with neural channel synthesis. An <a href="http://ml4a.github.io">ml4a</a> notebook which shows how to create these and a bit of background on the technique can be found <a href="https://github.com/ml4a/ml4a-guides/blob/master/notebooks/neural-synth.ipynb">here</a>.
+</p>
 
-Some recent experiments with neural channel synthesis.
+<p>
+	The following video was created for the <a href="http://www.nips4creativity.com">creativity exhibition</a> at <a href="http://www.nips.cc">NIPS conference</a> in 2017.
+</p>
+<p>
+	<center>
+	<iframe src="https://player.vimeo.com/video/246047871" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	</center>
+</p>
 
 <p>
 	<center>

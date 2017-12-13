@@ -1,11 +1,6 @@
 {
 	"talks":[
 		{
-			"date":"2017 Dec 14", 
-			"where":"<a href=\"http://cis-india.org/\">Center for Internet & Society</a>, Bangalore, India",
-			"name":"TBD",
-			"extended":true
-		},{
 			"date":"2017 Dec 12", 
 			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
 			"name":"Decentralized AI",
@@ -425,11 +420,6 @@
 			"name":"TBD",
 			"extended":true
 		},{
-			"dates":"2017 Nov 22-29", 
-			"where":"<a href=\"https://bcgdv.com/\">BCGDV</a>, Berlin, Germany",
-			"name":"Decentralized AI",
-			"extended":true
-		},{
 			"dates":"2017 Dec 17", 
 			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
 			"name":"Decentralized AI",
@@ -443,6 +433,11 @@
 			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
 			"name":"Neural synthesis",
 			"info":"http://spektrumberlin.de/events/detail/neural-synthesis.html"
+		},{
+			"dates":"2017 Nov 22-29", 
+			"where":"<a href=\"https://bcgdv.com/\">BCGDV</a>, Berlin, Germany",
+			"name":"Decentralized AI",
+			"extended":true
 		},{
 			"dates":"2017 Nov 12", 
 			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
