@@ -1,15 +1,18 @@
 {
 	"talks":[
 		{
+			"dates":"2018 Feb 5", 
+			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry, Carnegie Mellon University</a>, Pittsburgh, PA",
+			"name":"TBD"
+		},{
 			"date":"2018 Jan 28-29", 
 			"where":"<a href=\"http://www.ctm-festival.de\">CTM Festival</a>, Berlin, Germany",
 			"name":"Talk at MusicMakers HackLab",
 			"info":"http://www.ctm-festival.de/festival-2018/transfer/musicmakers-hacklab/"
 		},{
-			"dates":"2018 Jan 25", 
+			"date":"2018 Jan 25", 
 			"where":"<a href=\"http://www.dam-gallery.de/\">DAM Gallery</a>, Berlin, Germany",
-			"name":"TBD",
-			"extended":true
+			"name":"TBD"
 		},{
 			"date":"2017 Dec 12", 
 			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
@@ -425,6 +428,11 @@
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, San José, Costa Rica",
 			"name":"TBD",
 			"extended":true
+		},{
+			"dates":"2018 Apr 9-11", 
+			"where":"<a href=\"http://www.strelka.com/\">Strelka Institue</a>, Moscow, Russia",
+			"name":"Workshop at The New Normal",
+			"info":"https://thenewnormal.strelka.com/info/kogan"
 		},{
 			"dates":"2018 Feb 12-18", 
 			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
