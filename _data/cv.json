@@ -1,6 +1,16 @@
 {
 	"talks":[
 		{
+			"date":"2018 Jan 28-29", 
+			"where":"<a href=\"http://www.ctm-festival.de\">CTM Festival</a>, Berlin, Germany",
+			"name":"Talk at MusicMakers HackLab",
+			"info":"http://www.ctm-festival.de/festival-2018/transfer/musicmakers-hacklab/"
+		},{
+			"dates":"2018 Jan 25", 
+			"where":"<a href=\"http://www.dam-gallery.de/\">DAM Gallery</a>, Berlin, Germany",
+			"name":"TBD",
+			"extended":true
+		},{
 			"date":"2017 Dec 12", 
 			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
 			"name":"Decentralized AI",
@@ -399,22 +409,31 @@
 			"dates":"2018 Aug 6-10", 
 			"where":"<a href=\"https://www.andersonranch.org/\">Anderson Ranch</a>, Snowmass Village, CO",
 			"name":"Machine learning for new media art",
-			"extended":true
+			"info":"https://www.andersonranch.org/workshop/machine-learning-for-new-media-art-p1026-18/"
 		},{
 			"dates":"2018 May 28-Jun 1", 
 			"where":"<a href=\"http://www.cityu.edu.hk/\">City University of Hong Kong</a>, Hong Kong",
 			"name":"TBD",
 			"extended":true
 		},{
-			"dates":"2018 Feb 12-18", 
-			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
+			"dates":"2018 May 14-18", 
+			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
 			"name":"TBD",
 			"extended":true
 		},{
-			"dates":"2018 Feb 3-11", 
-			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry, Carnegie Mellon University</a>, Pittsburgh, PA",
+			"dates":"2018 Apr 23-27", 
+			"where":"<a href=\"https://ciid.dk\">CIID</a>, San José, Costa Rica",
 			"name":"TBD",
 			"extended":true
+		},{
+			"dates":"2018 Feb 12-18", 
+			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
+			"name":"Machine learning literacy",
+			"info":"http://sfpc.io/machineLearningLiteracy/"
+		},{
+			"dates":"2018 Feb 3-11", 
+			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry, Carnegie Mellon University</a>, Pittsburgh, PA",
+			"name":"Machine learning for artists"
 		},{
 			"dates":"2018 Feb 2", 
 			"where":"<a href=\"https://www.microsoft.com/en-us/garage/\">Microsoft Garage</a>, Vancouver, BC",
@@ -424,7 +443,8 @@
 			"dates":"2017 Dec 17", 
 			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
 			"name":"Decentralized AI",
-			"info":"https://anthillinside.in/2017-decentralized-ai-applications/"
+			"info":"https://anthillinside.in/2017-decentralized-ai-applications/",
+			"slides":"https://docs.google.com/presentation/d/1RI6BnBsJtTBg3djZbD1hDjuhQagPBAUtAqcqoYWQTxU"
 		},{
 			"dates":"2017 Dec 7-8", 
 			"where":"<a href=\"https://www.rmit.edu.au/\">RMIT University</a>, Melbourne, Australia",
@@ -931,6 +951,9 @@
 		}
 	]
 }
+
+
+
 
 
 
