@@ -39,7 +39,7 @@ redirect_from:
 			<li><a href="#exhibitions">Exhibitions</a></li>
 			<li><a href="#residencies">Residencies</a></li>
 			<li><a href="#publications">Publications</a></li>
-			<li><a href="#education">Education</a></li>
+			<!--<li><a href="#education">Education</a></li>-->
 		</ul>
 	</div>
 
@@ -187,7 +187,7 @@ redirect_from:
 		</div>
 		{% endfor %}
 	</div>
-
+<!--
 	<div id="education" class="cv_section">
 		<div class="cv_heading">Education, grants/awards</div>
 		<div class="cv_entry">
@@ -203,7 +203,7 @@ redirect_from:
 			<div class="links"></div>
 		</div>
 	</div>
-
+-->
 </div>
 
 <script>
