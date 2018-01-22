@@ -8,12 +8,13 @@
 		},{
 			"date":"2018 Jan 28-29", 
 			"where":"<a href=\"http://www.ctm-festival.de\">CTM Festival</a>, Berlin, Germany",
-			"name":"Talk at MusicMakers HackLab (The new DAW: deep audio workstations)",
-			"info":"http://www.ctm-festival.de/festival-2018/transfer/musicmakers-hacklab/"
+			"name":"Talk at <a href=\"http://www.ctm-festival.de/festival-2018/transfer/musicmakers-hacklab/\">MusicMakers HackLab</a> (The new DAW: deep audio workstations)",
+			"info":"http://www.ctm-festival.de/festival-2018/artists/f-j/gene-kogan/"
 		},{
 			"date":"2018 Jan 25", 
 			"where":"<a href=\"http://www.dam-gallery.de/\">DAM Gallery</a>, Berlin, Germany",
-			"name":"TBD"
+			"name":"Postdigitale Kunstpraktiken in der Kulturellen Bildung",
+			"info":"https://www.facebook.com/events/190779994992336/?notif_t=plan_user_invited&notif_id=1516376231072264"
 		},{
 			"date":"2017 Dec 12", 
 			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
@@ -65,7 +66,7 @@
 			"date":"2017 Sep 5", 
 			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
 			"name":"Machine learning for creativity",
-			"info":"https://2017.theconference.se/speakers/gene-kogan",
+			"info":"https://2017.theconference.se/speakers/",
 			"video":"https://videos.theconference.se/gene-kogan-machine-learning-for-creatives"
 		},{
 			"date":"2017 Aug 31", 
