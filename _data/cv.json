@@ -1,20 +1,45 @@
 {
 	"talks":[
 		{
+			"dates":"2018 Jun 22", 
+			"where":"<a href=\"http://bump-festival.be/\">Bump Festival</a>, Kortrijk, Belgium",
+			"name":"TBD",
+			"info":"http://bump-festival.be/"
+		},{			
+			"date":"2018 Mar 3", 
+			"where":"<a href=\"http://www.kongresunams.lv/\">Riga Congress Centre</a>, Riga, Latvia",
+			"name":"(via Skype) Talk at DATTACK Workshop at <a href=\"http://www.staroriga.lv/\">Staro Riga</a>",
+			"info":"http://dattack.lv/lv"
+		},{
 			"date":"2018 Feb 5", 
 			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry, Carnegie Mellon University</a>, Pittsburgh, PA",
 			"name":"Steiner Lecture in Creative Inquiry",
 			"info":"http://studioforcreativeinquiry.org/events/steiner-lecture-in-creative-inquiry-gene-kogan"
 		},{
-			"date":"2018 Jan 28-29", 
+			"date":"2018 Jan 30", 
 			"where":"<a href=\"http://www.ctm-festival.de\">CTM Festival</a>, Berlin, Germany",
-			"name":"Talk at <a href=\"http://www.ctm-festival.de/festival-2018/transfer/musicmakers-hacklab/\">MusicMakers HackLab</a> (The new DAW: deep audio workstations)",
+			"name":"Musicmaker's dystopia; the automation of songwriting, production, and curation",
 			"info":"http://www.ctm-festival.de/festival-2018/artists/f-j/gene-kogan/"
+		},{
+			"dates":"2018 Jan 26", 
+			"where":"<a href=\"\"> </a>, , ",
+			"name":"Data stories podcast (w/ Moritz Stefaner & )",
+			"extended":true
 		},{
 			"date":"2018 Jan 25", 
 			"where":"<a href=\"http://www.dam-gallery.de/\">DAM Gallery</a>, Berlin, Germany",
 			"name":"Postdigitale Kunstpraktiken in der Kulturellen Bildung",
 			"info":"https://www.facebook.com/events/190779994992336/?notif_t=plan_user_invited&notif_id=1516376231072264"
+		},{
+			"dates":"2018 Jan 24", 
+			"where":"<a href=\"https://www.rca.ac.uk/schools/school-of-communication/ied/\">Royal College of Art</a>, London, UK",
+			"name":"(via Skype) presentation and Q&A at Pattern Recognition course",
+			"extended":true
+		},{
+			"date":"2017 Dec 15", 
+			"where":"<a href=\"https://befantastic.in/\">Bengaluru Fantastic</a>, Bangalore, India",
+			"name":"Talk at Bengaluru Fantastic",
+			"info":"https://befantastic.in/portfolio/gene-kogan/"
 		},{
 			"date":"2017 Dec 12", 
 			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
@@ -437,6 +462,12 @@
 			"name":"Workshop at The New Normal",
 			"info":"https://thenewnormal.strelka.com/info/kogan"
 		},{
+			"dates":"2018 Mar 3", 
+			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
+			"name":"TBD",
+			"info":"http://spektrumberlin.de/",
+			"extended":true
+		},{
 			"dates":"2018 Feb 12-18", 
 			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
 			"name":"Machine learning literacy",
@@ -797,7 +828,7 @@
 		{
 			"dates":"2017 Dec 15-17",
 			"name":"Group Exhibition: Cubist Mirror, Meat Puppet, Neural Synth",
-			"where":"<a href=\"https://befantastic.in/\">Bangalore Fantastic</a>, Bangalore, India",
+			"where":"<a href=\"https://befantastic.in/\">Bengaluru Fantastic</a>, Bangalore, India",
 			"info":"https://befantastic.in/portfolio/gene-kogan/"
 		},{
 			"dates":"2017 Dec 4-9",
