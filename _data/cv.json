@@ -1,10 +1,11 @@
 {
 	"talks":[
 		{
-			"dates":"2018 Jun 22", 
+			"date":"2018 Jun 22", 
 			"where":"<a href=\"http://bump-festival.be/\">Bump Festival</a>, Kortrijk, Belgium",
 			"name":"TBD",
-			"info":"http://bump-festival.be/"
+			"info":"http://bump-festival.be/",
+			"extended":true
 		},{			
 			"date":"2018 Mar 3", 
 			"where":"<a href=\"http://www.kongresunams.lv/\">Riga Congress Centre</a>, Riga, Latvia",
