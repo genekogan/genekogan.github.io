@@ -61,6 +61,11 @@ redirect_from:
 						<a href="{{ c.video }}">[video]</a>
 					</div>
 				{% endif %}
+				{% if c.audio %}
+					<div class="video_link">
+						<a href="{{ c.audio }}">[audio]</a>
+					</div>
+				{% endif %}
 				{% if c.slides %}
 					<div class="video_link">
 						<a href="{{ c.slides }}">[slides]</a>
@@ -99,6 +104,11 @@ redirect_from:
 						<a href="{{ c.video }}">[video]</a>
 					</div>
 				{% endif %}
+				{% if c.audio %}
+					<div class="video_link">
+						<a href="{{ c.audio }}">[audio]</a>
+					</div>
+				{% endif %}
 				{% if c.slides %}
 					<div class="video_link">
 						<a href="{{ c.slides }}">[slides]</a>
@@ -132,6 +142,11 @@ redirect_from:
 						<a href="{{ c.video }}">[video]</a>
 					</div>
 				{% endif %}
+				{% if c.audio %}
+					<div class="video_link">
+						<a href="{{ c.audio }}">[audio]</a>
+					</div>
+				{% endif %}
 				{% if c.photo %}
 					<div class="video_link">
 						<a href="{{ c.photo }}">[photos]</a>
@@ -160,6 +175,11 @@ redirect_from:
 						<a href="{{ c.video }}">[video]</a>
 					</div>
 				{% endif %}
+				{% if c.audio %}
+					<div class="video_link">
+						<a href="{{ c.audio }}">[audio]</a>
+					</div>
+				{% endif %}
 			</div>
 		</div>
 		{% endfor %}
@@ -181,6 +201,11 @@ redirect_from:
 				{% if c.video %}
 					<div class="video_link">
 						<a href="{{ c.video }}">[video]</a>
+					</div>
+				{% endif %}
+				{% if c.audio %}
+					<div class="video_link">
+						<a href="{{ c.audio }}">[audio]</a>
 					</div>
 				{% endif %}
 			</div>
