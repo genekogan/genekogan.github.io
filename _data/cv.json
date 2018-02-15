@@ -7,13 +7,28 @@
 			"info":"http://bump-festival.be/",
 			"extended":true
 		},{			
+			"date":"2018 Mar 16", 
+			"where":"<a href=\"http://arsincognita.concept-script.com/\">Centro de Creación Contemporánea de Andalucía</a>, Córdoba, Spain",
+			"name":"Talk at <a href=\"http://arsincognita.concept-script.com/\">Symposium on art & intelligence</a>",
+			"info":"http://arsincognita.concept-script.com/"
+		},{			
 			"date":"2018 Mar 3", 
 			"where":"<a href=\"http://www.kongresunams.lv/\">Riga Congress Centre</a>, Riga, Latvia",
 			"name":"(via Skype) Talk at DATTACK Workshop at <a href=\"http://www.staroriga.lv/\">Staro Riga</a>",
 			"info":"http://dattack.lv/lv"
 		},{
+			"date":"2018 Feb 15", 
+			"where":"<a href=\"https://cmc.music.columbia.edu/\">Computer Music Center</a>, Columbia University, New York, NY",
+			"name":"Machine Learning In the Composer's Future Toolkit",
+			"info":"https://music.columbia.edu/events/gene-kogan-machine-learning-in-the-composers-future-toolkit"
+		},{
+			"date":"2018 Feb 12", 
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"Artist talk at ITP",
+			"info":"http://tisch.nyu.edu/itp/events/spring-2018/artist-talk-with-gene-kogan"
+		},{
 			"date":"2018 Feb 5", 
-			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry, Carnegie Mellon University</a>, Pittsburgh, PA",
+			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry</a>, Carnegie Mellon University, Pittsburgh, PA",
 			"name":"Steiner Lecture in Creative Inquiry",
 			"info":"http://studioforcreativeinquiry.org/events/steiner-lecture-in-creative-inquiry-gene-kogan"
 		},{
@@ -161,7 +176,7 @@
 			"date":"2017 Apr 29", 
 			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
 			"name":"Machine learning for artists",
-			"info":"http://sensorium.is/speakers/gene-kogan"
+			"info":"https://2017.sensorium.is/speakers/gene-kogan"
 		},{
 			"date":"2017 Apr 20", 
 			"where":"<a href=\"http://www.resonate.io/2017/\">Resonate Festival</a>, Belgrade, Serbia",
@@ -439,6 +454,11 @@
 	],
 	"teaching":[
 		{
+			"dates":"2018 Aug 6-31", 
+			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
+			"name":"Autonomous Generative Spirit (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"info":"http://schoolofma.org/autonomous-generative-spirit/"
+		},{
 			"dates":"2018 Aug 6-10", 
 			"where":"<a href=\"https://www.andersonranch.org/\">Anderson Ranch</a>, Snowmass Village, CO",
 			"name":"Machine learning for new media art",
@@ -470,14 +490,20 @@
 			"info":"http://spektrumberlin.de/",
 			"extended":true
 		},{
-			"dates":"2018 Feb 12-18", 
+			"dates":"2018 Feb 15-16", 
 			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
 			"name":"Machine learning literacy",
 			"info":"http://sfpc.io/machineLearningLiteracy/"
 		},{
+			"dates":"2018 Feb 14", 
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"Machine learning for artists",
+			"info":"http://tisch.nyu.edu/itp/events/spring-2018/machine-learning-workshop-with-gene-kogan"
+		},{
 			"dates":"2018 Feb 3-11", 
-			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry, Carnegie Mellon University</a>, Pittsburgh, PA",
-			"name":"Machine learning for artists"
+			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry</a>, Carnegie Mellon University, Pittsburgh, PA",
+			"name":"Machine learning for artists",
+			"video":"https://www.youtube.com/watch?v=eQOxYueQuPY"
 		},{
 			"dates":"2018 Feb 2", 
 			"where":"<a href=\"https://www.microsoft.com/en-us/garage/\">Microsoft Garage</a>, Vancouver, BC",
@@ -608,7 +634,7 @@
 			"dates":"2017 Apr 30", 
 			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
 			"name":"Machine learning for artists and designers",
-			"info":"http://sensorium.is/workshops/machine-learning"
+			"info":"https://2017.sensorium.is/workshops/machine-learning"
 		},{
 			"dates":"2017 Apr 24-28", 
 			"where":"<a href=\"http://ecal.ch/fr/100/homepage\">Ecole cantonale d'art</a>, Lausanne, Switzerland",
