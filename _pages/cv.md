@@ -179,6 +179,9 @@ window.onload = function() {
 	if (window.location.hash=="#all") {
 		displayAllEntries();
 	}
+	if (window.location.hash=="#teaching") {
+		selectType('teaching');
+	}
 	highlightUpcoming();
 };
 </script>
