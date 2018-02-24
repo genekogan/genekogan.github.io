@@ -149,7 +149,10 @@ function selectType(selectedType) {
 	var d = document.getElementsByClassName("cv_entry");
 	for(var i = 0; i < d.length; i++){ 
 		if (types.indexOf(d[i].getElementsByClassName("type")[0].textContent) > -1) {
-			d[i].style.display = "block";
+			
+			if (d[i].className.split(" ").indexOf("extended") == -1) {
+				d[i].style.display = "block";
+			}
 		} else {
 			d[i].style.display = "none";
 		}

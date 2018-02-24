@@ -2,7 +2,7 @@
 	"talks":[
 		{
 			"type":"workshop",
-			"date":"2018 Aug 13-31", 
+			"date":"2018 Aug 11-31", 
 			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
 			"name":"Autonomous Generative Spirit (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
 			"info":"http://schoolofma.org/autonomous-generative-spirit/"
@@ -690,7 +690,7 @@
 			"info":"http://www.ai.withthebest.com/",
 			"video":"https://www.youtube.com/watch?v=mr6ISQ33V9c"
 		},{
-			"type":"talk",
+			"type":"interview",
 			"date":"2016 Aug 23",
 			"where":"<a href=\"http://lacunalab.com/\">Lacuna Lab</a>, Berlin, Germany",
 			"name":"Interview with <a href=\"http://www.kadenze.com\">Kadenze</a>",
