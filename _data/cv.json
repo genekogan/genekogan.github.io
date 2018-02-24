@@ -1,1022 +1,1195 @@
 {
 	"talks":[
 		{
+			"type":"workshop",
+			"date":"2018 Aug 13-31", 
+			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
+			"name":"Autonomous Generative Spirit (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"info":"http://schoolofma.org/autonomous-generative-spirit/"
+		},{
+			"type":"workshop",
+			"date":"2018 Aug 6-10", 
+			"where":"<a href=\"https://www.andersonranch.org/\">Anderson Ranch</a>, Snowmass Village, CO",
+			"name":"Machine learning for new media art",
+			"info":"https://www.andersonranch.org/workshop/machine-learning-for-new-media-art-p1026-18/"
+		},{
+			"type":"talk",
 			"date":"2018 Jun 22", 
 			"where":"<a href=\"http://bump-festival.be/\">Bump Festival</a>, Kortrijk, Belgium",
 			"name":"TBD",
 			"info":"http://bump-festival.be/",
 			"extended":true
+		},{
+			"type":"workshop",
+			"date":"2018 May 28-Jun 1", 
+			"where":"<a href=\"http://www.cityu.edu.hk/\">City University of Hong Kong</a>, Hong Kong",
+			"name":"Machine learning for artists"
+		},{
+			"type":"workshop",
+			"date":"2018 May 14-18", 
+			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
+			"name":"Machine learning for interaction design"
+		},{
+			"type":"workshop",
+			"date":"2018 Apr 23-27", 
+			"where":"<a href=\"https://ciid.dk\">CIID</a>, San José, Costa Rica",
+			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-costa-rica/workshops/machine-learning/"
+		},{
+			"type":"workshop",
+			"date":"2018 Apr 9-11", 
+			"where":"<a href=\"http://www.strelka.com/\">Strelka Institue</a>, Moscow, Russia",
+			"name":"Workshop at The New Normal",
+			"info":"https://thenewnormal.strelka.com/info/kogan"
+		},{
+			"type":"workshop",
+			"date":"2018 Apr 7", 
+			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
+			"name":"Autonomous Art Systems",
+			"info":"http://spektrumberlin.de/events/detail/autonomous-art-systems.html",
 		},{			
+			"type":"talk",
 			"date":"2018 Mar 16", 
 			"where":"<a href=\"http://arsincognita.concept-script.com/\">Centro de Creación Contemporánea de Andalucía</a>, Córdoba, Spain",
 			"name":"Talk at <a href=\"http://arsincognita.concept-script.com/\">Symposium on art & intelligence</a>",
 			"info":"http://arsincognita.concept-script.com/"
 		},{			
+			"type":"talk",
 			"date":"2018 Mar 3", 
 			"where":"<a href=\"http://www.kongresunams.lv/\">Riga Congress Centre</a>, Riga, Latvia",
 			"name":"(via Skype) Talk at DATTACK Workshop at <a href=\"http://www.staroriga.lv/\">Staro Riga</a>",
 			"info":"http://dattack.lv/lv"
 		},{
+			"type":"workshop",
+			"date":"2018 Feb 15-16", 
+			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
+			"name":"Machine learning literacy",
+			"info":"http://sfpc.io/machineLearningLiteracy/"
+		},{
+			"type":"talk",
 			"date":"2018 Feb 15", 
 			"where":"<a href=\"https://cmc.music.columbia.edu/\">Computer Music Center</a>, Columbia University, New York, NY",
 			"name":"Machine Learning In the Composer's Future Toolkit",
 			"info":"https://music.columbia.edu/events/gene-kogan-machine-learning-in-the-composers-future-toolkit"
 		},{
+			"type":"workshop",
+			"date":"2018 Feb 14", 
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"Machine learning for artists",
+			"info":"http://tisch.nyu.edu/itp/events/spring-2018/machine-learning-workshop-with-gene-kogan"
+		},{
+			"type":"talk",
 			"date":"2018 Feb 12", 
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
 			"name":"Artist talk at ITP",
 			"info":"http://tisch.nyu.edu/itp/events/spring-2018/artist-talk-with-gene-kogan"
 		},{
+			"type":"workshop",
+			"date":"2018 Feb 6-8", 
+			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry</a>, Carnegie Mellon University, Pittsburgh, PA",
+			"name":"Machine learning for artists",
+			"video":"https://www.youtube.com/watch?v=eQOxYueQuPY"
+		},{
+			"type":"talk",
 			"date":"2018 Feb 5", 
 			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry</a>, Carnegie Mellon University, Pittsburgh, PA",
 			"name":"Steiner Lecture in Creative Inquiry",
 			"info":"http://studioforcreativeinquiry.org/events/steiner-lecture-in-creative-inquiry-gene-kogan"
 		},{
+			"type":"workshop",
+			"date":"2018 Feb 2", 
+			"where":"<a href=\"https://www.microsoft.com/en-us/garage/\">Microsoft Garage</a>, Vancouver, BC",
+			"name":"TBD",
+			"extended":true
+		},{
+			"type":"podcast",
 			"date":"2018 Jan 31", 
 			"where":"<a href=\"http://datastori.es/\">Data Stories podcast</a>",
 			"name":"<a href=\"http://datastori.es/114-machine-learning-for-artists-with-gene-kogan/\">Data Stories 114</a> (w/ Moritz Stefaner & Enrico Bertini)",
 			"info":"http://datastori.es/114-machine-learning-for-artists-with-gene-kogan/",
 			"audio":"http://datastori.es/114-machine-learning-for-artists-with-gene-kogan/"
 		},{
+			"type":"talk",
 			"date":"2018 Jan 30", 
 			"where":"<a href=\"http://www.ctm-festival.de\">CTM Festival</a>, Berlin, Germany",
 			"name":"Musicmaker's dystopia; the automation of songwriting, production, and curation",
 			"info":"http://www.ctm-festival.de/festival-2018/artists/f-j/gene-kogan/"
 		},{
+			"type":"talk",
 			"date":"2018 Jan 25", 
 			"where":"<a href=\"http://www.dam-gallery.de/\">DAM Gallery</a>, Berlin, Germany",
 			"name":"Postdigitale Kunstpraktiken in der Kulturellen Bildung",
 			"info":"https://www.facebook.com/events/190779994992336/?notif_t=plan_user_invited&notif_id=1516376231072264"
 		},{
-			"dates":"2018 Jan 24", 
+			"type":"talk",
+			"date":"2018 Jan 24", 
 			"where":"<a href=\"https://www.rca.ac.uk/schools/school-of-communication/ied/\">Royal College of Art</a>, London, UK",
 			"name":"(via Skype) presentation and Q&A at Pattern Recognition course",
 			"extended":true
 		},{
+			"type":"workshop",
+			"date":"2017 Dec 17", 
+			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
+			"name":"Decentralized AI",
+			"info":"https://anthillinside.in/2017-decentralized-ai-applications/",
+			"slides":"https://docs.google.com/presentation/d/1RI6BnBsJtTBg3djZbD1hDjuhQagPBAUtAqcqoYWQTxU"
+		},{
+			"type":"exhibition",
+			"date":"2017 Dec 15-17",
+			"name":"Cubist Mirror, Meat Puppet, Neural Synth",
+			"where":"<a href=\"https://befantastic.in/\">Bengaluru Fantastic</a>, Bangalore, India",
+			"info":"https://befantastic.in/portfolio/gene-kogan/"
+		},{
+			"type":"talk",
 			"date":"2017 Dec 15", 
 			"where":"<a href=\"https://befantastic.in/\">Bengaluru Fantastic</a>, Bangalore, India",
 			"name":"Talk at Bengaluru Fantastic",
 			"info":"https://befantastic.in/portfolio/gene-kogan/"
 		},{
+			"type":"workshop",
 			"date":"2017 Dec 12", 
 			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
 			"name":"Decentralized AI",
 			"info":"https://anthillinside.in/2017-dec-bangalore-lecture/",
 			"video":"https://www.youtube.com/watch?v=AcKMSLn_9Yg"
 		},{
+			"type":"talk",
 			"date":"2017 Dec 11", 
 			"where":"<a href=\"http://cis-india.org/\">Center for Internet & Society</a>, Bangalore, India",
 			"name":"Elements of a decentralized web",
 			"info":"https://cis-india.org/internet-governance/events/elements-of-a-decentralized-web-talk-by-gene-kogan"
 		},{
+			"type":"talk",
 			"date":"2017 Dec 8", 
 			"where":"<a href=\"http://designhub.rmit.edu.au/\">RMIT University</a>, Melbourne, Australia",
 			"name":"Symposium on machine learning for creative practice",
 			"info":"http://architecture.rmit.edu.au/news-events/?ajaxpost=5438&ajaxpost=5438"
 		},{
+			"type":"workshop",
+			"date":"2017 Dec 7-8", 
+			"where":"<a href=\"https://www.rmit.edu.au/\">RMIT University</a>, Melbourne, Australia",
+			"name":"Machine learning for architecture and design"
+		},{
+			"type":"exhibition",
+			"date":"2017 Dec 4-9",
+			"name":"NIPS Workshp on ML for Creativity & Design",
+			"where":"<a href=\"https://nips.cc/\">NIPS conference</a>, Long Beach, CA",
+			"info":"http://nips4creativity.com/art/gene-kogan/",
+			"video":"https://vimeo.com/manage/246047871"
+		},{
+			"type":"installation",
+			"date":"2017 Nov 29",
+			"name":"Cubist Mirror & Meat Puppet",
+			"where":"<a href=\"https://www.hub.berlin\">hub.berlin</a>, Berlin, Germany",
+			"info":"https://www.hub.berlin/en/artists/gene-kogan"
+		},{
+			"type":"talk",
 			"date":"2017 Nov 28", 
 			"where":"<a href=\"https://www.hub.berlin\">hub.berlin</a>, Berlin, Germany",
 			"name":"Machine learning for artists",
 			"info":"https://www.hub.berlin/en/artists/gene-kogan"
 		},{
+			"type":"workshop",
+			"date":"2017 Nov 25", 
+			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
+			"name":"Neural synthesis",
+			"info":"http://spektrumberlin.de/events/detail/neural-synthesis.html"
+		},{
+			"type":"exhibition",
+			"date":"2017 Nov 25",
+			"name":"Group Exhibition: Neural synthesis (at Cybernetic Choreographies exhibition)",
+			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
+			"info":"http://spektrumberlin.de/events/detail/exhibition-13-cybernetic-choreographies.html"
+		},{
+			"type":"workshop",
+			"date":"2017 Nov 22, 28-29", 
+			"where":"<a href=\"https://bcgdv.com/\">BCGDV</a>, Berlin, Germany",
+			"name":"Decentralized AI",
+			"extended":true
+		},{
+			"type":"talk",
 			"date":"2017 Nov 16", 
 			"where":"<a href=\"http://www.ppluk.com/\">PPL meetup</a>, London, UK",
 			"name":"Machine learning for musicians (online)",
 			"info":"https://twitter.com/PPLUK/status/931169521632731137",
 			"extended":true
 		},{
+			"type":"workshop",
+			"date":"2017 Nov 12", 
+			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
+			"name":"Machine learning for artists",
+			"info":"https://loop.ableton.com/2017/participants/gene-kogan/"
+		},{
+			"type":"talk",
 			"date":"2017 Nov 12", 
 			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
 			"name":"Deep Listener: Machine learning in the composer's future toolkit",
 			"info":"https://loop.ableton.com/2017/participants/gene-kogan/"
 		},{
+			"type":"workshop",
+			"date":"2017 Nov 4", 
+			"where":"<a href=\"http://www.kikk.be/2017\">Kikk Festival</a>, Namur, Belgium",
+			"name":"Interactive machine learning (with <a href=\"http://stoj.io/\">Støj</a>)",
+			"info":"https://www.kikk.be/2017/en/program/workshops/stoj-gene-kogan"
+		},{
+			"type":"workshop",
+			"date":"2017 Oct 31", 
+			"where":"<a href=\"https://sap.mit.edu/\">MIT</a>, Cambridge, MA",
+			"name":"ML for design and the built environment (<a href=\"http://2017.acadia.org/home.html\">Acadia 2017</a>)",
+			"info":"http://2017.acadia.org/workshops.html"
+		},{
+			"type":"workshop",
+			"date":"2017 Oct 29", 
+			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
+			"name":"Decentralized AI",
+			"info":"https://www.eventbrite.com/e/decentralised-ai-tickets-38723662517"
+		},{
+			"type":"workshop",
+			"date":"2017 Oct 21", 
+			"where":"<a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>, Prague, Czech Republic",
+			"name":"Machine learning for artists",
+			"info":"http://www.lunchmeat.cz/en/events/input/schedule/[input]-no3---workshop-w-gene-kogan-474.html"
+		},{
+			"type":"talk",
 			"date":"2017 Oct 20", 
 			"where":"<a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>, Prague, Czech Republic",
 			"name":"Machine learning for artists",
 			"info":"http://www.lunchmeat.cz/en/events/input/schedule/[input]-no3---workshop-w-gene-kogan-474.html"
 		},{
+			"type":"exhibition",
+			"date":"2017 Oct 19-21", 
+			"where":"<a href=\"http://www.holesovickasachta.cz/\">Holešovická Šachta</a>, Prague, Czech Republic",
+			"name":"Neural synthesis (at <a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>)",
+			"info":"http://lunchmeatfestival.cz/2017/program/exhibition/",
+			"photo":"https://www.instagram.com/p/BajFfGSgSRX/?taken-by=genekogan"
+		},{
+			"type":"workshop",
+			"date":"2017 Oct 14", 
+			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
+			"name":"Decentralized AI",
+			"info":"https://www.eventbrite.com/e/decentralised-ai-tickets-37888384177",
+			"slides":"https://docs.google.com/presentation/d/1RI6BnBsJtTBg3djZbD1hDjuhQagPBAUtAqcqoYWQTxU"
+		},{
+			"type":"talk",
 			"date":"2017 Sep 12", 
 			"where":"<a href=\"https://twitter.com/artandtechvie\">Arts+Tech Vienna</a>, Vienna, Austria",
 			"name":"Talk at Arts+Tech Vienna",
 			"extended":true
 		},{
+			"type":"talk",
+			"date":"2017 Sep 10", 
+			"where":"<a href=\"https://www.aec.at/ai/en\">Ars Electronica</a>, Linz, Austria",
+			"name":"Tutorial on machine learning for artists",
+			"info":"https://www.aec.at/ai/en/ai-tutorial-sessions/"
+		},{
+			"type":"talk",
 			"date":"2017 Sep 9", 
 			"where":"<a href=\"https://www.aec.at/ai/en\">Ars Electronica</a>, Linz, Austria",
 			"name":"Experts Tour: The Neural Aesthetic",
 			"info":"https://www.aec.at/ai/en/expertstour-neuralaesthetic/"
 		},{
+			"type":"installation",
+			"date":"2017 Sep 7-11",
+			"name":"Installation: Selection of real-time neural-image transformations",
+			"where":"<a href=\"https://www.aec.at/ai/en\">Ars Electronica</a>, Linz, Austria",
+			"info":"https://www.aec.at/ai/en/image-transformations/"
+		},{
+			"type":"workshop",
+			"date":"2017 Sep 6", 
+			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
+			"name":"Machine learning for creatives masterclass",
+			"info":"https://2017.theconference.se/side-events/machine-learning-for-creatives-gene-kogan"
+		},{
+			"type":"talk",
 			"date":"2017 Sep 5", 
 			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
 			"name":"Machine learning for creativity",
 			"info":"https://2017.theconference.se/speakers/",
 			"video":"https://videos.theconference.se/gene-kogan-machine-learning-for-creatives"
 		},{
+			"type":"talk",
 			"date":"2017 Aug 31", 
 			"where":"<a href=\"https://www.google.com\">Google</a>, San Francisco, CA",
 			"name":"ml4a talk",
 			"extended":true
 		},{
+			"type":"talk",
 			"date":"2017 Aug 29", 
 			"where":"<a href=\"http://www.uxweek.com\">UX Week</a>, San Francisco, CA",
 			"name":"Learned Interfaces",
 			"info":"http://uxweek.com/schedule/learned-interfaces"
 		},{
+			"type":"talk",
 			"date":"2017 Aug 25", 
 			"where":"<a href=\"http://theshed.org/\">The Shed</a>, New York, NY",
 			"name":"ml4a talk",
 			"extended":true
 		},{
+			"type":"installation",
+			"date":"2017 Aug 20-Oct 29",
+			"name":"Exhibition: Why the Future Still Needs Us",
+			"where":"<a href=\"http://www.artmuseum.qut.edu.au/\">QUT Art Museum</a>, Brisbane, Australia",
+			"info":"http://www.artmuseum.qut.edu.au/exhibit/2017/future-needs.jsp"
+		},{
+			"type":"workshop",
+			"date":"2017 Aug 2-4", 
+			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
+			"name":"Prototyping designs with computer vision",
+			"info":"http://schoolofma.org/august2017/"
+		},{
+			"type":"workshop",
+			"date":"2017 Jul 24-28", 
+			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
+			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-2017/workshops/machine-learning-for-interaction-design/"
+		},{
+			"type":"talk",
 			"date":"2017 Jun 28", 
 			"where":"<a href=\"https://www.http://eyeofestival.com/\">Eyeo Festival</a>, Minneapolis, MN",
 			"name":"Starving computer scientist",
 			"info":"http://eyeofestival.com/speaker/gene-kogan/"
 		},{
+			"type":"workshop",
+			"date":"2017 Jun 26", 
+			"where":"<a href=\"http://www.eyeofestival.com\">Eyeo Festival</a>, Minneapolis, MN",
+			"name":"Machine learning for artists (with <a href=\"http://frnsys.com\">Francis Tseng</a>)",
+			"info":"http://eyeofestival.com/workshops/"
+		},{
+			"type":"workshop",
+			"date":"2017 Jun 24", 
+			"where":"<a href=\"https://itp.nyu.edu/camp2017/\">ITP-Camp</a>, New York University, New York, NY",
+			"name":"Practical resources for machine learning for artists",
+			"info":"https://itp.nyu.edu/camp2017/session/32"
+		},{
+			"type":"talk",
 			"date":"2017 Jun 22", 
 			"where":"<a href=\"https://www.meetup.com/NYC-Machine-Learning/\">NYC machine learning meetup</a>, New York, NY",
 			"name":"Art and deep learning",
 			"info":"https://www.meetup.com/NYC-Machine-Learning/events/240845643/"
 		},{
+			"type":"workshop",
+			"date":"2017 Jun 21", 
+			"where":"<a href=\"https://itp.nyu.edu/camp2017/\">ITP-Camp</a>, New York University, New York, NY",
+			"name":"From principal components to puppyslugs: the mathematics of deep learning for art",
+			"info":"https://itp.nyu.edu/camp2017/session/34"
+		},{
+			"type":"talk",
 			"date":"2017 Jun 13", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
 			"name":"Open lecture: Learning interaction",
 			"info":"http://ciid.dk/gene-kogan/"
 		},{
+			"type":"workshop",
+			"date":"2017 Jun 12-16", 
+			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
+			"name":"Machine learning for designers (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"info":"http://ciid.dk/education/portfolio/idp17/courses/machine-learning/projects/",
+			"video":"https://vimeo.com/221993355"
+		},{
+			"type":"workshop",
+			"date":"2017 Jun 4", 
+			"where":"<a href=\"https://www.lacunalab.com\">Lacuna Lab</a>, Berlin, Germany",
+			"name":"Gestural Instruments",
+			"info":"http://lacunalab.com/events/2017-06-04_gestural_instruments.html"
+		},{
+			"type":"talk",
 			"date":"2017 May 30", 
 			"where":"<a href=\"https://daho.am/\">DAHO.AM</a>, Munich, Germany",
 			"name":"Picasso's terminal; machine learning for art and creativity",
 			"info":"https://daho.am/speaker/gene-kogan/",
 			"video":"https://www.youtube.com/watch?v=qdDU3azWv40"
 		},{
+			"type":"talk",
 			"date":"2017 May 22", 
 			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
 			"name":"Machine learning for artists and designers",
 			"info":"https://www.hesge.ch/head/en/event/2017/conference-gene-kogan"
+		},{
+			"type":"workshop",
+			"date":"2017 May 22", 
+			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
+			"name":"Machine learning for artists and designers (p2)"
+		},{
+			"type":"workshop",
+			"date":"2017 May 19", 
+			"where":"<a href=\"https://www.soundcloud.com/\">SoundCloud</a>, Berlin, Germany",
+			"name":"Machine learning for artists and designers",
+			"extended":true
+		},{
+			"type":"workshop",
+			"date":"2017 May 16", 
+			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
+			"name":"pix2pix and deep generative models",
+			"info":"http://spektrumberlin.de/events/detail/workshop-pix2pix-and-deep-generative-models.html"
 		},{	
+			"type":"talk",
 			"date":"2017 May 11", 
 			"where":"<a href=\"http://stockholm.ai/\">Stockholm.ai</a>, Stockholm, Sweden",
 			"name":"Machine learning in real-time",
 			"info":"http://stockholm.ai/"
 		},{	
+			"type":"talk",
 			"date":"2017 May 6", 
 			"where":"<a href=\"http://pydata.org/london2017/\">PyData</a>, London, England",
 			"name":"Picasso's terminal; data science and AI in the visual arts",
 			"info":"https://pydata.org/london2017/schedule/presentation/67/",
 			"video":"https://www.youtube.com/watch?v=JXx2MYtAU3o"
 		},{
+			"type":"workshop",
+			"date":"2017 May 5", 
+			"where":"<a href=\"http://thephotographersgallery.org.uk/\">Photographers Gallery</a>, London, England",
+			"name":"Machine's eye view",
+			"info":"http://thephotographersgallery.org.uk/machine-learning-for-artists-2"
+		},{
+			"type":"workshop",
+			"date":"2017 May 2", 
+			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
+			"name":"Machine learning for artists and designers (p1)",
+			"extended":true
+		},{
+			"type":"talk",
 			"date":"2017 May 4", 
 			"where":"<a href=\"https://www.bell-labs.com/connect/global-locations/cambridge-uk//\">Bell Labs</a>, Cambridge, England",
 			"name":"Shannon Luminary Lecture",
 			"info":"https://www.eventbrite.co.uk/e/nokia-science-and-spritz-vol-8-ml-for-artists-shannon-luminary-lecture-tickets-34136667692"
 		},{
+			"type":"talk",
 			"date":"2017 May 3", 
 			"where":"<a href=\"http://www.gold.ac.uk/computing/\">Goldsmiths, University of London</a>, England",
 			"name":"The Neural Aesthetic",
 			"info":"https://www.gold.ac.uk/calendar/?id=10684"
 		},{
+			"type":"workshop",
+			"date":"2017 Apr 30", 
+			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
+			"name":"Machine learning for artists and designers",
+			"info":"https://2017.sensorium.is/workshops/machine-learning"
+		},{
+			"type":"talk",
 			"date":"2017 Apr 29", 
 			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
 			"name":"Machine learning for artists",
 			"info":"https://2017.sensorium.is/speakers/gene-kogan"
 		},{
+			"type":"workshop",
+			"date":"2017 Apr 24-28", 
+			"where":"<a href=\"http://ecal.ch/fr/100/homepage\">Ecole cantonale d'art</a>, Lausanne, Switzerland",
+			"name":"Machine learning for artists",
+			"info":"http://ecal.ch/fr/3471/formations/bachelor/media-interaction-design/projets-workshops/machine-learning-workshop-avec-gene-kogan"
+		},{
+			"type":"talk",
 			"date":"2017 Apr 20", 
 			"where":"<a href=\"http://www.resonate.io/2017/\">Resonate Festival</a>, Belgrade, Serbia",
 			"name":"Talk at Resonate Festival",
 			"info":"http://resonate.io/2017/lecture/gene-kogan/"
 		},{
+			"type":"workshop",
+			"date":"2017 Apr 17-19", 
+			"where":"<a href=\"http://www.resonate.io/2017/\">Resonate Festival</a>, Belgrade, Serbia",
+			"name":"Machine learning for artists (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"info":"http://resonate.io/2017/workshop/machine-learning-for-artists/"
+		},{
+			"type":"workshop",
+			"date":"2017 Apr 3-16", 
+			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Belgrade, Serbia",
+			"name":"Thinking and Feeling (with <a href=\"http://www.hannahishere.com/\">Hannah Davis</a>)",
+			"info":"http://schoolofma.org/feeling-and-thinking/"
+		},{
+			"type":"talk",
 			"date":"2017 Mar 31", 
 			"where":"<a href=\"http://www.fiber-space.nl/\">Fiber</a>, Amsterdam, Netherlands",
 			"name":"<a href=\"http://www.creativecodingamsterdam.com/\">Creative Coding Amsterdam</a> talk",
 			"info":"https://www.meetup.com/Creative-Coding-Amsterdam/events/238717740/"
 		},{
+			"type":"workshop",
+			"date":"2017 Mar 30-31", 
+			"where":"<a href=\"https://www.mediamonks.com/\">Media Monks</a>, Hilversum, Netherlands",
+			"name":"Machine learning for artists",
+			"extended":true
+		},{
+			"type":"workshop",
+			"date":"2017 Mar 14-15", 
+			"where":"<a href=\"http://www.strelka.com/\">Strelka Institue</a>, Moscow, Russia",
+			"name":"Imaginary blueprints (with <a href=\"http://sougwen.com\">Sougwen Chung</a>)",
+			"info":"http://www.strelka.com/en/magazine/2016/08/30/-what-is-the-new-normal-and-how-to-untangle-it"
+		},{
+			"type":"talk",
 			"date":"2017 Mar 9",
 			"where":"<a href=\"http://www.pankeculture.com/\">Panke</a>, Berlin, Germany",
 			"name":"<a href=\"http://scopesessions.org/\">Scope Sessions #63</a> (with <a href=\"http://www.margheritapevere.com/\">Margherita Pevere</a>)",
 			"info":"http://scopesessions.org/session/2017/02/09/063.html"
 		},{
+			"type":"workshop",
+			"date":"2017 Mar 7",
+			"where":"<a href=\"http://spektrumberlin.de\">Spektrum</a>, Berlin, Germany",
+			"name":"Real-time applications of machine learning",
+			"info":"http://spektrumberlin.de/events/detail/real-time-applications-of-machine-learning.html"
+		},{
+			"type":"talk",
 			"date":"2017 Mar 3", 
 			"where":"<a href=\"https://www.charite.de/en/\">Charité Universitätsmedizin</a>, Berlin, Germany",
 			"name":"Computer vision and deep learning (with <a href=\"http://www.matthewkraushar.com/\">Matt Kraushar</a>)",
-			"extended":true
 		},{
+			"type":"workshop",
+			"date":"2017 Feb 28", 
+			"where":"<a href=\"http://www.newschool.edu/parsons-paris/\">Parsons MFA-DT</a>, Paris, France",
+			"name":"D+TM #49: Intro to Machine Learning",
+			"info":"http://paris.parsons.edu/amt/dtm-49-gene-kogan/"
+		},{
+			"type":"talk",
 			"date":"2017 Feb 27", 
 			"where":"<a href=\"https://mobiskill.fr/\">Mobiskill</a>, Paris, France",
 			"name":"Hors serie : Machine Learning for Arts",
 			"info":"http://nuit-blanche.blogspot.de/2017/02/ce-soir-paris-machine-learning-hors.html",
 			"video":"https://www.youtube.com/watch?v=OdNxwTgRkqg"
 		},{
+			"type":"talk",
 			"date":"2017 Feb 20", 
 			"where":"<a href=\"https://www.digitalcatapultcentre.org.uk/\">Digital Catapult Centre</a>, London, England",
 			"name":"Artists and Machine Learning (with <a href=\"http://www.memo.tv/\">Memo Akten</a>)",
 			"info":"https://www.eventbrite.co.uk/e/artists-and-machine-learning-registration-31817203111"
 		},{
+			"type":"talk",
+			"date":"2017 Feb 18-19", 
+			"where":"<a href=\"http://machinesroom.org/\">Machines Room</a>, London, England",
+			"name":"Machine learning for artists",
+			"info":"http://machinesroom.co.uk/classes-workshops/gene-kogan-machine-learning-for-artists-31105139309/"
+		},{
+			"type":"interview",
 			"date":"2017 Feb 1", 
 			"where":"<a href=\"https://www.neural.it\">Neural Magazine</a>",
 			"name":"Interview for Neural Magazine",
 			"extended":true
 		},{
+			"type":"talk",
 			"date":"2017 Jan 27", 
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
 			"name":"Machine relearning",
 			"extended":true
 		},{
+			"type":"talk",
 			"date":"2017 Jan 3", 
 			"where":"<a href=\"https://www.recurse.com/\">Recurse Center</a>, New York, NY",
 			"name":"Researcher-in-residence talk",
-			"photo":"https://twitter.com/recursecenter/status/816446455179251712",
-			"extended":true
+			"photo":"https://twitter.com/recursecenter/status/816446455179251712"
 		},{
+			"type":"residency",
+			"date":"2017 Jan 2-13",
+			"where":"<a href=\"https://www.recurse.com/\">Recurse Center</a>, New York, NY",
+			"name":"Researcher-in-residence",
+			"info":"https://www.recurse.com/residents#Gene-Kogan"
+		},{
+			"type":"workshop",
+			"date":"2016 Dec 16", 
+			"where":"<a href=\"http://isi.ac.id/\">Institute of the Arts</a>, Yogyakarta, Indonesia",
+			"name":"Generative composition (with <a href=\"http://mrzl.net/\">Marcel Schwittlick</a> & <a href=\"http://lifepatch.org/\">Lifepatch</a>)",
+			"info":"http://lifepatch.org/Lokakarya_Teknologi_Musik",
+			"photo":"http://mrzl.net/generative-composition-workshop/"
+		},{
+			"type":"workshop",
+			"date":"2016 Dec 6", 
+			"where":"<a href=\"http://nabi.or.kr\">Art Center Nabi</a>, Seoul, South Korea",
+			"name":"Machine learning for artists",
+			"info":"http://nabi.or.kr/english/academy/current_read.nab?idx=370"
+		},{
+			"type":"talk",
 			"date":"2016 Dec 3", 
 			"where":"<a href=\"http://www.coex.co.kr/\">COEX</a>, Seoul, South Korea",
 			"name":"Talk at <a href=\"http://nabihackathon.com/\">Nabi Global AI hackathon</a>",
 			"info":"http://nabi.or.kr/english/project/coming_read.nab?idx=543",
 			"photo":"http://www.nabi.or.kr/english/project/current_read.nab?idx=541"
 		},{
+			"type":"talk",
 			"date":"2016 Nov 28",
 			"where":"<a href=\"http://www.merz-akademie.de/\">Merz Akademie</a>, Stuttgart, Germany",
 			"name":"A tiny history of AI and knowledge asymmetry",
 			"info":"http://www.merz-akademie.de/lectures/a-tiny-history-of-ai-and-knowledge-asymmetry",
 			"video":"https://vimeo.com/195689761"
 		},{
+			"type":"talk",
 			"date":"2016 Nov 23", 
 			"where":"<a href=\"http://www.opendotlab.it\">OpenDot Lab</a>, Milan, Italy",
 			"name":"A beautiful and interesting game",
 			"info":"http://www.opendotlab.it/calendario/machine-learning-for-artists/",
 			"video":"https://www.youtube.com/watch?v=sKgiA0TTwG8"
 		},{
+			"type":"workshop",
+			"date":"2016 Nov 21-25", 
+			"where":"<a href=\"http://www.opendotlab.it\">OpenDot Lab</a>, Milan, Italy",
+			"name":"Machine learning for artists",
+			"info":"http://www.opendotlab.it/calendario/workshop-machine-learning-for-artists/",
+			"video":"http://ml4a.github.io/classes/opendot/"
+		},{
+			"type":"installation",
+			"date":"2016 Nov 15-Jan 20",
+			"name":"Why the Future Still Needs Us",
+			"where":"<a href=\"http://nabi.or.kr\">Art Center Nabi</a>, Seoul, South Korea",
+			"info":"http://www.nabi.or.kr/english/project/current_read.nab?idx=541"
+		},{
+			"type":"talk",
 			"date":"2016 Nov 7", 
 			"where":"<a href=\"http://www.betahaus.com/berlin/\">Betahaus</a>, Berlin, Germany",
 			"name":"Talk at Berlin machine learning group",
 			"info":"https://www.meetup.com/berlin-machine-learning/events/229181527/"
 		},{
+			"type":"workshop",
+			"date":"2016 Nov 5", 
+			"where":"<a href=\"http://www.kikk.be/2016\">Kikk Festival</a>, Namur, Belgium",
+			"name":"Machine learning for artists",
+			"info":"http://www.kikk.be/2016/en/program/workshops/machine-learning-for-artists",
+			"photo":"https://www.flickr.com/photos/kikk_festival/30702838651/in/album-72157672531263603/"
+		},{
+			"type":"talk",
 			"date":"2016 Nov 4",
 			"where":"<a href=\"http://www.kikk.be/2016\">Kikk Festival</a>, Namur, Belgium",
 			"name":"Adversarial Nets",
 			"info":"http://www.kikk.be/2016/en/program/conferences/gene-kogan",
 			"video":"https://vimeo.com/197495131"
 		},{
+			"type":"workshop",
 			"date":"2016 Oct 19-20", 
 			"where":"<a href=\"http://theinfluencers.org/\">The Influencers</a>, Barcelona, Spain",
-			"name":"<a href=\"http://theinfluencers.org/ca/machine-learning-for-activists\">Machine learning for activists</a>",
+			"name":"Machine learning for activists",
+			"info":"http://theinfluencers.org/ca/machine-learning-for-activists"
+		},{
+			"type":"talk",
+			"date":"2016 Oct 19", 
+			"where":"<a href=\"http://theinfluencers.org/\">The Influencers</a>, Barcelona, Spain",
+			"name":"<a href=\"http://theinfluencers.org/ca/machine-learning-for-activists\">(lecture) Machine learning for activists</a>",
 			"info":"http://theinfluencers.org/",
 			"extended":true
 		},{
+			"type":"talk",
 			"date":"2016 Oct 7", 
 			"where":"<a href=\"https://retune.de/\">Retune Festival</a>, Berlin, Germany",
 			"name":"Machine learning for artists",
 			"info":"https://retune.de/festival/2016/artists/#Gene-Kogan"
 		},{
+			"type":"workshop",
+			"date":"2016 Oct 6", 
+			"where":"<a href=\"https://retune.de/\">Retune Festival</a>, Berlin, Germany",
+			"name":"Machine learning for artists",
+			"info":"https://retune.de/festival/2016/workshops/#Gene-Kogan"
+		},{
+			"type":"workshop",
+			"date":"2016 Oct 1", 
+			"where":"<a href=\"http://spektrumberlin.de\">Spektrum</a>, Berlin, Germany",
+			"name":"Machine learning for artists",
+			"info":"http://spektrumberlin.de/events/detail/workshop-machine-learning-for-artists-with-gene-kogan.html"
+		},{
+			"type":"workshop",
+			"date":"2016 Sep 30", 
+			"where":"<a href=\"https://www.ixds.com\">IXDS</a>, Berlin, Germany",
+			"name":"Machine learning for artists",
+			"extended":true
+		},{
+			"type":"talk",
 			"date":"2016 Sep 25",  
 			"where":"With the best online conference",
 			"name":"AI With the best",
 			"info":"http://www.ai.withthebest.com/",
 			"video":"https://www.youtube.com/watch?v=mr6ISQ33V9c"
 		},{
+			"type":"talk",
 			"date":"2016 Aug 23",
 			"where":"<a href=\"http://lacunalab.com/\">Lacuna Lab</a>, Berlin, Germany",
 			"name":"Interview with <a href=\"http://www.kadenze.com\">Kadenze</a>",
 			"info":"https://vimeo.com/183574755",
 			"video":"https://vimeo.com/183574755"
 		},{
+			"type":"talk",
 			"date":"2016 Aug 1",
 			"where":"<a href=\"https://c-base.org/\">c-Base</a>, Berlin, Germany",
 			"name":"Netzpolitischer Abend: Machine learning for activists",
 			"info":"https://netzpolitik.org/2016/51-netzpolitischer-abend-am-02-august-in-berlin/",
 			"video":"https://www.youtube.com/watch?v=s-a9kbsVKkI"
 		},{
+			"type":"talk",
 			"date":"2016 Jul 15", 
 			"where":"<a href=\"https://spiced-academy.com/\">Spiced Academy</a>, Berlin, Germany",
 			"name":"Spiced Tech Talks Open House",
 			"info":"https://www.facebook.com/events/1551624311813191/"
 		},{
+			"type":"talk",
 			"date":"2016 Jul 12", 
 			"where":"<a href=\"https://www.ixds.com/\">IXDS</a>, Berlin, Germany",
 			"name":"Pre-work talks (with <a href=\"http://www.patrycjaslawuta.com/\">Patrycja Slawuta</a>)",
 			"info":"https://www.ixds.com/events/pre-work-talk-berlin",
 			"video":"https://www.youtube.com/watch?v=tXWd6MnzN-4"
 		},{
+			"type":"workshop",
+			"date":"2016 Jul 4-29", 
+			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
+			"name":"The Neural Aesthetic (with <a href=\"https://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths/welcome.html\">Rebecca Fiebrink</a>)",
+			"info":"http://schoolofma.org/neural-aesthetic/",
+			"video":"http://ml4a.github.io/classes/neural-aesthetic/"
+		},{
+			"type":"talk",
 			"date":"2016 Jun 16", 
 			"where":"<a href=\"https://www.recurse.com/\">Recurse Center</a>, New York, NY",
 			"name":"ml4a talk at Recurse Center",
 			"extended":true
 		},{
+			"type":"talk",
 			"date":"2016 Jun 9",
 			"where":"<a href=\"http://www.eyeofestival.com\">Eyeo Festival</a>, Minneapolis, MN",
 			"name":"The Neural Aesthetic",
 			"info":"http://eyeofestival.com/2016/speaker/gene-kogan/",
 			"video":"https://vimeo.com/180044029"
 		},{
+			"type":"workshop",
+			"date":"2016 Jun 4", 
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"The Neural Aesthetic @ <a href=\"https://itp.nyu.edu/camp2016/\">ITP-Camp</a>",
+			"info":"https://itp.nyu.edu/camp2016/session/88",
+			"video":"http://ml4a.github.io/classes/itp-S16/07/"
+		},{
+			"type":"workshop",
+			"date":"2016 May 22", 
+			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
+			"name":"Visualizing high-dimensional data, <a href=\"http://alt-ai.net\">alt-AI</a>",	
+			"info":"http://alt-ai.net/#workshops",
+			"photo":"http://blog.sfpc.io/post/145354482196/from-workshops-and-conference-of-alt-ai-video-of"
+		},{
+			"type":"talk",
 			"date":"2016 May 21", 
 			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
 			"name":"<a href=\"http://alt-ai.net\">alt-AI</a>",
 			"info":"http://alt-ai.net/#people"
 		},{
+			"type":"installation",
+			"date":"2016 May 20-22",
+			"name":"Cubist Mirror at <a href=\"http://www.alt-ai.net/\">alt-AI</a>",
+			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
+			"info":"http://www.alt-ai.net/#exhibition",
+			"video":"https://vimeo.com/167910860"
+		},{
+			"type":"talk",
 			"date":"2016 Apr 7", 
 			"where":"<a href=\"http://babycastles.com/\">BabyCastles</a>, New York, NY",
 			"name":"MVR 3",
 			"info":"http://pioneerworks.org/programs/mvr-3-collaboration-w-eyebeam-2/"
 		},{
+			"type":"residency",
+			"date":"2016 Apr 4-29",
+			"where":"<a href=\"https://medium.com/dbrs-innovation-labs\">DBRS Innovation Labs</a>, New York, NY",
+			"name":"Researcher-in-residence",
+			"info":"https://medium.com/dbrs-innovation-labs/machine-learning-for-artists-7a3689a34e9e#.jvwunjd1g"
+		},{
+			"type":"talk",
 			"date":"2016 Mar 25", 
 			"where":"<a href=\"https://ocr.nyc/\">Office for Creative Research</a>, New York, NY",
-			"name":"Maching learning for artists",
+			"name":"Machine learning for artists",
 			"info":"https://www.eventbrite.com/e/ocr-friday-with-gene-kogan-tickets-22694338377#"
 		},{
+			"type":"talk",
 			"date":"2016 Mar 24", 
 			"where":"<a href=\"https://www.clarifai.com/\">Clarifai</a>, New York, NY",
-			"name":"Maching learning for artists",
+			"name":"Machine learning for artists",
 			"extended":true
 		},{
+			"type":"talk",
 			"date":"2016 Mar 21", 
 			"where":"NYU LaGuardia Co-op, New York, NY",
 			"name":"Machine learning for artists",
 			"info":"https://www.meetup.com/Product-Design-Workshop/events/229497566/",
 			"extended":true
 		},{
+			"type":"class",
+			"date":"2016 Mar 24-May 4", 
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"Machine learning for artists",
+			"info":"https://tisch.nyu.edu/itp/news/summer-2016/gene-kogan--machine-learning-for-artists",
+			"video":"http://ml4a.github.io/classes/itp-S16/"
+		},{
+			"type":"workshop",
+			"date":"2016 Mar 5-6", 
+			"where":"<a href=\"http://www.ofcn.io/\">OF Course</a>, Shanghai, China",
+			"name":"Machine learning & data visualization with t-SNE",
+			"info":"http://www.huodongxing.com/event/4320519676800",
+			"photo":"https://www.instagram.com/p/BChhDF3A4kz/"
+		},{
+			"type":"workshop",
+			"date":"2016 Feb 17-19", 
+			"where":"<a href=\"http://ceg.annauniv.edu/\">Guindy College</a>, Chennai, India",
+			"name":"Creative coding at <a href=\"http://kurukshetra.org.in/#/dashboard\">Kurukshetra festival</a>",
+			"info":"http://blog.cegtechforum.com/2016/02/creative-side-coding/"
+		},{
+			"type":"talk",
 			"date":"2016 Feb 13",
 			"where":"<a href=\"http://www.datakind.org/chapters/datakind-blr\">DataKind</a>, Bangalore, India",
 			"name":"Creative hacks of machine learning",
 			"info":"https://www.meetup.com/DataKind-Bangalore/events/228577897/"
 		},{
+			"type":"talk",
 			"date":"2016 Jan 22", 
 			"where":"<a href=\"http://cis-india.org/\">Center for Internet & Society</a>, Bangalore, India",
 			"name":"A.I. Hype Cycles and Artistic Subversions",
 			"info":"http://cis-india.org/rawithai-hype-cycles-and-artistic-subversions"
 		},{
+			"type":"talk",
 			"date":"2016 Jan 14",
 			"where":"<a href=\"http://kitchentablecoders.com/\">Kitchen Table Coders</a>, New York, NY",
 			"name":"Subversive machines",
 			"info":"https://www.eventbrite.com/e/subversive-machines-machine-intelligence-in-nontraditional-contexts-tickets-20588427541#"
 		},{
+			"type":"talk",
 			"date":"2015 Dec 5",
 			"where":"<a href=\"https://pioneerworks.org/\">Pioneer Works</a>, New York, NY",
 			"name":"Software for Artists Day",
 			"info":"https://pioneerworks.org/s4ad/"
 		},{
+			"type":"workshop",
+			"date":"2015 Nov 23-24",
+			"where":"<a href=\"https://eyebeam.org/\">Eyebeam</a>, New York, NY",
+			"name":"Opera Toolit improvisation (with <a href=\"http://lisakori.net\">Lisa Kori</a> & Sarah McSherry)",
+			"info":"http://archive.eyebeam.org/events/opera-toolkit-workshop",
+			"photo":"https://www.flickr.com/photos/eyebeam/sets/72157663755508204"
+		},{
+			"type":"exhibition",
+			"date":"2015 Nov 19-Dec 20",
+			"name":"Inside/Out (with <a href=\"http://lisakori.net\">Lisa Kori</a> & <a href=\"http://colin-self.com/\">Colin Self</a>)",
+			"where":"<a href=\"https://eyebeam.org/\">Eyebeam</a>, New York, NY",
+			"info":"http://archive.eyebeam.org/events/insideout"
+		},{
+			"type":"talk",
 			"date":"2015 Nov 3", 
 			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
 			"name":"Sonic Code Sessions: Deep audio, video, and text",
 			"info":"https://www.meetup.com/spektrum/events/226062505/",
 			"extended":true
 		},{
+			"type":"talk",
 			"date":"2015 Oct 18", 
 			"where":"<a href=\"http://aum.dartmouth.edu/~avsynth/2015/\">Workshop in the Woods</a>, Dartmouth College, NH",
 			"name":"New Approaches to Audiovisual Synthesis using Deep Learning",
 			"info":"http://aum.dartmouth.edu/~avsynth/2015/wiki/doku.php?id=gene_kogan"
 		},{
+			"type":"talk",
 			"date":"2015 Sep 24", 
 			"where":"<a href=\"http://opentranscripts.org/sources/ethical-machines/\">Ethical Machines</a> (online)",
 			"name":"Ethical Machines episode 3: Alex J. Champandard and Gene Kogan",
 			"info":"http://opentranscripts.org/transcript/ethical-machines-alex-champandard-gene-kogan/",
 			"extended":true
 		},{
+			"type":"class",
+			"date":"2015 Sep 2-Dec 16", 
+			"where":"<a href=\"http://www.bennington.edu/academics/areas-of-study-curriculum/visual-arts\">Bennington College</a>, Bennington, VT",
+			"name":"Generative Art with <a href=\"https://p5js.org\">p5.js</a> (DA2108)",
+			"info":"http://curriculum.bennington.edu/fall2015/2015/05/14/generative-art-with-processing/",
+			"code":"https://github.com/genekogan/Bennington_GenerativeArt"
+		},{
+			"type":"residency",
+			"date":"2015 Sep-Oct",
+			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
+			"name":"Artist-in-residence",
+			"info":"http://sfpc.io/people/gene-kogan/"
+		},{
+			"type":"workshop",
+			"date":"2015 Aug 20",
+			"where":"<a href=\"http://otionfront.com/\">Otion Front</a>, New York, NY",
+			"name":"Opera Toolkit (with <a href=\"http://lisakori.net\">Lisa Kori</a> & <a href=\"http://colin-self.com/\">Colin Self</a>)",
+			"info":"http://archive.eyebeam.org/events/opera-toolkit",
+			"video":"https://vimeo.com/199067445"
+		},{
+			"type":"workshop",
+			"date":"2015 Aug 16",
+			"where":"<a href=\"https://eyebeam.org/\">117 Beeckman St</a>, New York, NY",
+			"name":"OpenFit Lab: Generative Patternmaking (with <a href=\"http://lisakori.net\">Lisa Kori</a>)",
+			"info":"http://archive.eyebeam.org/events/openfit-lab"
+		},{
+			"type":"paper",
+			"date":"2015 May 31",
+			"name":"An Industrial Robotic Arm as an Instrument: Details of an Experimental Performance (Jeff Snyder, Eugene Kogan, Ryan Johns, Charlie Avis, Axel Kilian)",
+			"where":"New Interfaces for Musical Expression (NIME)",
+			"pdf":"http://www.nime.org/proceedings/2015/nime2015_275.pdf",
+			"video":"https://vimeo.com/92879100"
+		},{
+			"type":"workshop",
+			"date":"2015 Apr 11-12", 
+			"where":"<a href=\"http://www.newschool.edu/parsons/mfa-design-technology/\">Parsons MFA-DT</a>, New School, New York, NY",
+			"name":"Quad-C lectures on computer vision & <a href=\"/works/kinect-projector-toolkit/\">KinectProjectorToolkit</a>"
+		},{
+			"type":"talk",
 			"date":"2015 Mar 30", 
 			"where":"<a href=\"http://magnet.nyu.edu/\">NYU-Poly MAGNET</a>, Brooklyn, NY",
 			"name":"Code as expression, communication, and collaboration"
 		},{
+			"type":"residency",
+			"date":"2015 Mar 29-Aug 21",
+			"where":"<a href=\"https://eyebeam.org/\">Eyebeam</a>, New York, NY",
+			"name":"Opera Toolkit (with <a href=\"http://lisakori.net\">Lisa Kori</a> & <a href=\"http://colin-self.com/\">Colin Self</a>)",
+			"info":"http://archive.eyebeam.org/people/gene-kogan",
+			"photo":"http://operatoolkit.tumblr.com/"
+		},{
+			"type":"residency",
+			"date":"2015 Mar 1-26",
+			"where":"<a href=\"http://whitebuilding.org\">White Building</a>, Phnom Penh, Cambodia",
+			"name":"<a href=\"http://www.sasaart.info/\">Sa Sa Art Projects</a> artist-in-residency",
+			"info":"http://whitebuilding.org/en/film/paths-experimental-performances-rehearsal-2015",
+			"video":"https://www.youtube.com/watch?v=Qxs5WB3017g"
+		},{
+			"type":"talk",
 			"date":"2015 Feb 2",
 			"where":"<a href=\"http://cis-india.org/\">Center for Internet & Society</a>, Bangalore, India",
 			"name":"Code As Communication",
 			"info":"http://cis-india.org/openness/events/code-as-communication"
 		},{
+			"type":"workshop",
+			"date":"2015 Feb 1", 
+			"where":"<a href=\"http://www.jaaga.in\">Jaaga</a>, Bangalore, India",
+			"name":"Interactive environments (with <a href=\"http://sheikspear.wixsite.com/kyta/alec\">Alec Schachner</a>)",
+			"info":"https://www.facebook.com/events/666300566825567"
+		},{
+			"type":"installation",
+			"date":"2015 Jan 14-18",
+			"name":"Contact (with Alec Schachner)",
+			"where":"<a href=\"http://thestoryoflight.org/\">Story of Light Festival</a>, Panjim, Goa, India",
+			"info":"https://thestoryoflight.org/gene-alec/",
+			"video":"https://vimeo.com/120653546"
+		},{
+			"type":"installation",
+			"date":"2014 Nov 15",
+			"name":"Silhouettes in Saigon",
+			"where":"Cargo, Ho Chi Minh City, Vietnam",
+			"info":"http://genekogan.com/works/kinect-projector-toolkit/",
+			"video":"https://vimeo.com/112243428"
+		},{
+			"type":"workshop",
+			"date":"2014 Sep", 
+			"where":"<a href=\"http://www.metropolitanexchange.org/\">Metropolitan Exchange</a>, New York, NY",
+			"name":"Generative Arts workshop at <a href=\"http://www.ofcn.io/\">OF Course</a>",
+			"info":"http://www.ofcn.io/previous-class/"
+		},{
+			"type":"exhibition",
+			"date":"2014 Jul 18-30",
+			"name":"<a href=\"http://biomearts.net/ecohack2014/\">Biome Arts</a>",
+			"where":"EcoHacker-Build, Delancey, NY",
+			"info":"http://genekogan.com/works/ecohacker-build/",
+			"video":"https://vimeo.com/102197478"
+		},{
+			"type":"performance",
+			"date":"2014 Apr 23",
+			"name":"Machine Yearning (with <a href=\"https://soa.princeton.edu/content/axel-kilian\">Axel Kilian</a>, <a href=\"http://www.gshed.com/\">Ryan Johns</a>, Charlie Avis, <a href=\"https://snyderphonics.com/\">Jeff Snyder</a>, and <a href=\"http://plork.princeton.edu/index.php\">Princeton Laptop Orchestra</a>)",
+			"where":"<a href=\"https://soa.princeton.edu/\">Princeton University</a>, Princeton, NJ",
+			"info":"http://genekogan.com/works/machine-yearning/",
+			"video":"https://vimeo.com/99536775"
+		},{
+			"type":"workshop",
+			"date":"2014 Jan 24", 
+			"where":"<a href=\"http://zerostationvn.org/ga0/\">Zero Station</a>, Ho Chi Minh City, Vietnam",
+			"name":"<a href=\"/works/kinect-projector-toolkit/\">KinectProjectorToolkit</a> workshop"
+		},{
+			"type":"talk",
 			"date":"2013 Dec 13",
 			"where":"Le Thanh Theatre, Ho Chi Minh City, Vietnam",
 			"name":"Open Stage talk",
 			"info":"https://www.facebook.com/events/364987336978158/"
 		},{
+			"type":"performance",
+			"date":"2013 Sep 1",
+			"name":"СУПЕРПОЗИЦИЯ (Superposition) (with Maria Seledets)",
+			"where":"<a href=\"https://www.erarta.com/\">Erarta Museum</a>, St. Petersburg, Russia",
+			"info":"https://www.erarta.com/ru/calendar/detail/48cb0e6a-0664-11e3-814b-8920284aa333/"
+		},{
+			"type":"workshop",
+			"date":"2013 Nov 2-3", 
+			"where":"<a href=\"http://lispher.ph/\">Lispher Inn</a>, Davao, Philippines",
+			"name":"<a href=\"http://www.theunifiedfield.org/artist_in_residence\">UnifiedField</a> workshop on free software & art",
+			"info":"http://www.theunifiedfield.org/archives/3471"
+		},{
+			"type":"residency",
+			"date":"2013 Nov",
+			"where":"Davao City, Philippines",
+			"name":"<a href=\"http://www.theunifiedfield.org/artist_in_residence\">Unifiedfield</a> artist-in-residency",
+			"info":"http://www.theunifiedfield.org/archives/3471",
+			"video":"https://vimeo.com/78801880"
+		},{
+			"type":"workshop",
+			"date":"2013 Oct 26",
+			"where":"<a href=\"http://www.greyprojects.org//\">Grey Projects</a>, Singapore",
+			"name":"New media & projection mapping (with <a href=\"http://en.wikipilipinas.org/index.php/Tengal_Drilon\">Tengal Drilon</a> & <a href=\"https://soundcloud.com/joee-mejias\">Joee Mejias</a>)",
+			"info":"http://www.greyprojects.org/index.php/new-media-sound-and-projection-mapping-workshop/"
+		},{
+			"type":"talk",
 			"date":"2013 Oct 22",
 			"where":"<a href=\"http://www.objectifs.com.sg/\">Objectifs</a>, Singapore",
 			"name":"Artist Talk (with <a href=\"http://en.wikipilipinas.org/index.php/Tengal_Drilon\">Tengal Drilon</a> & <a href=\"https://soundcloud.com/joee-mejias\">Joee Mejias</a>)",
 			"extended":true
 		},{
+			"type":"workshop",
+			"date":"2013 Oct-2014 Feb", 
+			"where":"<a href=\"http://www.tenlegs.com//\">Tenlegs.com</a>",
+			"name":"Visual instruments, computer vision, generative art (online courses)",
+			"info":"http://www.harvestworks.org/processing-fall-winter-online-intensive/"
+		},{
+			"type":"talk",
 			"date":"2013 Aug 13",
 			"where":"<a href=\"http://kl10tch.ru/\">KL10TCH</a>, St. Petersburg, Russia",
 			"name":"Проекции в искусстве [in Russian]",
 			"info":"https://lektorium.tv/lecture/14941",
 			"video":"https://www.youtube.com/watch?v=DpXmkYzneQc"
 		},{
+			"type":"workshop",
+			"date":"2013 Aug 7-9",
+			"where":"<a href=\"http://neuronspace.ru/wp/\">Neuron Hackspace</a>, Moscow, Russia",
+			"name":"Processing workshop & generative art",
+			"info":"http://neuronspace.ru/wp/news/art-xak-processing-workshop.html"
+		},{
+			"type":"workshop",
+			"date":"2013 July 13", 
+			"where":"<a href=\"http://www.1335mabini.com\">1335 Mabini</a>, Manila, Philippines",
+			"name":"Projection mapping on moving bodies",
+			"info":"http://www.1335mabini.com/gene-koganworkshops-talksprogam/"
+		},{
+			"type":"workshop",
+			"date":"2013 Jul 5-12", 
+			"where":"Terminal Garden, Manila, Philippines",
+			"name":"Generative art with Processing, Fete Dela WSK",
+			"info":"http://fuckyeahfetedelawsk.tumblr.com/post/54098104690/terminalgarden-generative-art-workshop-when",
+			"video":"https://www.youtube.com/watch?v=iiempqvMFkM"
+		},{
+			"type":"talk",
 			"date":"2013 Jun 23",
 			"where":"Terminal Garden, Manila, Philippines",
 			"name":"Bedroom Lab talk (with <a href=\"http://dbbd.sg/\">Debbie Ding</a>)",
 			"info":"http://www.officeocd.com/events/wntgspsgk/"
 		},{
+			"type":"talk",
 			"date":"2013 Feb 24", 
 			"where":"<a href=\"http://www.theaea.org/cec_cac/cec13/\">Carnival of E-Creativity</a>, Bhimtal, India",
 			"name":"Artist talk at CEC-13",
 			"info":"http://www.theaea.org/cec_cac/cec13/",
 			"photo":"http://www.theaea.org/cec_cac/cec13/cec13pix.htm"
 		},{
+			"type":"talk",
 			"date":"2013 Jan 24",
 			"where":"<a href=\"http://www.bicentre.org/\">Bangalore International Centre</a>, Bangalore, India",
 			"name":"<a href=\"http://srishti.ac.in/mmf/docs/ModernitiesBookletFinal2013.pdf\">Urban incantations</a> (with <a href=\"http://cis-india.org/author/sharath\">Sharath Chandra Ram</a>)",
 			"info":"http://cema.srishti.ac.in/birdseyeviewithitems/showith112"
 		},{
+			"type":"talk",
 			"date":"2012 Nov 30", 
 			"where":"<a href=\"http://cis-india.org/\">Center for Internet & Society</a>, Bangalore, India",
 			"name":"Art in the open source age",
 			"info":"http://cis-india.org/openness/events/art-in-the-open-source-age",
 			"video":"http://blip.tv/centre-for-internet-and-society/art-in-the-open-source-age-a-talk-by-gene-kogan-6474662"
 		},{
+			"type":"talk",
 			"date":"2012 Nov 29", 
 			"where":"FOSS.IN conference, Bangalore, India",
 			"name":"How open source software has upended art",
 			"info":"https://hasgeek.tv/fossdotin/2012-1", 
 			"video":"https://www.youtube.com/watch?v=kXTLwE6Hzck"
+		},{
+			"type":"workshop",
+			"date":"2012 Nov 14",
+			"where":"<a href=\"http://jaaga.in/\">Jaaga</a>, Bangalore, India",
+			"name":"Kinect workshop",
+			"info":"http://electricdosa.tumblr.com/post/35841689321/kinect-workshop-at-jaaga-14-nov-2012"
+		},{
+			"type":"workshop",
+			"date":"2012 Nov 5-26", 
+			"where":"<a href=\"http://www.tenlegs.com//\">Tenlegs.com</a>",
+			"name":"Introduction to computer vision (online course)",
+			"info":"http://www.harvestworks.org/computer-vision-online-course/"
 		},{	
+			"type":"talk",
 			"date":"2012 Oct 20",
 			"where":"<a href=\"https://www.microsoft.com/en-us/research/lab/microsoft-research-india/\">Microsoft Research Center</a>, Bangalore, India",
 			"name":"Generative systems for design",
 			"info":"http://www.filterdnoise.com/2012/10/designday-experience-at-microsoft.html"
 		},{
-			"date":"2011 Dec 7", 
-			"where":"<a href=\"http://www.location1.org/\">Location One</a>, New York, NY",
-			"name":"<a href=\"http://dorkbot.org/\">Dorkbot</a>",
-			"info":"http://dorkbot.org/dorkbotnyc/07.dec.2011/images/"
-		},{
-			"date":"2010 Nov 10", 
-			"where":"<a href=\"https://www.siam.org/students/chapters/current/columbia.php\">SIAM</a>, Columbia University, New York, NY",
-			"name":"<a href=\"http://www.sourcetone.com/\">Sourcetone</a>: Learning the Mood of Music",
-			"info":"http://www.scribd.com/doc/42486386/Sourcetone-Presentation-bit-ly-math-startup-11-10-10"
-		},{
-			"date":"2009 Nov 16", 
-			"where":"<a href=\"https://www.siam.org/students/chapters/current/columbia.php\">SIAM</a>, Columbia University, New York, NY",
-			"name":"Seminar Talk (with <a href=\"https://about.me/goldtruong\">Gold Truong</a>)",
-			"info":"http://www.columbiaspectator.com/2009/11/19/crunching-numbers-math-beyond-finance"
-		},{
-			"date":"2008 May",
-			"where":"<a href=\"http://apam.columbia.edu\">Columbia University</a>, New York, NY",
-			"name":"Thesis presentation: Using Association Rules to Make Recommendations",
-			"extended":true
-		},{
-			"date":"2007 Dec",
-			"where":"<a href=\"http://apam.columbia.edu\">Columbia University</a>, New York, NY",
-			"name":"APAM faculty presentation: Collaborative Filtering & Recommender Systems",
-			"extended":true
-		}
-	],
-	"teaching":[
-		{
-			"dates":"2018 Aug 6-31", 
-			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
-			"name":"Autonomous Generative Spirit (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
-			"info":"http://schoolofma.org/autonomous-generative-spirit/"
-		},{
-			"dates":"2018 Aug 6-10", 
-			"where":"<a href=\"https://www.andersonranch.org/\">Anderson Ranch</a>, Snowmass Village, CO",
-			"name":"Machine learning for new media art",
-			"info":"https://www.andersonranch.org/workshop/machine-learning-for-new-media-art-p1026-18/"
-		},{
-			"dates":"2018 May 28-Jun 1", 
-			"where":"<a href=\"http://www.cityu.edu.hk/\">City University of Hong Kong</a>, Hong Kong",
-			"name":"TBD",
-			"extended":true
-		},{
-			"dates":"2018 May 14-18", 
-			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
-			"name":"TBD",
-			"extended":true
-		},{
-			"dates":"2018 Apr 23-27", 
-			"where":"<a href=\"https://ciid.dk\">CIID</a>, San José, Costa Rica",
-			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
-			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-costa-rica/workshops/machine-learning/"
-		},{
-			"dates":"2018 Apr 9-11", 
-			"where":"<a href=\"http://www.strelka.com/\">Strelka Institue</a>, Moscow, Russia",
-			"name":"Workshop at The New Normal",
-			"info":"https://thenewnormal.strelka.com/info/kogan"
-		},{
-			"dates":"2018 Apr 7", 
-			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
-			"name":"Autonomous Art Systems",
-			"info":"http://spektrumberlin.de/events/detail/autonomous-art-systems.html",
-		},{
-			"dates":"2018 Feb 15-16", 
-			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
-			"name":"Machine learning literacy",
-			"info":"http://sfpc.io/machineLearningLiteracy/"
-		},{
-			"dates":"2018 Feb 14", 
-			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
-			"name":"Machine learning for artists",
-			"info":"http://tisch.nyu.edu/itp/events/spring-2018/machine-learning-workshop-with-gene-kogan"
-		},{
-			"dates":"2018 Feb 3-11", 
-			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry</a>, Carnegie Mellon University, Pittsburgh, PA",
-			"name":"Machine learning for artists",
-			"video":"https://www.youtube.com/watch?v=eQOxYueQuPY"
-		},{
-			"dates":"2018 Feb 2", 
-			"where":"<a href=\"https://www.microsoft.com/en-us/garage/\">Microsoft Garage</a>, Vancouver, BC",
-			"name":"TBD",
-			"extended":true
-		},{
-			"dates":"2017 Dec 17", 
-			"where":"<a href=\"https://hasgeek.com/\">Hasgeek</a>, Bangalore, India",
-			"name":"Decentralized AI",
-			"info":"https://anthillinside.in/2017-decentralized-ai-applications/",
-			"slides":"https://docs.google.com/presentation/d/1RI6BnBsJtTBg3djZbD1hDjuhQagPBAUtAqcqoYWQTxU"
-		},{
-			"dates":"2017 Dec 7-8", 
-			"where":"<a href=\"https://www.rmit.edu.au/\">RMIT University</a>, Melbourne, Australia",
-			"name":"Machine learning for architecture and design"
-		},{
-			"dates":"2017 Nov 25", 
-			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
-			"name":"Neural synthesis",
-			"info":"http://spektrumberlin.de/events/detail/neural-synthesis.html"
-		},{
-			"dates":"2017 Nov 22-29", 
-			"where":"<a href=\"https://bcgdv.com/\">BCGDV</a>, Berlin, Germany",
-			"name":"Decentralized AI",
-			"extended":true
-		},{
-			"dates":"2017 Nov 12", 
-			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
-			"name":"Machine learning for artists",
-			"info":"https://loop.ableton.com/2017/participants/gene-kogan/"
-		},{
-			"dates":"2017 Nov 4", 
-			"where":"<a href=\"http://www.kikk.be/2017\">Kikk Festival</a>, Namur, Belgium",
-			"name":"Interactive machine learning (with <a href=\"http://stoj.io/\">Støj</a>)",
-			"info":"https://www.kikk.be/2017/en/program/workshops/stoj-gene-kogan"
-		},{
-			"dates":"2017 Oct 31", 
-			"where":"<a href=\"https://sap.mit.edu/\">MIT</a>, Cambridge, MA",
-			"name":"ML for design and the built environment (<a href=\"http://2017.acadia.org/home.html\">Acadia 2017</a>)",
-			"info":"http://2017.acadia.org/workshops.html"
-		},{
-			"dates":"2017 Oct 29", 
-			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
-			"name":"Decentralized AI",
-			"info":"https://www.eventbrite.com/e/decentralised-ai-tickets-38723662517"
-		},{
-			"dates":"2017 Oct 21", 
-			"where":"<a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>, Prague, Czech Republic",
-			"name":"Machine learning for artists",
-			"info":"http://www.lunchmeat.cz/en/events/input/schedule/[input]-no3---workshop-w-gene-kogan-474.html"
-		},{
-			"dates":"2017 Oct 14", 
-			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
-			"name":"Decentralized AI",
-			"info":"https://www.eventbrite.com/e/decentralised-ai-tickets-37888384177",
-			"slides":"https://docs.google.com/presentation/d/1RI6BnBsJtTBg3djZbD1hDjuhQagPBAUtAqcqoYWQTxU"
-		},{
-			"dates":"2017 Sep 10", 
-			"where":"<a href=\"https://www.aec.at/ai/en\">Ars Electronica</a>, Linz, Austria",
-			"name":"Tutorial on machine learning for artists",
-			"info":"https://www.aec.at/ai/en/ai-tutorial-sessions/"
-		},{
-			"dates":"2017 Sep 6", 
-			"where":"<a href=\"https://2017.theconference.se\">The Conference</a>, Malmö, Sweden",
-			"name":"Machine learning for creatives masterclass",
-			"info":"https://2017.theconference.se/side-events/machine-learning-for-creatives-gene-kogan"
-		},{
-			"dates":"2017 Aug 2-4", 
-			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
-			"name":"Prototyping designs with computer vision",
-			"info":"http://schoolofma.org/august2017/"
-		},{
-			"dates":"2017 Jul 24-28", 
-			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
-			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
-			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-2017/workshops/machine-learning-for-interaction-design/"
-		},{
-			"dates":"2017 Jun 26", 
-			"where":"<a href=\"http://www.eyeofestival.com\">Eyeo Festival</a>, Minneapolis, MN",
-			"name":"Machine learning for artists (with <a href=\"http://frnsys.com\">Francis Tseng</a>)",
-			"info":"http://eyeofestival.com/workshops/"
-		},{
-			"dates":"2017 Jun 24", 
-			"where":"<a href=\"https://itp.nyu.edu/camp2017/\">ITP-Camp</a>, New York University, New York, NY",
-			"name":"Practical resources for machine learning for artists",
-			"info":"https://itp.nyu.edu/camp2017/session/32"
-		},{
-			"dates":"2017 Jun 21", 
-			"where":"<a href=\"https://itp.nyu.edu/camp2017/\">ITP-Camp</a>, New York University, New York, NY",
-			"name":"From principal components to puppyslugs: the mathematics of deep learning for art",
-			"info":"https://itp.nyu.edu/camp2017/session/34"
-		},{
-			"dates":"2017 Jun 12-16", 
-			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
-			"name":"Machine learning for designers (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
-			"info":"http://ciid.dk/education/portfolio/idp17/courses/machine-learning/projects/",
-			"video":"https://vimeo.com/221993355"
-		},{
-			"dates":"2017 Jun 4", 
-			"where":"<a href=\"https://www.lacunalab.com\">Lacuna Lab</a>, Berlin, Germany",
-			"name":"Gestural Instruments",
-			"info":"http://lacunalab.com/events/2017-06-04_gestural_instruments.html"
-		},{
-			"dates":"2017 May 22", 
-			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
-			"name":"Machine learning for artists and designers (p2)"
-		},{
-			"dates":"2017 May 19", 
-			"where":"<a href=\"https://www.soundcloud.com/\">SoundCloud</a>, Berlin, Germany",
-			"name":"Machine learning for artists and designers",
-			"extended":true
-		},{
-			"dates":"2017 May 16", 
-			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
-			"name":"pix2pix and deep generative models",
-			"info":"http://spektrumberlin.de/events/detail/workshop-pix2pix-and-deep-generative-models.html"
-		},{
-			"dates":"2017 May 5", 
-			"where":"<a href=\"http://thephotographersgallery.org.uk/\">Photographers Gallery</a>, London, England",
-			"name":"Machine's eye view",
-			"info":"http://thephotographersgallery.org.uk/machine-learning-for-artists-2"
-		},{
-			"dates":"2017 May 2", 
-			"where":"<a href=\"https://www.hesge.ch/head/en\">Haute école d'art et de design</a>, Geneva, Switzerland",
-			"name":"Machine learning for artists and designers (p1)",
-			"extended":true
-		},{
-			"dates":"2017 Apr 30", 
-			"where":"<a href=\"http://sensorium.is/\">Sensorium</a>, Bratislava, Slovakia",
-			"name":"Machine learning for artists and designers",
-			"info":"https://2017.sensorium.is/workshops/machine-learning"
-		},{
-			"dates":"2017 Apr 24-28", 
-			"where":"<a href=\"http://ecal.ch/fr/100/homepage\">Ecole cantonale d'art</a>, Lausanne, Switzerland",
-			"name":"Machine learning for artists",
-			"info":"http://ecal.ch/fr/3471/formations/bachelor/media-interaction-design/projets-workshops/machine-learning-workshop-avec-gene-kogan"
-		},{
-			"dates":"2017 Apr 17-19", 
-			"where":"<a href=\"http://www.resonate.io/2017/\">Resonate Festival</a>, Belgrade, Serbia",
-			"name":"Machine learning for artists (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
-			"info":"http://resonate.io/2017/workshop/machine-learning-for-artists/"
-		},{
-			"dates":"2017 Apr 3-16", 
-			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Belgrade, Serbia",
-			"name":"Thinking and Feeling (with <a href=\"http://www.hannahishere.com/\">Hannah Davis</a>)",
-			"info":"http://schoolofma.org/feeling-and-thinking/"
-		},{
-			"dates":"2017 Mar 30-31", 
-			"where":"<a href=\"https://www.mediamonks.com/\">Media Monks</a>, Hilversum, Netherlands",
-			"name":"Machine learning for artists",
-			"extended":true
-		},{
-			"dates":"2017 Mar 14-15", 
-			"where":"<a href=\"http://www.strelka.com/\">Strelka Institue</a>, Moscow, Russia",
-			"name":"Imaginary blueprints (with <a href=\"http://sougwen.com\">Sougwen Chung</a>)",
-			"info":"http://www.strelka.com/en/magazine/2016/08/30/-what-is-the-new-normal-and-how-to-untangle-it"
-		},{
-			"dates":"2017 Mar 7",
-			"where":"<a href=\"http://spektrumberlin.de\">Spektrum</a>, Berlin, Germany",
-			"name":"Real-time applications of machine learning",
-			"info":"http://spektrumberlin.de/events/detail/real-time-applications-of-machine-learning.html"
-		},{
-			"dates":"2017 Feb 28", 
-			"where":"<a href=\"http://www.newschool.edu/parsons-paris/\">Parsons MFA-DT</a>, Paris, France",
-			"name":"D+TM #49: Intro to Machine Learning",
-			"info":"http://paris.parsons.edu/amt/dtm-49-gene-kogan/"
-		},{
-			"dates":"2017 Feb 18-19", 
-			"where":"<a href=\"http://machinesroom.org/\">Machines Room</a>, London, England",
-			"name":"Machine learning for artists",
-			"info":"http://machinesroom.co.uk/classes-workshops/gene-kogan-machine-learning-for-artists-31105139309/"
-		},{
-			"dates":"2016 Dec 16", 
-			"where":"<a href=\"http://isi.ac.id/\">Institute of the Arts</a>, Yogyakarta, Indonesia",
-			"name":"Generative composition (with <a href=\"http://mrzl.net/\">Marcel Schwittlick</a> & <a href=\"http://lifepatch.org/\">Lifepatch</a>)",
-			"info":"http://lifepatch.org/Lokakarya_Teknologi_Musik",
-			"photo":"http://mrzl.net/generative-composition-workshop/"
-		},{
-			"dates":"2016 Dec 6", 
-			"where":"<a href=\"http://nabi.or.kr\">Art Center Nabi</a>, Seoul, South Korea",
-			"name":"Machine learning for artists",
-			"info":"http://nabi.or.kr/english/academy/current_read.nab?idx=370"
-		},{
-			"dates":"2016 Nov 21-25", 
-			"where":"<a href=\"http://www.opendotlab.it\">OpenDot Lab</a>, Milan, Italy",
-			"name":"Machine learning for artists",
-			"info":"http://www.opendotlab.it/calendario/workshop-machine-learning-for-artists/",
-			"video":"http://ml4a.github.io/classes/opendot/"
-		},{
-			"dates":"2016 Nov 5", 
-			"where":"<a href=\"http://www.kikk.be/2016\">Kikk Festival</a>, Namur, Belgium",
-			"name":"Machine learning for artists",
-			"info":"http://www.kikk.be/2016/en/program/workshops/machine-learning-for-artists",
-			"photo":"https://www.flickr.com/photos/kikk_festival/30702838651/in/album-72157672531263603/"
-		},{
-			"dates":"2016 Oct 19-20", 
-			"where":"<a href=\"http://theinfluencers.org/\">The Influencers</a>, Barcelona, Spain",
-			"name":"Machine learning for activists",
-			"info":"http://theinfluencers.org/ca/machine-learning-for-activists"
-		},{
-			"dates":"2016 Oct 6", 
-			"where":"<a href=\"https://retune.de/\">Retune Festival</a>, Berlin, Germany",
-			"name":"Machine learning for artists",
-			"info":"https://retune.de/festival/2016/workshops/#Gene-Kogan"
-		},{
-			"dates":"2016 Oct 1", 
-			"where":"<a href=\"http://spektrumberlin.de\">Spektrum</a>, Berlin, Germany",
-			"name":"Machine learning for artists",
-			"info":"http://spektrumberlin.de/events/detail/workshop-machine-learning-for-artists-with-gene-kogan.html"
-		},{
-			"dates":"2016 Sep 30", 
-			"where":"<a href=\"https://www.ixds.com\">IXDS</a>, Berlin, Germany",
-			"name":"Machine learning for artists",
-			"extended":true
-		},{
-			"dates":"2016 Jul 4-29", 
-			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
-			"name":"The Neural Aesthetic (with <a href=\"https://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths/welcome.html\">Rebecca Fiebrink</a>)",
-			"info":"http://schoolofma.org/neural-aesthetic/",
-			"video":"http://ml4a.github.io/classes/neural-aesthetic/"
-		},{
-			"dates":"2016 Jun 4", 
-			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
-			"name":"The Neural Aesthetic @ <a href=\"https://itp.nyu.edu/camp2016/\">ITP-Camp</a>",
-			"info":"https://itp.nyu.edu/camp2016/session/88",
-			"video":"http://ml4a.github.io/classes/itp-S16/07/"
-		},{
-			"dates":"2016 May 22", 
-			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
-			"name":"Visualizing high-dimensional data, <a href=\"http://alt-ai.net\">alt-AI</a>",
-			"info":"http://alt-ai.net/#workshops",
-			"photo":"http://blog.sfpc.io/post/145354482196/from-workshops-and-conference-of-alt-ai-video-of"
-		},{
-			"dates":"2016 Mar-May", 
-			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
-			"name":"Machine learning for artists",
-			"info":"https://tisch.nyu.edu/itp/news/summer-2016/gene-kogan--machine-learning-for-artists",
-			"video":"http://ml4a.github.io/classes/itp-S16/"
-		},{
-			"dates":"2016 Mar 5-6", 
-			"where":"<a href=\"http://www.ofcn.io/\">OF Course</a>, Shanghai, China",
-			"name":"Machine learning & data visualization with t-SNE",
-			"info":"http://www.huodongxing.com/event/4320519676800",
-			"photo":"https://www.instagram.com/p/BChhDF3A4kz/"
-		},{
-			"dates":"2016 Feb 17-19", 
-			"where":"<a href=\"http://ceg.annauniv.edu/\">Guindy College</a>, Chennai, India",
-			"name":"Creative coding at <a href=\"http://kurukshetra.org.in/#/dashboard\">Kurukshetra festival</a>",
-			"info":"http://blog.cegtechforum.com/2016/02/creative-side-coding/"
-		},{
-			"dates":"2015 Nov 23-24",
-			"where":"<a href=\"https://eyebeam.org/\">Eyebeam</a>, New York, NY",
-			"name":"Opera Toolit improvisation (with <a href=\"http://lisakori.net\">Lisa Kori</a> & Sarah McSherry)",
-			"info":"http://archive.eyebeam.org/events/opera-toolkit-workshop",
-			"photo":"https://www.flickr.com/photos/eyebeam/sets/72157663755508204"
-		},{
-			"dates":"2015 Sep-Dec", 
-			"where":"<a href=\"http://www.bennington.edu/academics/areas-of-study-curriculum/visual-arts\">Bennington College</a>, Bennington, VT",
-			"name":"Generative Art with <a href=\"https://p5js.org\">p5.js</a> (DA2108)",
-			"info":"http://curriculum.bennington.edu/fall2015/2015/05/14/generative-art-with-processing/",
-			"code":"https://github.com/genekogan/Bennington_GenerativeArt"
-		},{
-			"dates":"2015 Aug 20",
-			"where":"<a href=\"http://otionfront.com/\">Otion Front</a>, New York, NY",
-			"name":"Opera Toolkit (with <a href=\"http://lisakori.net\">Lisa Kori</a> & <a href=\"http://colin-self.com/\">Colin Self</a>)",
-			"info":"http://archive.eyebeam.org/events/opera-toolkit",
-			"video":"https://vimeo.com/199067445"
-		},{
-			"dates":"2015 Aug 16",
-			"where":"<a href=\"https://eyebeam.org/\">117 Beeckman St</a>, New York, NY",
-			"name":"OpenFit Lab: Generative Patternmaking (with <a href=\"http://lisakori.net\">Lisa Kori</a>)",
-			"info":"http://archive.eyebeam.org/events/openfit-lab"
-		},{
-			"dates":"2015 Apr 11-12", 
-			"where":"<a href=\"http://www.newschool.edu/parsons/mfa-design-technology/\">Parsons MFA-DT</a>, New School, New York, NY",
-			"name":"Quad-C lectures on computer vision & <a href=\"/works/kinect-projector-toolkit/\">KinectProjectorToolkit</a>"
-		},{
-			"dates":"2015 Feb 1", 
-			"where":"<a href=\"http://www.jaaga.in\">Jaaga</a>, Bangalore, India",
-			"name":"Interactive environments (with <a href=\"http://sheikspear.wixsite.com/kyta/alec\">Alec Schachner</a>)",
-			"info":"https://www.facebook.com/events/666300566825567"
-		},{
-			"dates":"2014 Sep", 
-			"where":"<a href=\"http://www.metropolitanexchange.org/\">Metropolitan Exchange</a>, New York, NY",
-			"name":"Generative Arts workshop at <a href=\"http://www.ofcn.io/\">OF Course</a>",
-			"info":"http://www.ofcn.io/previous-class/"
-		},{
-			"dates":"2014 Jan 24", 
-			"where":"<a href=\"http://zerostationvn.org/ga0/\">Zero Station</a>, Ho Chi Minh City, Vietnam",
-			"name":"<a href=\"/works/kinect-projector-toolkit/\">KinectProjectorToolkit</a> workshop"
-		},{
-			"dates":"2013 Oct-2014 Feb", 
-			"where":"<a href=\"http://www.tenlegs.com//\">Tenlegs.com</a>",
-			"name":"Visual instruments, computer vision, generative art (online courses)",
-			"info":"http://www.harvestworks.org/processing-fall-winter-online-intensive/"
-		},{
-			"dates":"2013 Nov 2-3", 
-			"where":"<a href=\"http://lispher.ph/\">Lispher Inn</a>, Davao, Philippines",
-			"name":"<a href=\"http://www.theunifiedfield.org/artist_in_residence\">UnifiedField</a> workshop on free software & art",
-			"info":"http://www.theunifiedfield.org/archives/3471"
-		},{
-			"dates":"2013 Oct 26",
-			"where":"<a href=\"http://www.greyprojects.org//\">Grey Projects</a>, Singapore",
-			"name":"New media & projection mapping (with <a href=\"http://en.wikipilipinas.org/index.php/Tengal_Drilon\">Tengal Drilon</a> & <a href=\"https://soundcloud.com/joee-mejias\">Joee Mejias</a>)",
-			"info":"http://www.greyprojects.org/index.php/new-media-sound-and-projection-mapping-workshop/"
-		},{
-			"dates":"2013 Aug 7-9",
-			"where":"<a href=\"http://neuronspace.ru/wp/\">Neuron Hackspace</a>, Moscow, Russia",
-			"name":"Processing workshop & generative art",
-			"info":"http://neuronspace.ru/wp/news/art-xak-processing-workshop.html"
-		},{
-			"dates":"2013 July 13", 
-			"where":"<a href=\"http://www.1335mabini.com\">1335 Mabini</a>, Manila, Philippines",
-			"name":"Projection mapping on moving bodies",
-			"info":"http://www.1335mabini.com/gene-koganworkshops-talksprogam/"
-		},{
-			"dates":"2013 Jul 5-12", 
-			"where":"Terminal Garden, Manila, Philippines",
-			"name":"Generative art with Processing, Fete Dela WSK",
-			"info":"http://fuckyeahfetedelawsk.tumblr.com/post/54098104690/terminalgarden-generative-art-workshop-when",
-			"video":"https://www.youtube.com/watch?v=iiempqvMFkM"
-		},{
-			"dates":"2012 Nov 14",
-			"where":"<a href=\"http://jaaga.in/\">Jaaga</a>, Bangalore, India",
-			"name":"Kinect workshop",
-			"info":"http://electricdosa.tumblr.com/post/35841689321/kinect-workshop-at-jaaga-14-nov-2012"
-		},{
-			"dates":"2012 Nov 5-26", 
-			"where":"<a href=\"http://www.tenlegs.com//\">Tenlegs.com</a>",
-			"name":"Introduction to computer vision (online course)",
-			"info":"http://www.harvestworks.org/computer-vision-online-course/"
-		},{
-			"dates":"2012 Sep 22", 
+			"type":"workshop",
+			"date":"2012 Sep 22", 
 			"where":"<a href=\"http://www.jaaga.in\">Jaaga</a>, Bangalore, India",
 			"name":"Art + Technology workshop",
 			"info":"http://www.genekogan.com/works/jaaga-workshop.html",
 			"photo":"http://electricdosa.tumblr.com/post/32042392948/jaaga-generative-art-class-sep-22"
 		},{
-			"dates":"2012 Jun-Jul", 
+			"type":"exhibition",
+			"date":"2012 Sep 1",
+			"name":"Listening to the Ocean (with <a href=\"http://www.phillipstearns.com/\">Phillip Stearns</a> and <a href=\"http://dantesene.com/\">Dan Tesene</a>)",
+			"where":"<a href=\"http://soundwalk.org/soundwalk-2012.html\">Soundwalk</a>, Los Angeles, CA",
+			"info":"http://soundwalk.org/artists/phillip-stearns-dan-tesene-gene-kogan/"
+		},{
+			"type":"residency",
+			"date":"2012 Aug 30-Dec 10",
+			"where":"<a href=\"http://www.jaaga.in\">Jaaga</a>, Bangalore, India",
+			"name":"Artist-in-resident at <a href=\"http://www.jaaga.in\">Jaaga</a>"
+		},{
+			"type":"workshop",
+			"date":"2012 Jun-Jul", 
 			"where":"<a href=\"http://www.harvestworks.org\">Harvestworks</a>, New York, NY",
 			"name":"Generative art summer course",
 			"info":"http://www.harvestworks.org/generative-art-summer-course/"
 		},{
-			"dates":"2010 Oct 28", 
-			"where":"<a href=\"http://www.harvestworks.org\">Harvestworks</a>, New York, NY",
-			"name":"Field recording workshop (with <a href=\"https://vimeo.com/user1055167/\">Filipe Chagas</a>)"
-		}
-	],
-	"exhibitions":[
-		{
-			"dates":"2017 Dec 15-17",
-			"name":"Group Exhibition: Cubist Mirror, Meat Puppet, Neural Synth",
-			"where":"<a href=\"https://befantastic.in/\">Bengaluru Fantastic</a>, Bangalore, India",
-			"info":"https://befantastic.in/portfolio/gene-kogan/"
-		},{
-			"dates":"2017 Dec 4-9",
-			"name":"Exhibition: NIPS Workshp on ML for Creativity & Design",
-			"where":"<a href=\"https://nips.cc/\">NIPS conference</a>, Long Beach, CA",
-			"info":"http://nips4creativity.com/art/gene-kogan/",
-			"video":"https://vimeo.com/manage/246047871"
-		},{
-			"dates":"2017 Nov 29",
-			"name":"Exhibition: Cubist Mirror & Meat Puppet",
-			"where":"<a href=\"https://www.hub.berlin\">hub.berlin</a>, Berlin, Germany",
-			"info":"https://www.hub.berlin/en/artists/gene-kogan"
-		},{
-			"dates":"2017 Nov 25",
-			"name":"Group Exhibition: Neural synthesis (at Cybernetic Choreographies exhibition)",
-			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
-			"info":"http://spektrumberlin.de/events/detail/exhibition-13-cybernetic-choreographies.html"
-		},{
-			"dates":"2017 Oct 19-21", 
-			"where":"<a href=\"http://www.holesovickasachta.cz/\">Holešovická Šachta</a>, Prague, Czech Republic",
-			"name":"Exhibition: Neural synthesis (at <a href=\"http://lunchmeatfestival.cz/2017/\">Lunchmeat Festival</a>)",
-			"info":"http://lunchmeatfestival.cz/2017/program/exhibition/",
-			"photo":"https://www.instagram.com/p/BajFfGSgSRX/?taken-by=genekogan"
-		},{
-			"dates":"2017 Sep 7-11",
-			"name":"Installation: Selection of real-time neural-image transformations",
-			"where":"<a href=\"https://www.aec.at/ai/en\">Ars Electronica</a>, Linz, Austria",
-			"info":"https://www.aec.at/ai/en/image-transformations/"
-		},{
-			"dates":"2017 Aug 20-Oct 29",
-			"name":"Exhibition: Why the Future Still Needs Us",
-			"where":"<a href=\"http://www.artmuseum.qut.edu.au/\">QUT Art Museum</a>, Brisbane, Australia",
-			"info":"http://www.artmuseum.qut.edu.au/exhibit/2017/future-needs.jsp"
-		},{
-			"dates":"2016 Nov 15-Jan 20",
-			"name":"Exhibition: Why the Future Still Needs Us",
-			"where":"<a href=\"http://nabi.or.kr\">Art Center Nabi</a>, Seoul, South Korea",
-			"info":"http://www.nabi.or.kr/english/project/current_read.nab?idx=541"
-		},{
-			"dates":"2016 May 20-22",
-			"name":"Installation: Cubist Mirror at <a href=\"http://www.alt-ai.net/\">alt-AI</a>",
-			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
-			"info":"http://www.alt-ai.net/#exhibition",
-			"video":"https://vimeo.com/167910860"
-		},{
-			"dates":"2015 Nov 19-Dec 20",
-			"name":"Exhibition: Inside/Out (with <a href=\"http://lisakori.net\">Lisa Kori</a> & <a href=\"http://colin-self.com/\">Colin Self</a>)",
-			"where":"<a href=\"https://eyebeam.org/\">Eyebeam</a>, New York, NY",
-			"info":"http://archive.eyebeam.org/events/insideout"
-		},{
-			"dates":"2015 Jan 14-18",
-			"name":"Installation: Contact (with Alec Schachner)",
-			"where":"<a href=\"http://thestoryoflight.org/\">Story of Light Festival</a>, Panjim, Goa, India",
-			"info":"https://thestoryoflight.org/gene-alec/",
-			"video":"https://vimeo.com/120653546"
-		},{
-			"dates":"2014 Nov 15",
-			"name":"Installation: Silhouettes in Saigon",
-			"where":"Cargo, Ho Chi Minh City, Vietnam",
-			"info":"http://genekogan.com/works/kinect-projector-toolkit/",
-			"video":"https://vimeo.com/112243428"
-		},{
-			"dates":"2014 Jul 18-30",
-			"name":"Exhibition: <a href=\"http://biomearts.net/ecohack2014/\">Biome Arts</a>",
-			"where":"EcoHacker-Build, Delancey, NY",
-			"info":"http://genekogan.com/works/ecohacker-build/",
-			"video":"https://vimeo.com/102197478"
-		},{
-			"dates":"2014 Apr 23",
-			"name":"Performance: Machine Yearning (with <a href=\"https://soa.princeton.edu/content/axel-kilian\">Axel Kilian</a>, <a href=\"http://www.gshed.com/\">Ryan Johns</a>, Charlie Avis, <a href=\"https://snyderphonics.com/\">Jeff Snyder</a>, and <a href=\"http://plork.princeton.edu/index.php\">Princeton Laptop Orchestra</a>)",
-			"where":"<a href=\"https://soa.princeton.edu/\">Princeton University</a>, Princeton, NJ",
-			"info":"http://genekogan.com/works/machine-yearning/",
-			"video":"https://vimeo.com/99536775"
-		},{
-			"dates":"2013 Sep 1",
-			"name":"Performance: СУПЕРПОЗИЦИЯ (Superposition) (with Maria Seledets)",
-			"where":"<a href=\"https://www.erarta.com/\">Erarta Museum</a>, St. Petersburg, Russia",
-			"info":"https://www.erarta.com/ru/calendar/detail/48cb0e6a-0664-11e3-814b-8920284aa333/"
-		},{
-			"dates":"2012 Sep 1",
-			"name":"Exhibition: Listening to the Ocean (with <a href=\"http://www.phillipstearns.com/\">Phillip Stearns</a> and <a href=\"http://dantesene.com/\">Dan Tesene</a>)",
-			"where":"<a href=\"http://soundwalk.org/soundwalk-2012.html\">Soundwalk</a>, Los Angeles, CA",
-			"info":"http://soundwalk.org/artists/phillip-stearns-dan-tesene-gene-kogan/"
-		},{
-			"dates":"2012 April 26-27",
-			"name":"Performance: Tip of the Tongue (with <a href=\"http://www.courtneygiannone.com/\">Courtney Giannone</a>)",
+			"type":"performance",
+			"date":"2012 April 26-27",
+			"name":"Tip of the Tongue (with <a href=\"http://www.courtneygiannone.com/\">Courtney Giannone</a>)",
 			"where":"<a href=\"http://www.streb.org\">STREB Extreme Action</a>, Brooklyn, NY",
 			"info":"http://genekogan.com/works/tip-of-the-tongue/",
 			"video":"https://vimeo.com/71362270"
 		},{
-			"dates":"2012 Feb 16-18",
-			"name":"Performance: <a href=\"http://genekogan.com/works/the-rub/\">The Rub</a> (with <a href=\"http://www.nessanorich.com/\">Nessa Norich</a>)",
+			"type":"performance",
+			"date":"2012 Feb 16-18",
+			"name":"<a href=\"http://genekogan.com/works/the-rub/\">The Rub</a> (with <a href=\"http://www.nessanorich.com/\">Nessa Norich</a>)",
 			"where":"<a href=\"https://www.facebook.com/MagicFuturebox/\">Magic FutureBox</a>, Brooklyn, NY",
 			"info":"http://www.tremorcollective.tumblr.com/",
 			"video":"https://www.youtube.com/watch?v=__UfCmlAa4E"
 		},{
-			"dates":"2010 Aug 28",
+			"type":"talk",
+			"date":"2011 Dec 7", 
+			"where":"<a href=\"http://www.location1.org/\">Location One</a>, New York, NY",
+			"name":"<a href=\"http://dorkbot.org/\">Dorkbot</a>",
+			"info":"http://dorkbot.org/dorkbotnyc/07.dec.2011/images/"
+		},{
+			"type":"paper",
+			"date":"2011 Jun 10",
+			"name":"Sequential Event Prediction with Association Rules (Cynthia Rudin, Benjamin Letham, Ansaf Salleb-Aouissi, Eugene Kogan and David Madigan)",
+			"where":"Proceedings of the 24th Annual Conference on Learning Theory (COLT)",
+			"pdf":"http://www.jmlr.org/proceedings/papers/v19/rudin11a/rudin11a.pdf"
+		},{
+			"type":"talk",
+			"date":"2011 Feb 17",
+			"name":"Application: Beat Parade (with John Gallagher)",
+			"where":"<a href=\"https://www.wired.com/2011/02/music-hack-day-nyc/\">Music Hack Day</a>, New York, NY",
+			"info":"http://evolver.fm/2011/02/18/beat-parade-spins-short-attention-span-dj-sets-from-a-single-song/"
+		},{
+			"type":"talk",
+			"date":"2010 Nov 10", 
+			"where":"<a href=\"https://www.siam.org/students/chapters/current/columbia.php\">SIAM</a>, Columbia University, New York, NY",
+			"name":"<a href=\"http://www.sourcetone.com/\">Sourcetone</a>: Learning the Mood of Music",
+			"info":"http://www.scribd.com/doc/42486386/Sourcetone-Presentation-bit-ly-math-startup-11-10-10"
+		},{
+			"type":"workshop",
+			"date":"2010 Oct 28", 
+			"where":"<a href=\"http://www.harvestworks.org\">Harvestworks</a>, New York, NY",
+			"name":"Field recording workshop (with <a href=\"https://vimeo.com/user1055167/\">Filipe Chagas</a>)"
+		},{
+			"type":"exhibiion",
+			"date":"2010 Aug 28",
 			"name":"Group exhibition: Symbiosis: Between Technology, Humans, and Art",
 			"where":"<a href=\"http://www.harvestworks.org/\">Harvestworks</a>, New York, NY",
 			"info":"http://www.harvestworks.org/symbiosis-between-technology-humans-and-art/"
 		},{
-			"dates":"2011 Feb 17",
-			"name":"Application: Beat Parade (with John Gallagher)",
-			"where":"<a href=\"https://www.wired.com/2011/02/music-hack-day-nyc/\">Music Hack Day</a>, New York, NY",
-			"info":"http://evolver.fm/2011/02/18/beat-parade-spins-short-attention-span-dj-sets-from-a-single-song/"
-		}
-	],
-	"residencies":[
-		{
-			"dates":"2017 Jan",
-			"where":"<a href=\"https://www.recurse.com/\">Recurse Center</a>, New York, NY",
-			"name":"Researcher-in-residence",
-			"info":"https://www.recurse.com/residents#Gene-Kogan"
+			"type":"talk",
+			"date":"2009 Nov 16", 
+			"where":"<a href=\"https://www.siam.org/students/chapters/current/columbia.php\">SIAM</a>, Columbia University, New York, NY",
+			"name":"Seminar Talk (with <a href=\"https://about.me/goldtruong\">Gold Truong</a>)",
+			"info":"http://www.columbiaspectator.com/2009/11/19/crunching-numbers-math-beyond-finance"
 		},{
-			"dates":"2016 Mar",
-			"where":"<a href=\"https://medium.com/dbrs-innovation-labs\">DBRS Innovation Labs</a>, New York, NY",
-			"name":"Researcher-in-residence",
-			"info":"https://medium.com/dbrs-innovation-labs/machine-learning-for-artists-7a3689a34e9e#.jvwunjd1g"
+			"type":"talk",
+			"date":"2008 May",
+			"where":"<a href=\"http://apam.columbia.edu\">Columbia University</a>, New York, NY",
+			"name":"Thesis presentation: Using Association Rules to Make Recommendations",
+			"extended":true
 		},{
-			"dates":"2015 Sep-Oct",
-			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
-			"name":"Artist-in-residence",
-			"info":"http://sfpc.io/people/gene-kogan/"
-		},{
-			"dates":"2015 Mar-Aug",
-			"where":"<a href=\"https://eyebeam.org/\">Eyebeam</a>, New York, NY",
-			"name":"Opera Toolkit (with <a href=\"http://lisakori.net\">Lisa Kori</a> & <a href=\"http://colin-self.com/\">Colin Self</a>)",
-			"info":"http://archive.eyebeam.org/people/gene-kogan",
-			"photo":"http://operatoolkit.tumblr.com/"
-		},{
-			"dates":"2015 Mar",
-			"where":"<a href=\"http://whitebuilding.org\">White Building</a>, Phnom Penh, Cambodia",
-			"name":"<a href=\"http://www.sasaart.info/\">Sa Sa Art Projects</a> artist-in-residency",
-			"info":"http://whitebuilding.org/en/film/paths-experimental-performances-rehearsal-2015",
-			"video":"https://www.youtube.com/watch?v=Qxs5WB3017g"
-		},{
-			"dates":"2013 Nov",
-			"where":"Davao City, Philippines",
-			"name":"<a href=\"http://www.theunifiedfield.org/artist_in_residence\">Unifiedfield</a> artist-in-residency",
-			"info":"http://www.theunifiedfield.org/archives/3471",
-			"video":"https://vimeo.com/78801880"
-		},{
-			"dates":"2012 Sep-Dec",
-			"where":"<a href=\"http://www.jaaga.in\">Jaaga</a>, Bangalore, India",
-			"name":"Artist-in-resident at <a href=\"http://www.jaaga.in\">Jaaga</a>"
-		}
-	],
-	"publications":[
-		{
-			"date":"2015",
-			"authors":"Jeff Snyder, Eugene Kogan, Ryan Johns, Charlie Avis, Axel Kilian",
-			"title":"An Industrial Robotic Arm as an Instrument: Details of an Experimental Performance",
-			"publication":"New Interfaces for Musical Expression (NIME)",
-			"pdf":"http://www.nime.org/proceedings/2015/nime2015_275.pdf",
-			"video":"https://vimeo.com/92879100"
-		},{
-			"date":"2011",
-			"authors":"Cynthia Rudin, Benjamin Letham, Ansaf Salleb-Aouissi, Eugene Kogan and David Madigan",
-			"title":"Sequential Event Prediction with Association Rules",
-			"publication":"Proceedings of the 24th Annual Conference on Learning Theory (COLT)",
-			"pdf":"http://www.jmlr.org/proceedings/papers/v19/rudin11a/rudin11a.pdf"
+			"type":"talk",
+			"date":"2007 Dec",
+			"where":"<a href=\"http://apam.columbia.edu\">Columbia University</a>, New York, NY",
+			"name":"APAM faculty presentation: Collaborative Filtering & Recommender Systems",
+			"extended":true
 		}
 	]
 }
@@ -1027,6 +1200,20 @@
 
 
 /*
+
+
+to-add
+ - re.publica
+ - Utrecht
+ - Shanghai
+ - Bump
+ - CIID july
+
+
+
+
+
+
 
 // “Blue Swimmer.” New York Electronic Arts Festival.  2011  http://nyeaf.org/2011/wp/louisa-armbrust-blue-swimmer/
 // Introduction to Generative Art and Processing (online) [Tenlegs]
@@ -1041,7 +1228,7 @@
 
 canceled:
 {
-	"dates":"2017 Aug 21-25", 
+	"date":"2017 Aug 21-25", 
 	"where":"<a href=\"https://ciid.dk\">CIID</a>, New York, NY",
 	"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
 	"info":"http://ciid.dk/education/summer-school/ciid-summer-school-2017-nyc/workshops/machine-learning-for-interaction-design/"

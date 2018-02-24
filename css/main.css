@@ -143,7 +143,8 @@ ul li {
 }
 .cv_entry {
     background-color: #eee;
-    margin:2px;
+    margin-top:4px;
+    margin-bottom:4px;
     padding:3px;
     min-width:750px;
     max-width:1025px;
@@ -155,9 +156,13 @@ ul li {
 .cv_entry.upcoming {
 	background-color:#ddeedd;
 }
-.date, .where, .name, .links, .info_link, .video_link {
+.date, .type, .where, .name, .links, .info_link, .video_link {
     display:inline-block;
     vertical-align: middle
+}
+.type {
+    width:10%;
+    min-width:90px;
 }
 .date {
     width:12%;
@@ -165,11 +170,11 @@ ul li {
 }
 .where {
     width:32%;
-    min-width:220px;
+    min-width:200px;
 }
 .name {
-    width:40%;
-    min-width:220px;
+    width:32%;
+    min-width:200px;
 }
 .links {
     min-width:90px;
@@ -200,4 +205,31 @@ ul li {
     padding-bottom:60px;
 }
 
+.cv_heading ul {
+    color:#000;
+    background-color:#fff;
+    list-style: none;
+    text-align:left;
+}
+.cv_heading ul li {
+    color:#000;
+    background-color:#fff;
+    display: inline;
+    margin-right: 20px;
+    font-size: 1.15em;
+}
 
+.cv_heading a {
+    text-decoration:none;
+    border-bottom:0.5px dashed #49e;
+    padding: 3px;
+    color:#000;
+    background-color:#fff; /*breaking lightbox*/
+}
+.cv_heading a:hover, .cv_heading .active a:hover {
+    background-color:#49e;
+}
+
+.cv_heading .active a {
+    background-color:#9be; 
+}
