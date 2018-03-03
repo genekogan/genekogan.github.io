@@ -54,7 +54,7 @@
 			"name":"Talk at <a href=\"http://arsincognita.concept-script.com/\">Symposium on art & intelligence</a>",
 			"info":"http://arsincognita.concept-script.com/"
 		},{			
-			"type":"talk",
+			"type":"talk",	
 			"date":"2018 Mar 3", 
 			"where":"<a href=\"http://www.kongresunams.lv/\">Riga Congress Centre</a>, Riga, Latvia",
 			"name":"(via Skype) Talk at DATTACK Workshop at <a href=\"http://www.staroriga.lv/\">Staro Riga</a>",
@@ -172,10 +172,10 @@
 		},{
 			"type":"exhibition",
 			"date":"2017 Dec 4-9",
-			"name":"NIPS Workshp on ML for Creativity & Design",
+			"name":"NIPS Workshop on ML for Creativity & Design",
 			"where":"<a href=\"https://nips.cc/\">NIPS conference</a>, Long Beach, CA",
 			"info":"http://nips4creativity.com/art/gene-kogan/",
-			"video":"https://vimeo.com/manage/246047871"
+			"video":"https://vimeo.com/246047871"
 		},{
 			"type":"installation",
 			"date":"2017 Nov 29",
@@ -825,7 +825,7 @@
 			"date":"2016 Jan 22", 
 			"where":"<a href=\"http://cis-india.org/\">Center for Internet & Society</a>, Bangalore, India",
 			"name":"A.I. Hype Cycles and Artistic Subversions",
-			"info":"http://cis-india.org/rawithai-hype-cycles-and-artistic-subversions"
+			"info":"https://cis-india.org/raw/ai-hype-cycles-and-artistic-subversions"
 		},{
 			"type":"talk",
 			"date":"2016 Jan 14",

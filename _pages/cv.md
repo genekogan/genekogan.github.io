@@ -160,7 +160,7 @@ function selectType(selectedType) {
 };
 
 function highlightUpcoming() {
-	var today = new Date();
+	var today = new Date(new Date() - 86400000);
 	var d = document.getElementsByClassName("cv_entry");
 	for(var i = 0; i < d.length; i++){ 
 		var text = d[i].children[0].textContent;
