@@ -15,10 +15,9 @@
 		},{
 			"type":"talk",
 			"date":"2018 Jun 22", 
-			"where":"<a href=\"http://bump-festival.be/\">Bump Festival</a>, Kortrijk, Belgium",
-			"name":"TBD",
-			"info":"http://bump-festival.be/",
-			"extended":true
+			"where":"<a href=\"https://bump-festival.be/2018/\">Bump Festival</a>, Kortrijk, Belgium",
+			"name":"Talk at Bump Festival (TBD)",
+			"info":"https://bump-festival.be/2018/speakers/gene-kogan/"
 		},{
 			"type":"workshop",
 			"date":"2018 May 28-Jun 1", 
