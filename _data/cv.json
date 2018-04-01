@@ -30,6 +30,17 @@
 			"name":"Machine learning for interaction design"
 		},{
 			"type":"workshop",
+			"date":"2018 May 11-12", 
+			"where":"<a href=\"https://creativecodingutrecht.nl/\">Creative Coding Utrecht</a>, Utrecht, Netherlands",
+			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"info":"https://www.creativecodingutrecht.nl/2018/03/30/machine-learning-for-artists-lab-with-gene-kogan-and-andreas-refsgaard/"
+		},{
+			"type":"workshop",
+			"date":"2018 May 9", 
+			"where":"<a href=\"http://2018.mappingfestival.com/\">Mapping Festival</a>, Geneva, Switzerland",
+			"name":"Machine learning for artists"
+		},{
+			"type":"workshop",
 			"date":"2018 Apr 23-27", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, San José, Costa Rica",
 			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
@@ -42,7 +53,7 @@
 			"info":"https://thenewnormal.strelka.com/info/kogan"
 		},{
 			"type":"workshop",
-			"date":"2018 Apr 7", 
+			"date":"2018 Apr 7",
 			"where":"<a href=\"https://www.spektrumberlin.de/\">Spektrum</a>, Berlin, Germany",
 			"name":"Autonomous Art Systems",
 			"info":"http://spektrumberlin.de/events/detail/autonomous-art-systems.html",
@@ -217,13 +228,13 @@
 			"date":"2017 Nov 12", 
 			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
 			"name":"Machine learning for artists",
-			"info":"https://loop.ableton.com/2017/participants/gene-kogan/"
+			"info":"https://loop.ableton.com/2017/program/activity/machine-learning-for-music-makers/"
 		},{
 			"type":"talk",
 			"date":"2017 Nov 12", 
 			"where":"<a href=\"https://loop.ableton.com/2017/\">Loop</a>, Berlin, Germany",
 			"name":"Deep Listener: Machine learning in the composer's future toolkit",
-			"info":"https://loop.ableton.com/2017/participants/gene-kogan/"
+			"info":"https://loop.ableton.com/2017/program/activity/deep-listener-machine-learning-composers-future-toolkit/"
 		},{
 			"type":"workshop",
 			"date":"2017 Nov 4", 
@@ -563,8 +574,8 @@
 			"type":"talk",
 			"date":"2017 Jan 27", 
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
-			"name":"Machine relearning",
-			"extended":true
+			"name":"xStory: Gene Kogan, machine relearning",
+			"info":"http://tisch.nyu.edu/itp/events/spring-2017/xstory-gene-kogan"
 		},{
 			"type":"talk",
 			"date":"2017 Jan 3", 
@@ -1205,7 +1216,6 @@ to-add
  - re.publica
  - Utrecht
  - Shanghai
- - Bump
  - CIID july
 
 
