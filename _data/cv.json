@@ -13,6 +13,12 @@
 			"name":"Machine learning for new media art",
 			"info":"https://www.andersonranch.org/workshop/machine-learning-for-new-media-art-p1026-18/"
 		},{
+			"type":"workshop",
+			"date":"2017 Jul 9-13", 
+			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
+			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-copenhagen-2018/workshops/machine-learning/"
+		},{
 			"type":"talk",
 			"date":"2018 Jun 22", 
 			"where":"<a href=\"https://bump-festival.be/2018/\">Bump Festival</a>, Kortrijk, Belgium",
@@ -38,7 +44,8 @@
 			"type":"workshop",
 			"date":"2018 May 9", 
 			"where":"<a href=\"http://2018.mappingfestival.com/\">Mapping Festival</a>, Geneva, Switzerland",
-			"name":"Machine learning for artists"
+			"name":"Machine learning for artists",
+			"info":"https://2018.mappingfestival.com/en/show/workshop-4/"
 		},{
 			"type":"workshop",
 			"date":"2018 Apr 23-27", 
