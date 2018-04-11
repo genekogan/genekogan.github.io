@@ -46,6 +46,12 @@
 			"where":"<a href=\"http://2018.mappingfestival.com/\">Mapping Festival</a>, Geneva, Switzerland",
 			"name":"Machine learning for artists",
 			"info":"https://2018.mappingfestival.com/en/show/workshop-4/"
+		},{			
+			"type":"talk",
+			"date":"2018 May 2", 
+			"where":"<a href=\"https://re-publica.com/\">re:publica</a>, Berlin, Germany",
+			"name":"Machine listening: Applications of AI to Music (with <a href=\"https://18.re-publica.com/de/member/2178\">Andrea Goetzke</a>)",
+			"info":"https://18.re-publica.com/en/session/machine-listening-applications-ai-music"
 		},{
 			"type":"workshop",
 			"date":"2018 Apr 23-27", 
