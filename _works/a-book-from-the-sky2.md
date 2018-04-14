@@ -170,6 +170,14 @@ a.nick:link, a.nick:visited, a.nick:active {
 	</div>	
 </div>		
 
+
+<p class="en">
+	By <a href="https://www.twitter.com/genekogan">@genekogan</a>, 2015 December 15.
+</p>
+<p class="cn">
+	<a href="https://www.twitter.com/genekogan">@genekogan</a>，2015年12月15日
+</p>
+
 <p class="en">
 	These images were created by a <a href="http://arxiv.org/abs/1511.06434">deep convolutional generative adversarial network</a> (DCGAN) trained on a <a href="http://www.iapr-tc11.org/mediawiki/index.php/Harbin_Institute_of_Technology_Opening_Recognition_Corpus_for_Chinese_Characters_(HIT-OR3C)">database</a> of handwritten Chinese characters, made with <a href="https://github.com/Newmu/dcgan_code">code</a> by <a href="https://twitter.com/alecrad">Alec Radford</a> based on the paper by Radford, <a href="http://lukemetz.github.io/">Luke Metz</a>, and <a href="http://soumith.ch/">Soumith Chintala</a> in November 2015.
 </p>
@@ -1028,13 +1036,6 @@ Thanks to <a href="http://eall.yale.edu/people/nicholas-frisch" class="nick">Nic
 <p class="cn">
 	感謝 <a href="http://eall.yale.edu/people/nicholas-frisch" class="nick">Nick Frisch</a>, <a href="http://spaceandtim.es/">Francis Tseng</a>, <a href="https://www.twitter.com/dribnet">Tom White</a>, <a href="http://www.nlpr.ia.ac.cn/liucl/">Cheng-Lin Liu</a>的貢獻與建議。
 </p>			
-
-<p class="en">
-	By <a href="https://www.twitter.com/genekogan">@genekogan</a>, 2015 December 15.
-</p>
-<p class="cn">
-	<a href="https://www.twitter.com/genekogan">@genekogan</a>，2015年12月15日
-</p>
 
 <p>
 	<center>
