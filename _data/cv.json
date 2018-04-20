@@ -144,8 +144,7 @@
 			"where":"<a href=\"http://www.ctm-festival.de\">CTM Festival</a>, Berlin, Germany",
 			"name":"Musicmaker's dystopia; the automation of songwriting, production, and curation",
 			"info":"http://www.ctm-festival.de/festival-2018/artists/f-j/gene-kogan/",
-			"video":"https://www.youtube.com/watch?v=IheQp_a9v1c",
-			"audio":"https://soundcloud.com/ctm-festival/ctm-2018-musicmakers-hacklab-input-ii-the-automation-of-songwriting-production-and-curation"
+			"video":"https://www.youtube.com/watch?v=IheQp_a9v1c"
 		},{
 			"type":"talk",
 			"date":"2018 Jan 25", 
@@ -1235,15 +1234,8 @@
 
 
 to-add
- - re.publica
- - Utrecht
  - Shanghai
  - CIID july
-
-
-
-
-
 
 
 // “Blue Swimmer.” New York Electronic Arts Festival.  2011  http://nyeaf.org/2011/wp/louisa-armbrust-blue-swimmer/
@@ -1267,6 +1259,11 @@ canceled:
 
 // video for goldsmiths
 "video":"https://www.pscp.tv/w/1lDxLjDPVdLGm"
+
+
+ctm audio
+"audio":"https://soundcloud.com/ctm-festival/ctm-2018-musicmakers-hacklab-input-ii-the-automation-of-songwriting-production-and-curation"
+
 
 */
 
