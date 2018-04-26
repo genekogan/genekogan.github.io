@@ -31,10 +31,15 @@
 			"name":"Machine learning for artists",
 			"info":"http://www.scm.cityu.edu.hk/event/176"
 		},{
+			"type":"talk",
+			"date":"2018 May 15", 
+			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
+			"name":"CIID Open Lecture (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)"
+		},{
 			"type":"workshop",
 			"date":"2018 May 14-18", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
-			"name":"Machine learning for interaction design"
+			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)"
 		},{
 			"type":"workshop",
 			"date":"2018 May 11-12", 
