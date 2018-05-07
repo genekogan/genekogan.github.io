@@ -51,7 +51,14 @@
 			"date":"2018 May 10", 
 			"where":"<a href=\"http://2018.mappingfestival.com/\">Mapping Festival</a>, Geneva, Switzerland",
 			"name":"Machine learning for artists",
-			"info":"https://2018.mappingfestival.com/en/show/workshop-4/"
+			"info":"https://2018.mappingfestival.com/en/show/machine-learning-for-artists/"
+		},{			
+			"type":"talk",
+			"date":"2018 May 3", 
+			"where":"<a href=\"https://www.facebook.com/groups/Flow.makemeflow/\">Flow</a> (online)",
+			"name":"AMA with Gene Kogan",
+"video":"https://www.facebook.com/groups/Flow.makemeflow/permalink/1672728239478426/",
+			"extended":true
 		},{			
 			"type":"talk",
 			"date":"2018 May 2", 
