@@ -1,3 +1,6 @@
+// bienalle
+// bbc
+
 {
 	"talks":[
 		{
@@ -26,6 +29,22 @@
 			"info":"https://bump-festival.be/2018/speakers/gene-kogan/"
 		},{
 			"type":"workshop",
+			"date":"2018 Jun 14",
+			"where":"<a href=\"https://sonarplusd.com/\">Sónar+D</a>, Barcelona, Spain",
+			"name":"Machine learning for artists"
+		},{
+			"type":"talk",
+			"date":"2018 Jun 13",
+			"where":"<a href=\"https://sonarplusd.com/en/programs/barcelona-2018/areas/talks/the-neural-aesthetic-by-gene-kogan/\">Sónar+D</a>, Barcelona, Spain",
+			"name":"The Neural Aesthetic", 
+			"info":"https://sonarplusd.com/en/programs/barcelona-2018/speakers/gene-kogan"
+		},{
+			"type":"workshop",
+			"date":"2018 Jun 11-12",
+			"where":"<a href=\"https://www.upf.edu/en/\">Universitat Pompeu Fabra</a>, Barcelona, Spain",
+			"name":"Generative models and machine learning for art"
+		},{
+			"type":"workshop",
 			"date":"2018 May 28-Jun 1", 
 			"where":"<a href=\"http://www.cityu.edu.hk/\">City University of Hong Kong</a>, Hong Kong",
 			"name":"Machine learning for artists",
@@ -34,7 +53,8 @@
 			"type":"talk",
 			"date":"2018 May 15", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
-			"name":"CIID Open Lecture (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)"
+			"name":"CIID Open Lecture (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"info":"http://ciid.dk/open-lecture-andreas-refsgaard-gene-kogan/"
 		},{
 			"type":"workshop",
 			"date":"2018 May 14-18", 
@@ -64,7 +84,8 @@
 			"date":"2018 May 2", 
 			"where":"<a href=\"https://re-publica.com/\">re:publica</a>, Berlin, Germany",
 			"name":"Machine listening: Applications of AI to Music (with <a href=\"https://18.re-publica.com/de/member/2178\">Andrea Goetzke</a>)",
-			"info":"https://18.re-publica.com/en/session/machine-listening-applications-ai-music"
+			"info":"https://18.re-publica.com/en/session/machine-listening-applications-ai-music",
+			"video":"https://www.youtube.com/watch?v=Z93rAVrzHZk"
 		},{
 			"type":"workshop",
 			"date":"2018 Apr 23-27", 
