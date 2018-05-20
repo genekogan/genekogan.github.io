@@ -1,6 +1,18 @@
 {
 	"talks":[
 		{
+			"type":"residency",
+			"date":"2018 Sep 10-Dec 15",
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"Something-in-residence",
+			"extended":true
+		},{
+			"type":"class",
+			"date":"2018 Sep 10-Dec 15", 
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"The Neural Aesthetic",
+			"extended":true
+		},{
 			"type":"workshop",
 			"date":"2018 Aug 11-31", 
 			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
@@ -22,7 +34,8 @@
 			"type":"workshop",
 			"date":"2018 Jun 14",
 			"where":"<a href=\"https://sonarplusd.com/\">Sónar+D</a>, Barcelona, Spain",
-			"name":"Machine learning for artists"
+			"name":"Machine learning for artists",
+			"info":"https://sonarplusd.com/en/programs/barcelona-2018/areas/workshops/machine-learning-for-artists-with-gene-kogan"
 		},{
 			"type":"talk",
 			"date":"2018 Jun 13",
