@@ -54,6 +54,17 @@
 			"name":"Machine learning for artists",
 			"info":"http://www.scm.cityu.edu.hk/event/176"
 		},{
+			"type":"exhibition",
+			"date":"2018 May 24", 
+			"where":"<a href=\"http://www.huodongxing.com/event/5438299731400\">Forte Four Seasons Plaza</a>, Shanghai, China",
+			"name":"Group Exhibition: Postcards from the Future (organized by <a href=\"http://ofcourse.io/\">ofcourse.io</a>)",
+			"info":"http://ofcourse.io/event-ai/"
+		},{
+			"type":"talk",
+			"date":"2018 May 23", 
+			"where":"<a href=\"www.shanghaitech.edu.cn/eng/main.htm\">Shanghai Tech University</a>, Shanghai, China",
+			"name":"Interactive machine learning"
+		},{
 			"type":"talk",
 			"date":"2018 May 15", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
