@@ -1,3 +1,5 @@
+// hong kong videos
+
 {
 	"talks":[
 		{
@@ -41,7 +43,7 @@
 			"date":"2018 Jun 13",
 			"where":"<a href=\"https://sonarplusd.com/en/programs/barcelona-2018/areas/talks/the-neural-aesthetic-by-gene-kogan/\">Sónar+D</a>, Barcelona, Spain",
 			"name":"The Neural Aesthetic", 
-			"info":"https://sonarplusd.com/en/programs/barcelona-2018/speakers/gene-kogan"
+			"info":"https://sonarplusd.com/en/programs/barcelona-2018/speakers/gene-kogan-artist-and-coder"
 		},{
 			"type":"workshop",
 			"date":"2018 Jun 11-12",
@@ -58,7 +60,8 @@
 			"date":"2018 May 24", 
 			"where":"<a href=\"http://www.huodongxing.com/event/5438299731400\">Forte Four Seasons Plaza</a>, Shanghai, China",
 			"name":"Group Exhibition: Postcards from the Future (organized by <a href=\"http://ofcourse.io/\">ofcourse.io</a>)",
-			"info":"http://ofcourse.io/event-ai/"
+			"info":"http://ofcourse.io/event-ai/",
+			"video":"https://www.iqiyi.com/v_19rr0p4p9k.html"
 		},{
 			"type":"talk",
 			"date":"2018 May 23", 
