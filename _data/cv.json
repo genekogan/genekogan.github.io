@@ -46,13 +46,15 @@
 			"type":"workshop",
 			"date":"2018 Jun 11-12",
 			"where":"<a href=\"https://www.upf.edu/en/\">Universitat Pompeu Fabra</a>, Barcelona, Spain",
-			"name":"Generative models and machine learning for art"
+			"name":"Generative models and machine learning for art",
+			"info":"https://www.upf.edu/web/etic/inici/-/asset_publisher/nT5ucm2DcHyd/content/id/213585847/maximized"
 		},{
 			"type":"workshop",
 			"date":"2018 May 28-Jun 1", 
 			"where":"<a href=\"http://www.cityu.edu.hk/\">City University of Hong Kong</a>, Hong Kong",
 			"name":"Machine learning for artists",
-			"info":"http://www.scm.cityu.edu.hk/event/176"
+			"info":"http://www.scm.cityu.edu.hk/event/176",
+			"video":"https://www.youtube.com/playlist?list=PLaN6Cxwpu9UKR2mPc39bZEJoyAoCwRw_q"
 		},{
 			"type":"exhibition",
 			"date":"2018 May 24", 
