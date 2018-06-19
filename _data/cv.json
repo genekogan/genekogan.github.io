@@ -32,6 +32,12 @@
 			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-copenhagen-2018/workshops/machine-learning/"
 		},{
 			"type":"workshop",
+			"date":"2018 Jun 19", 
+			"where":"<a href=\"https://www.siemens.com/innovation/en/home/pictures-of-the-future/digitalization-and-software/autonomous-systems-siemens-ai-lab.html\">Siemens AI Lab</a>, Munich, Germany",
+			"name":"Machine learned creativity",
+			"info":"https://www.meetup.com/Siemens-AI-Meetups-Munich/events/251123235/"
+		},{
+			"type":"workshop",
 			"date":"2018 Jun 14",
 			"where":"<a href=\"https://sonarplusd.com/\">Sónar+D</a>, Barcelona, Spain",
 			"name":"Machine learning for artists",
