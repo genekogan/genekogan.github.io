@@ -1,17 +1,80 @@
 {
 	"talks":[
 		{
+			"type":"talk",
+			"date":"2019 Jan 4",
+			"where":"<a href=\"http://www.cityu.edu.hk/\">ISCMA</a>, Hong Kong",
+			"name":"Talk at International Symposium on Computational Media Art (ISCMA)",
+			"info":"https://www.cityu.edu.hk/iscma/keynote-speakers-and-plenary-sessions"
+		},{
+			"type":"workshop",
+			"date":"2018 Dec 17-21", 
+			"where":"<a href=\"https://ciid.dk\">CIID</a>, Kochi, India",
+			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-india-2018/workshops/machine-learning/"
+		},{
+			"type":"talk",
+			"date":"2018 Nov 22",
+			"where":"<a href=\"http://2018.atdays.sk/en/\">Art & Tech Days</a>, Košice, Slovakia",
+			"name":"TBD"
+		},{
+			"type":"talk",
+			"date":"2018 Nov 20",
+			"where":"<a href=\"http://www.kopernik.org.pl/\">Centrum Nauki Kopernik</a>, Warsaw, Poland",
+			"name":"Talk at <a href=\"https://pydata.org/warsaw2018/\">PyData Warsaw</a>",
+			"info":"https://pydata.org/warsaw2018/",
+			"extended":true
+		},{
+			"type":"talk",
+			"date":"2018 Oct 19-20",
+			"where":"<a href=\"http://www.digilogue.com/\">Summit Digilogue</a>, Istanbul, Turkey",
+			"name":"Talk & workshop at FutureTellers TBD",
+			"info":"http://www.digilogue.com/2018/08/gene-kogan/"
+		},{
+			"type":"talk",
+			"date":"2018 Oct 4",
+			"where":"<a href=\"https://empowerment-summit.ch/\">Empowerment summit</a>, Lausanne, Switzerland",
+			"name":"TBD",
+			"info":"https://empowerment-summit.ch/#wow-modal-id-17"
+		},{
+			"type":"workshop",
+			"date":"2018 Oct 1-Oct 5",
+			"where":"<a href=\"http://ecal.ch/fr/100/homepage\">Ecole cantonale d'art</a>, Lausanne, Switzerland",
+			"name":"Machine learning for artists"
+		},{
+			"type":"talk",
+			"date":"2018 Sep 14",  
+			"where":"With the best online conference",
+			"name":"AI With the best"
+		},{
+			"type":"installation",
+			"date":"2018 Sep 13",
+			"where":"<a href=\"http://www.kopernik.org.pl/\">Centrum Nauki Kopernik</a>, Warsaw, Poland",
+			"name":"Cubist Mirror",
+			"info":"http://www.kopernik.org.pl/projekty-specjalne/festiwal-przemiany/festiwal-przemiany-2018/machina-sapiens/"
+		},{
+			"type":"class",
+			"date":"2018 Sep 10-Dec 11", 
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"The Neural Aesthetic",
+			"info":"http://ml4a.github.io/classes/itp-F18/"
+		},{
 			"type":"residency",
 			"date":"2018 Sep 10-Dec 15",
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
-			"name":"Something-in-residence",
-			"extended":true
+			"name":"Something-in-residence"
 		},{
-			"type":"class",
-			"date":"2018 Sep 10-Dec 15", 
-			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
-			"name":"The Neural Aesthetic",
-			"extended":true
+			"type":"workshop",
+			"date":"2018 Sep 6-8",
+			"where":"<a href=\"https://itp.nyu.edu\">Seoul Museum of Art</a>, Seoul, South Korea",
+			"name":"Workshop at Seoul Mediacity Biennale",
+			"info":"http://myartguides.com/biennial/seoul-mediacity-biennale/"
+		},{
+			"type":"talk",
+			"date":"2018 Aug 15", 
+			"where":"<a href=\"https://www.media.mit.edu/events/mlberlin-signalandnoise/\">MIT Media Lab</a>, Berlin, Germany",
+			"name":"Talk at Media Lab Signal & Noise, Creative AI workshop",
+			"info":"https://www.media.mit.edu/events/mlberlin-signalandnoise/"
 		},{
 			"type":"workshop",
 			"date":"2018 Aug 11-31", 
@@ -1292,12 +1355,6 @@
 
 /*
 
-
-to-add
- - Shanghai
- - CIID july
-
-
 // “Blue Swimmer.” New York Electronic Arts Festival.  2011  http://nyeaf.org/2011/wp/louisa-armbrust-blue-swimmer/
 // Introduction to Generative Art and Processing (online) [Tenlegs]
 // Visual Instruments (online) [Tenlegs]
@@ -1327,7 +1384,6 @@ canceled:
 // video for goldsmiths
 "video":"https://www.pscp.tv/w/1lDxLjDPVdLGm"
 
-
 ctm audio
 "audio":"https://soundcloud.com/ctm-festival/ctm-2018-musicmakers-hacklab-input-ii-the-automation-of-songwriting-production-and-curation"
 
@@ -1335,6 +1391,7 @@ ctm audio
 // bienalle
 // bbc
 
+Siglo 21 on the cultural spanish radio "Radio 3" 40:30 @ http://www.rtve.es/alacarta/audios/siglo-21/siglo-21-alt-19-06-18/4638684/
 
 */
 
