@@ -45,7 +45,8 @@
 			"type":"talk",
 			"date":"2018 Sep 14",  
 			"where":"With the best online conference",
-			"name":"AI With the best"
+			"name":"AI With the best",
+			"info":"https://ai.withthebest.com/"
 		},{
 			"type":"installation",
 			"date":"2018 Sep 13",
