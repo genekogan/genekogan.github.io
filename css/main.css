@@ -131,6 +131,21 @@ ul li {
     margin-right: 20px;
     font-size: 1.4em;
 }
+
+.ulworkshops ul {
+    list-style: square;
+    text-align: left;
+    list-style-type: circle;
+}
+.ulworkshops ul li {
+    display: block;
+    padding: 5px;
+    list-style: square;
+    list-style-type: circle;
+    font-size: 1.0em;
+}
+
+
 #cv_bio, #workshops_about {
     font-size:1.3em;
 }
