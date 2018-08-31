@@ -22,8 +22,7 @@
 			"date":"2018 Nov 20",
 			"where":"<a href=\"http://www.kopernik.org.pl/\">Centrum Nauki Kopernik</a>, Warsaw, Poland",
 			"name":"Talk at <a href=\"https://pydata.org/warsaw2018/\">PyData Warsaw</a>",
-			"info":"https://pydata.org/warsaw2018/",
-			"extended":true
+			"info":"https://pydata.org/warsaw2018/keynotes/"
 		},{
 			"type":"talk",
 			"date":"2018 Oct 19-20",
