@@ -21,8 +21,9 @@
 			"type":"talk",
 			"date":"2018 Nov 20",
 			"where":"<a href=\"http://www.kopernik.org.pl/\">Centrum Nauki Kopernik</a>, Warsaw, Poland",
-			"name":"Talk at <a href=\"https://pydata.org/warsaw2018/\">PyData Warsaw</a>",
+			"name":"Keynote at <a href=\"https://pydata.org/warsaw2018/\">PyData Warsaw</a>",
 			"info":"https://pydata.org/warsaw2018/keynotes/"
+
 		},{
 			"type":"talk",
 			"date":"2018 Oct 19-20",
@@ -65,10 +66,16 @@
 			"name":"Something-in-residence"
 		},{
 			"type":"workshop",
-			"date":"2018 Sep 6-8",
+			"date":"2018 Sep 8",
 			"where":"<a href=\"https://itp.nyu.edu\">Seoul Museum of Art</a>, Seoul, South Korea",
 			"name":"Workshop at Seoul Mediacity Biennale",
-			"info":"http://myartguides.com/biennial/seoul-mediacity-biennale/"
+			"info":"http://mediacityseoul.kr/program"
+		},{
+			"type":"exhibition",
+			"date":"2018 Sep 6-8",
+			"where":"<a href=\"https://itp.nyu.edu\">Seoul Museum of Art</a>, Seoul, South Korea",
+			"name":"Neural synthesis at Seoul Mediacity Biennale",
+			"info":"http://mediacityseoul.kr/participant/45"
 		},{
 			"type":"talk",
 			"date":"2018 Aug 15", 
