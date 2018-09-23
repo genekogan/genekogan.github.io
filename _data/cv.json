@@ -58,12 +58,14 @@
 			"date":"2018 Sep 10-Dec 11", 
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
 			"name":"The Neural Aesthetic",
-			"info":"http://ml4a.github.io/classes/itp-F18/"
+			"info":"http://ml4a.github.io/classes/itp-F18/",
+			"video":"http://ml4a.github.io/classes/itp-F18/#lectures"
 		},{
 			"type":"residency",
 			"date":"2018 Sep 10-Dec 15",
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
-			"name":"Something-in-residence"
+			"name":"Something-in-residence",
+			"info":"https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs/gene-kogan"
 		},{
 			"type":"workshop",
 			"date":"2018 Sep 8",
