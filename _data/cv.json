@@ -13,6 +13,12 @@
 			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
 			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-india-2018/workshops/machine-learning/"
 		},{
+			"type":"workshop",
+			"date":"2018 Dec 1", 
+			"where":"<a href=\"https://brooklynresearch.org/\">Brooklyn Research</a>, Brooklyn, NY",
+			"name":"Generative models",
+			"info":"https://brooklynresearch.org/eventbrite-event/generative-models-with-gene-kogan/"
+		},{
 			"type":"talk",
 			"date":"2018 Nov 22",
 			"where":"<a href=\"http://2018.atdays.sk/en/\">Art & Tech Days</a>, Košice, Slovakia",
@@ -34,7 +40,7 @@
 			"type":"talk",
 			"date":"2018 Oct 4",
 			"where":"<a href=\"https://empowerment-summit.ch/\">Empowerment summit</a>, Lausanne, Switzerland",
-			"name":"TBD",
+			"name":"Panel on machine learning education & arts",
 			"info":"https://empowerment-summit.ch/#wow-modal-id-17"
 		},{
 			"type":"workshop",
