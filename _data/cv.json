@@ -1,3 +1,5 @@
+// WTB video
+// digilogu video
 {
 	"talks":[
 		{
@@ -29,6 +31,12 @@
 			"where":"<a href=\"http://www.kopernik.org.pl/\">Centrum Nauki Kopernik</a>, Warsaw, Poland",
 			"name":"Keynote at <a href=\"https://pydata.org/warsaw2018/\">PyData Warsaw</a>",
 			"info":"https://pydata.org/warsaw2018/keynotes/"
+		},{
+			"type":"workshop",
+			"date":"2018 Nov 18", 
+			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
+			"name":"Decentralized AI",
+			"info":"https://www.eventbrite.com/e/decentralised-ai-tickets-51155565674"
 		},{
 			"type":"workshop",
 			"date":"2018 Nov 17", 
