@@ -1,5 +1,3 @@
-// WTB video
-// digilogu video
 {
 	"talks":[
 		{
@@ -44,11 +42,19 @@
 			"name":"Autonomous Generative Spirit (with <a href=\"https://instagram.com/soficrespo91/\">Sofia Crespo</a>)",
 			"info":"https://www.eventbrite.com/e/neural-zoo-tickets-51247392330"
 		},{
-			"type":"talk",
-			"date":"2018 Oct 19-20",
+			"type":"workshop",
+			"date":"2018 Oct 20",
 			"where":"<a href=\"http://www.digilogue.com/\">Summit Digilogue</a>, Istanbul, Turkey",
-			"name":"Talk & workshop at FutureTellers TBD",
-			"info":"http://www.digilogue.com/2018/08/gene-kogan/"
+			"name":"Machine learning for artists masterclass",
+			"info":"http://www.digilogue.com/2018/10/makine-ogrenimi-atolyesi/",
+			"video":"https://youtu.be/1vl3rrOuYYk?t=18202"
+		},{
+			"type":"talk",
+			"date":"2018 Oct 19",
+			"where":"<a href=\"http://www.digilogue.com/\">Summit Digilogue</a>, Istanbul, Turkey",
+			"name":"Talk at FutureTellers TBD",
+			"info":"http://www.digilogue.com/2018/08/gene-kogan/",
+			"video":"https://youtu.be/pUx7Heg3rDg?t=24613"
 		},{
 			"type":"talk",
 			"date":"2018 Oct 4",
