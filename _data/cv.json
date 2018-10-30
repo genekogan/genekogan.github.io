@@ -1,3 +1,5 @@
+// WTB video
+// digilogu video
 {
 	"talks":[
 		{
@@ -42,6 +44,12 @@
 			"name":"Autonomous Generative Spirit (with <a href=\"https://instagram.com/soficrespo91/\">Sofia Crespo</a>)",
 			"info":"https://www.eventbrite.com/e/neural-zoo-tickets-51247392330"
 		},{
+			"type":"talk",
+			"date":"2018 Nov 11", 
+			"where":"<a href=\"https://mfaeda.duke.edu/\">Duke University</a>, Durham, NC",
+			"name":"Talk at MFA/EDA Salon",
+			"info":"http://www.mfaedasalon.org/sun-nov-11-program-notes/"
+		},{
 			"type":"workshop",
 			"date":"2018 Oct 20",
 			"where":"<a href=\"http://www.digilogue.com/\">Summit Digilogue</a>, Istanbul, Turkey",
@@ -52,7 +60,7 @@
 			"type":"talk",
 			"date":"2018 Oct 19",
 			"where":"<a href=\"http://www.digilogue.com/\">Summit Digilogue</a>, Istanbul, Turkey",
-			"name":"Talk at FutureTellers TBD",
+			"name":"Talk at FutureTellers",
 			"info":"http://www.digilogue.com/2018/08/gene-kogan/",
 			"video":"https://youtu.be/pUx7Heg3rDg?t=24613"
 		},{
@@ -286,7 +294,7 @@
 			"type":"workshop",
 			"date":"2018 Feb 2", 
 			"where":"<a href=\"https://www.microsoft.com/en-us/garage/\">Microsoft Garage</a>, Vancouver, BC",
-			"name":"TBD",
+			"name":"Machine learning for artists workshop",
 			"extended":true
 		},{
 			"type":"podcast",
@@ -301,7 +309,8 @@
 			"where":"<a href=\"http://www.ctm-festival.de\">CTM Festival</a>, Berlin, Germany",
 			"name":"Musicmaker's dystopia; the automation of songwriting, production, and curation",
 			"info":"http://www.ctm-festival.de/festival-2018/artists/f-j/gene-kogan/",
-			"video":"https://www.youtube.com/watch?v=IheQp_a9v1c"
+			"video":"https://www.youtube.com/watch?v=IheQp_a9v1c",
+			"audio":"https://soundcloud.com/ctm-festival/ctm-2018-musicmakers-hacklab-input-ii-the-automation-of-songwriting-production-and-curation"
 		},{
 			"type":"talk",
 			"date":"2018 Jan 25", 
@@ -645,7 +654,8 @@
 			"date":"2017 May 3", 
 			"where":"<a href=\"http://www.gold.ac.uk/computing/\">Goldsmiths, University of London</a>, England",
 			"name":"The Neural Aesthetic",
-			"info":"https://www.gold.ac.uk/calendar/?id=10684"
+			"info":"https://www.gold.ac.uk/calendar/?id=10684",
+			"video":"https://www.pscp.tv/w/1lDxLjDPVdLGm"
 		},{
 			"type":"workshop",
 			"date":"2017 Apr 30", 
@@ -1416,10 +1426,8 @@ canceled:
 }
 
 // video for goldsmiths
-"video":"https://www.pscp.tv/w/1lDxLjDPVdLGm"
 
 ctm audio
-"audio":"https://soundcloud.com/ctm-festival/ctm-2018-musicmakers-hacklab-input-ii-the-automation-of-songwriting-production-and-curation"
 
 
 // bienalle
