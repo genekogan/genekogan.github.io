@@ -1,10 +1,22 @@
 {
 	"talks":[
 		{
+			"type":"class",
+			"date":"2019 Jan 31-Mar 14", 
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"Autonomous Artificial Artist",
+			"info":"http://ml4a.github.io/classes/itp-S19/"
+		},{
+			"type":"residency",
+			"date":"2018 Jan 28-May 17",
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"Something-in-residence",
+			"info":"https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs/gene-kogan"
+		},{
 			"type":"talk",
 			"date":"2019 Jan 4",
 			"where":"<a href=\"http://www.cityu.edu.hk/\">ISCMA</a>, Hong Kong",
-			"name":"Talk at International Symposium on Computational Media Art (ISCMA)",
+			"name":"Talk at International Symposium on Computational Media Art (ISCMA)",	
 			"info":"https://www.cityu.edu.hk/iscma/keynote-speakers-and-plenary-sessions"
 		},{
 			"type":"workshop",
@@ -29,6 +41,12 @@
 			"where":"<a href=\"http://www.kopernik.org.pl/\">Centrum Nauki Kopernik</a>, Warsaw, Poland",
 			"name":"Keynote at <a href=\"https://pydata.org/warsaw2018/\">PyData Warsaw</a>",
 			"info":"https://pydata.org/warsaw2018/keynotes/"
+		},{
+			"type":"workshop",
+			"date":"2018 Nov 19", 
+			"where":"<a href=\"http://technologiestiftung-berlin.de\">Technologiestiftung Berlin</a>, Berlin, Germany",
+			"name":"Machine learning for artists",
+			"extended":true
 		},{
 			"type":"workshop",
 			"date":"2018 Nov 18", 
@@ -512,7 +530,8 @@
 			"date":"2017 Aug 29", 
 			"where":"<a href=\"http://www.uxweek.com\">UX Week</a>, San Francisco, CA",
 			"name":"Learned Interfaces",
-			"info":"http://uxweek.com/schedule/learned-interfaces"
+			"info":"http://uxweek.com/schedule/learned-interfaces",
+			"video":"https://vimeo.com/232555189"
 		},{
 			"type":"talk",
 			"date":"2017 Aug 25", 
@@ -852,8 +871,7 @@
 			"date":"2016 Oct 19", 
 			"where":"<a href=\"http://theinfluencers.org/\">The Influencers</a>, Barcelona, Spain",
 			"name":"<a href=\"http://theinfluencers.org/ca/machine-learning-for-activists\">(lecture) Machine learning for activists</a>",
-			"info":"http://theinfluencers.org/",
-			"extended":true
+			"info":"http://www.cccb.org/ca/participants/fitxa/gene-kogan/224855"
 		},{
 			"type":"talk",
 			"date":"2016 Oct 7", 
