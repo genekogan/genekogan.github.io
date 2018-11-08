@@ -1,6 +1,12 @@
 {
 	"talks":[
-		{
+		},{
+			"type":"workshop",
+			"date":"2019 Apr 8-10", 
+			"where":"<a href=\"http://www.strelka.com/\">Strelka Institue</a>, Moscow, Russia",
+			"name":"Workshop at The New Normal (TBD)",
+			"info":"https://thenewnormal.strelka.com/info/kogan"
+		},{
 			"type":"class",
 			"date":"2019 Jan 31-Mar 14", 
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
@@ -8,7 +14,7 @@
 			"info":"http://ml4a.github.io/classes/itp-S19/"
 		},{
 			"type":"residency",
-			"date":"2018 Jan 28-May 17",
+			"date":"2019 Jan 28-May 17",
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
 			"name":"Something-in-residence",
 			"info":"https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs/gene-kogan"
