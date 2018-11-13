@@ -52,7 +52,7 @@
 			"date":"2018 Nov 19", 
 			"where":"<a href=\"http://technologiestiftung-berlin.de\">Technologiestiftung Berlin</a>, Berlin, Germany",
 			"name":"Machine learning for artists",
-			"extended":true
+			"info":"https://www.technologiestiftung-berlin.de/de/blog/plaetze-frei/"
 		},{
 			"type":"workshop",
 			"date":"2018 Nov 18", 
@@ -71,6 +71,12 @@
 			"where":"<a href=\"https://mfaeda.duke.edu/\">Duke University</a>, Durham, NC",
 			"name":"Talk at MFA/EDA Salon",
 			"info":"http://www.mfaedasalon.org/sun-nov-11-program-notes/"
+		},{	
+			"type":"installation",
+			"date":"2018 Nov-2019 May",
+			"where":"<a href=\"https://www.hnf.de/\">Heinz Nixdorf MuseumsForum</a>, Paderborn, Germany",
+			"name":"Doodle Tunes (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"info":"https://www.hnf.de/dauerausstellung/ausstellungsbereiche/global-digital/mensch-roboter-leben-mit-kuenstlicher-intelligenz-und-robotik.html"
 		},{
 			"type":"workshop",
 			"date":"2018 Oct 20",
