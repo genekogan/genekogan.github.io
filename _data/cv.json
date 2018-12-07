@@ -44,10 +44,17 @@
 			"name":"Generative models",
 			"info":"https://brooklynresearch.org/eventbrite-event/generative-models-with-gene-kogan/"
 		},{
+			"type":"workshop",
+			"date":"2018 Nov 23",
+			"where":"<a href=\"https://www.atdays.sk/en/\">Art & Tech Days</a>, Košice, Slovakia",
+			"name":"Machine learning for artists",
+			"info":"https://www.atdays.sk/en/programme/#workshop-machine-learning-artists-gene-kogan"
+		},{
 			"type":"talk",
 			"date":"2018 Nov 22",
 			"where":"<a href=\"https://www.atdays.sk/en/\">Art & Tech Days</a>, Košice, Slovakia",
 			"name":"The Neural Aesthetic",
+			"info":"https://www.atdays.sk/en/speakers-and-artists/"
 		},{
 			"type":"talk",
 			"date":"2018 Nov 20",
