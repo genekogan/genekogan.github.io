@@ -31,6 +31,13 @@
 			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
 			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-india-2018/workshops/machine-learning/"
 		},{
+			"type":"exhibition",
+			"date":"2018 Dec 4-9",
+			"name":"NeurIPS Workshop on ML for Creativity & Design",
+			"where":"<a href=\"https://neurips.cc/\">NeurIPS conference</a>, Montréal, Canada",
+			"info":"https://nips2018creativity.github.io/",
+			"video":"https://vimeo.com/295952984"
+		},{
 			"type":"workshop",
 			"date":"2018 Dec 1", 
 			"where":"<a href=\"https://brooklynresearch.org/\">Brooklyn Research</a>, Brooklyn, NY",
