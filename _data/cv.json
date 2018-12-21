@@ -36,7 +36,7 @@
 			"name":"NeurIPS Workshop on ML for Creativity & Design",
 			"where":"<a href=\"https://neurips.cc/\">NeurIPS conference</a>, Montréal, Canada",
 			"info":"https://nips2018creativity.github.io/",
-			"video":"https://vimeo.com/295952984"
+			"video":"http://www.aiartonline.com/art/gene-kogan/"
 		},{
 			"type":"workshop",
 			"date":"2018 Dec 1", 
@@ -115,7 +115,9 @@
 			"type":"workshop",
 			"date":"2018 Oct 1-Oct 5",
 			"where":"<a href=\"http://ecal.ch/fr/100/homepage\">Ecole cantonale d'art</a>, Lausanne, Switzerland",
-			"name":"Machine learning for artists"
+			"name":"Machine learning for artists",
+			"info":"https://ecal.ch/fr/3918/formations/bachelor/media-interaction-design/descriptif/teaching-the-machine"
+			"video":"https://vimeo.com/302452465"
 		},{
 			"type":"talk",
 			"date":"2018 Sep 14",  
