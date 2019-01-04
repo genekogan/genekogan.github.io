@@ -25,6 +25,13 @@
 			"name":"Talk at International Symposium on Computational Media Art (ISCMA)",	
 			"info":"https://www.cityu.edu.hk/iscma/keynote-speakers-and-plenary-sessions"
 		},{
+			"type":"talk",
+			"date":"2018 Dec 26",
+			"name":"Artist talk at TIFA",
+			"where":"<a href=\"http://tifa.edu.in/\">TIFA Working Studios</a>, Pune, India",
+			"info":"https://www.facebook.com/events/219057088996796/",
+			"extended":true
+		},{
 			"type":"workshop",
 			"date":"2018 Dec 17-21", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Kochi, India",
@@ -123,7 +130,8 @@
 			"date":"2018 Sep 14",  
 			"where":"With the best online conference",
 			"name":"AI With the best",
-			"info":"https://ai.withthebest.com/"
+			"info":"https://ai.withthebest.com/",
+			"video":"https://www.youtube.com/watch?v=Vf-9st73jiM"
 		},{
 			"type":"installation",
 			"date":"2018 Sep 13",
@@ -333,7 +341,8 @@
 			"date":"2018 Feb 5", 
 			"where":"<a href=\"http://www.cfa.cmu.edu/pages/frank-ratchye-studio-for-creative-inquiry\">Frank-Ratchye Studio for Creative Inquiry</a>, Carnegie Mellon University, Pittsburgh, PA",
 			"name":"Steiner Lecture in Creative Inquiry",
-			"info":"http://studioforcreativeinquiry.org/events/steiner-lecture-in-creative-inquiry-gene-kogan"
+			"info":"http://studioforcreativeinquiry.org/events/steiner-lecture-in-creative-inquiry-gene-kogan",
+			"video":"https://vimeo.com/277124857"
 		},{
 			"type":"workshop",
 			"date":"2018 Feb 2", 
