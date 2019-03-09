@@ -1,11 +1,34 @@
 {
 	"talks":[
 		{
+			"type":"talk",
+			"date":"2019 Jun 7",
+			"where":"<a href=\"https://events.wearedevelopers.com/\">WeAreDevelopers Conference</a>, Berlin, Germany",
+			"name":"Art, autonomy, and AI", 
+			"info":"https://events.wearedevelopers.com/world-congress/speakers/"
+		},{
+			"type":"talk",
+			"date":"2019 May 7",
+			"where":"<a href=\"https://pipes-conference.com/\">OMR fesival</a>, Hamburg, Germany",
+			"name":"TBD Talk at Pipes Conference", 
+			"info":"https://pipes-conference.com/#speaker-kogan"
+		},{
 			"type":"workshop",
 			"date":"2019 Apr 8-10", 
 			"where":"<a href=\"http://www.strelka.com/\">Strelka Institue</a>, Moscow, Russia",
 			"name":"Workshop at The New Normal (TBD)",
 			"info":"https://thenewnormal.strelka.com/info/kogan"
+		},{
+			"type":"workshop",
+			"date":"2019 Mar 4-5", 
+			"where":"<a href=\"https://www.ideo.com/location/san-francisco\">IDEO</a>, San Francisco, CA",
+			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)"
+		},{
+			"type":"exhibition",
+			"date":"2019 Feb 23-Jun 2",
+			"name":"Group Exhibition: Deepdream Densecap",
+			"where":"<a href=\"https://www.fotomuseum.ch/\">FotoMuseum</a>, Winterthur, Switzerland",
+			"info":"https://www.fotomuseum.ch/en/explore/situations/155866"
 		},{
 			"type":"class",
 			"date":"2019 Jan 31-Mar 14", 
@@ -18,6 +41,13 @@
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
 			"name":"Something-in-residence",
 			"info":"https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs/gene-kogan"
+		},{
+			"type":"talk",
+			"date":"2019 Jan 16",
+			"where":"<a href=\"https://www.meetup.com/Nature2-0-Where-Blockchain-DLT-and-AI-meet-Berlin/\">Nature 2.0 Meetup</a>, Berlin, Germany",
+			"name":"Autonomous Artificial Artist", 
+			"info":"https://www.meetup.com/Nature2-0-Where-Blockchain-DLT-and-AI-meet-Berlin/events/255390087/",
+			"video":"https://www.youtube.com/watch?v=Ny8AXS6zodk"
 		},{
 			"type":"talk",
 			"date":"2019 Jan 4",
@@ -55,7 +85,8 @@
 			"date":"2018 Nov 23",
 			"where":"<a href=\"https://www.atdays.sk/en/\">Art & Tech Days</a>, Košice, Slovakia",
 			"name":"Machine learning for artists",
-			"info":"https://www.atdays.sk/en/programme/#workshop-machine-learning-artists-gene-kogan"
+			"info":"https://www.atdays.sk/en/programme/#workshop-machine-learning-artists-gene-kogan",
+			"video":"https://vimeo.com/314259857"
 		},{
 			"type":"talk",
 			"date":"2018 Nov 22",
@@ -67,7 +98,8 @@
 			"date":"2018 Nov 20",
 			"where":"<a href=\"http://www.kopernik.org.pl/\">Centrum Nauki Kopernik</a>, Warsaw, Poland",
 			"name":"Keynote at <a href=\"https://pydata.org/warsaw2018/\">PyData Warsaw</a>",
-			"info":"https://pydata.org/warsaw2018/keynotes/"
+			"info":"https://pydata.org/warsaw2018/keynotes/",
+			"video":"https://www.youtube.com/watch?v=XPqClTbl3RE"
 		},{
 			"type":"workshop",
 			"date":"2018 Nov 19", 
@@ -1451,6 +1483,8 @@
 
 
 /*
+
+seoul diversity panel: https://www.youtube.com/watch?v=yAzhw7d2P28
 
 // “Blue Swimmer.” New York Electronic Arts Festival.  2011  http://nyeaf.org/2011/wp/louisa-armbrust-blue-swimmer/
 // Introduction to Generative Art and Processing (online) [Tenlegs]
