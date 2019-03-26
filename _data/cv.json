@@ -1,3 +1,6 @@
+// fake love meetup + ml4a meetup (hidden) + ml4a meetup prevous add
+// kosice video
+// ideo inf?
 {
 	"talks":[
 		{
@@ -18,6 +21,12 @@
 			"where":"<a href=\"http://www.strelka.com/\">Strelka Institue</a>, Moscow, Russia",
 			"name":"Workshop at The New Normal (TBD)",
 			"info":"https://thenewnormal.strelka.com/info/kogan"
+		},{
+			"type":"exhibition",
+			"date":"2019 Mar 22-Mar 24",
+			"name":"Group Exhibition: BBGAN",
+			"where":"<a href=\"http://www.bombaybeachbiennale.org/\">Bombay Beach Biennale</a>, Bombay Beach, CA",
+			"info":"http://2019.bombaybeachbiennale.org/app/exhibitors/9go6xgEet3q7AyAAKL/details"
 		},{
 			"type":"workshop",
 			"date":"2019 Mar 4-5", 
@@ -44,7 +53,7 @@
 		},{
 			"type":"talk",
 			"date":"2019 Jan 16",
-			"where":"<a href=\"https://www.meetup.com/Nature2-0-Where-Blockchain-DLT-and-AI-meet-Berlin/\">Nature 2.0 Meetup</a>, Berlin, Germany",
+			"where":"<a href=\"https://nature2.ooo/\">Nature 2.0 Meetup</a>, Berlin, Germany",
 			"name":"Autonomous Artificial Artist", 
 			"info":"https://www.meetup.com/Nature2-0-Where-Blockchain-DLT-and-AI-meet-Berlin/events/255390087/",
 			"video":"https://www.youtube.com/watch?v=Ny8AXS6zodk"
