@@ -7,17 +7,24 @@
 			"name":"Art, autonomy, and AI", 
 			"info":"https://events.wearedevelopers.com/world-congress/speakers/"
 		},{
-			"type":"talk",
-			"date":"2019 May 7",
-			"where":"<a href=\"https://pipes-conference.com/\">OMR fesival</a>, Hamburg, Germany",
-			"name":"TBD Talk at Pipes Conference", 
-			"info":"https://pipes-conference.com/#speaker-kogan"
+			"type":"workshop",
+			"date":"2019 Apr 20", 
+			"where":"<a href=\"https://channeling.meetlab.hu/\">channeling » Art&Tech</a>, Budapest, Hungary",
+			"name":"Machine learning for artists",
+			"info":"https://channeling.meetlab.hu/?fbclid=IwAR3t3xJVZXY6tSRbycCc0_53Lg6HH3e9Zn2YsLGraKAzh_ImnUx8pDCWp70"
 		},{
 			"type":"workshop",
-			"date":"2019 Apr 8-10", 
+			"date":"2019 Apr 15-17", 
 			"where":"<a href=\"http://www.strelka.com/\">Strelka Institue</a>, Moscow, Russia",
 			"name":"Workshop at The New Normal (TBD)",
 			"info":"https://thenewnormal.strelka.com/info/kogan"
+		},{
+			"type":"talk",
+			"date":"2019 Apr 9", 
+			"where":"<a href=\"http://www.strelka.com/\">Creative Coding Cairo</a>, Cairo, Egypt",
+			"name":"(via Skype) Talk to Creative Coding Cairo",
+			"info":"https://www.facebook.com/events/2015701345392442/permalink/2017226901906553/",
+			"extended":true
 		},{
 			"type":"exhibition",
 			"date":"2019 Mar 22-Mar 24",
@@ -1487,8 +1494,10 @@
 
 
 
-
 /*
+
+kosice "video2":"https://www.youtube.com/watch?v=POOXDzK0J-8",
+
 
 seoul diversity panel: https://www.youtube.com/watch?v=yAzhw7d2P28
 
@@ -1504,7 +1513,15 @@ seoul diversity panel: https://www.youtube.com/watch?v=yAzhw7d2P28
 "info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
 
 canceled:
-{
+
+
+},{
+	"type":"talk",
+	"date":"2019 May 7",
+	"where":"<a href=\"https://pipes-conference.com/\">OMR fesival</a>, Hamburg, Germany",
+	"name":"TBD Talk at Pipes Conference", 
+	"info":"https://pipes-conference.com/#speaker-kogan"
+},{
 	"date":"2017 Aug 21-25", 
 	"where":"<a href=\"https://ciid.dk\">CIID</a>, New York, NY",
 	"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
