@@ -7,6 +7,12 @@
 			"name":"Art, autonomy, and AI", 
 			"info":"https://events.wearedevelopers.com/world-congress/speakers/"
 		},{
+			"type":"talk",
+			"date":"2019 Apr 30",
+			"where":"<a href=\"https://about.babbel.com\">Babbel</a>, Berlin, Germany",
+			"name":"AI, Music, Language, Creativity: Teaching bots to make music", 
+			"info":"https://www.eventbrite.com/e/ai-music-language-creativity-teaching-bots-to-make-music-tickets-60531122216"
+		},{
 			"type":"workshop",
 			"date":"2019 Apr 20", 
 			"where":"<a href=\"https://channeling.meetlab.hu/\">channeling » Art&Tech</a>, Budapest, Hungary",
@@ -293,7 +299,8 @@
 			"date":"2018 May 11-12", 
 			"where":"<a href=\"https://creativecodingutrecht.nl/\">Creative Coding Utrecht</a>, Utrecht, Netherlands",
 			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
-			"info":"https://www.creativecodingutrecht.nl/2018/03/30/machine-learning-for-artists-lab-with-gene-kogan-and-andreas-refsgaard/"
+			"info":"https://www.creativecodingutrecht.nl/2018/03/30/machine-learning-for-artists-lab-with-gene-kogan-and-andreas-refsgaard/",
+			"video":"https://vimeo.com/328147657"
 		},{
 			"type":"workshop",
 			"date":"2018 May 10", 
