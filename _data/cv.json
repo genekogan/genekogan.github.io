@@ -8,6 +8,12 @@
 			"info":"https://events.wearedevelopers.com/world-congress/speakers/"
 		},{
 			"type":"talk",
+			"date":"2019 May 10",
+			"where":"<a href=\"http://creativetechweek.nyc/\">Creative Tech Week</a>, New York, NY",
+			"name":"Making Machines Creative panel", 
+			"info":"http://creativetechweek.nyc/experts/gene-kogan-artist-and-programmer/"
+		},{
+			"type":"talk",
 			"date":"2019 Apr 30",
 			"where":"<a href=\"https://about.babbel.com\">Babbel</a>, Berlin, Germany",
 			"name":"AI, Music, Language, Creativity: Teaching bots to make music", 
