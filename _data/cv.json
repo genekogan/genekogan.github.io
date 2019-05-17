@@ -63,12 +63,12 @@
 			"type":"workshop",
 			"date":"2019 Apr 15-17", 
 			"where":"<a href=\"http://www.strelka.com/\">Strelka Institue</a>, Moscow, Russia",
-			"name":"Workshop at The New Normal (TBD)",
+			"name":"Workshop at <a href=\"https://thenewnormal.strelka.com/\">The New Normal</a>",
 			"info":"https://thenewnormal.strelka.com/info/kogan"
 		},{
 			"type":"talk",
 			"date":"2019 Apr 9", 
-			"where":"<a href=\"http://www.strelka.com/\">Creative Coding Cairo</a>, Cairo, Egypt",
+			"where":"<a href=\"https://www.facebook.com/creativecodingcairo/\">Creative Coding Cairo</a>, Cairo, Egypt",
 			"name":"(via Skype) Talk to Creative Coding Cairo",
 			"info":"https://www.facebook.com/events/2015701345392442/permalink/2017226901906553/",
 			"video":"https://www.youtube.com/watch?v=H7jMKXTCSs0&fbclid=IwAR3umSb4aZXKVJYxELXuXFAnnmqE-s70V5L6iZO9AKZjnB3zvASjfEz4HKQ",
@@ -373,7 +373,7 @@
 			"type":"workshop",
 			"date":"2018 Apr 9-11", 
 			"where":"<a href=\"http://www.strelka.com/\">Strelka Institue</a>, Moscow, Russia",
-			"name":"Workshop at The New Normal",
+			"name":"Workshop at <a href=\"https://thenewnormal.strelka.com/\">The New Normal</a>",
 			"info":"https://thenewnormal.strelka.com/info/kogan"
 		},{
 			"type":"workshop",
