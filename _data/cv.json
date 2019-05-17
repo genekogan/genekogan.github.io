@@ -8,9 +8,9 @@
 			"info":"https://www.eventbrite.de/e/onb-labs-symposium-tickets-61031085620"
         },{
             "type":"talk",
-            "date":"2019 Jun 10",
-            "where":"TBD, Berlin, Germany",
-            "name":"Artist in the cloud at <a href=\"http://schoolofma.org\">School of Machines</a>"
+            "date":"2019 Jun 10-11",
+            "where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
+            "name":"Artist in the cloud (details TBD)"
         },{
 			"type":"talk",
 			"date":"2019 Jun 7",
@@ -21,7 +21,7 @@
 			"type":"exhibition",
 			"date":"2019 Jun 7-Aug 31",
 			"where":"<a href=\"https://www.bom.org.uk/\">BOM</a>, Birmingham, UK",
-			"name":"Group Exhibition: Make Believe (<a href=\"https://vimeo.com/139123754\">Why is a raven...</a>)", 
+			"name":"Group Exhibition: Make Believe (<a href=\"https://vimeo.com/139123754\">Why is a raven like a writing desk?</a>)", 
 			"info":"https://www.bom.org.uk/event/make-believe/"
 		},{
             "type":"talk",
@@ -71,6 +71,7 @@
 			"where":"<a href=\"http://www.strelka.com/\">Creative Coding Cairo</a>, Cairo, Egypt",
 			"name":"(via Skype) Talk to Creative Coding Cairo",
 			"info":"https://www.facebook.com/events/2015701345392442/permalink/2017226901906553/",
+			"video":"https://www.youtube.com/watch?v=H7jMKXTCSs0&fbclid=IwAR3umSb4aZXKVJYxELXuXFAnnmqE-s70V5L6iZO9AKZjnB3zvASjfEz4HKQ",
 			"extended":true
 		},{
 			"type":"exhibition",
@@ -176,7 +177,7 @@
 			"type":"workshop",
 			"date":"2018 Nov 17", 
 			"where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
-			"name":"Autonomous Generative Spirit (with <a href=\"https://instagram.com/soficrespo91/\">Sofia Crespo</a>)",
+			"name":"Neural Zoo (with <a href=\"https://instagram.com/soficrespo91/\">Sofia Crespo</a>)",
 			"info":"https://www.eventbrite.com/e/neural-zoo-tickets-51247392330"
 		},{
 			"type":"talk",
