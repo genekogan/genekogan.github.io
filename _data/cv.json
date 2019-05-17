@@ -1,29 +1,46 @@
 {
 	"talks":[
-        {
+		{
+			"type":"workshop",
+			"date":"2019 Jun 12-13", 
+			"where":"<a href=\"https://dhd-blog.org/?p=11729\">ÖNB Labs</a>, Vienna, Austria",
+			"name":"Symposium and Workshop (with <a href=\"https://instagram.com/soficrespo91/\">Sofia Crespo</a>)",
+			"info":"https://www.eventbrite.de/e/onb-labs-symposium-tickets-61031085620"
+        },{
             "type":"talk",
             "date":"2019 Jun 10",
-            "where":"ACUD, Berlin, Germany",
-            "name":"Artist in the cloud @ <a href=\"\">School of Machines</a>",
-            "extended":true
+            "where":"TBD, Berlin, Germany",
+            "name":"Artist in the cloud at <a href=\"http://schoolofma.org\">School of Machines</a>"
         },{
 			"type":"talk",
 			"date":"2019 Jun 7",
 			"where":"<a href=\"https://events.wearedevelopers.com/\">WeAreDevelopers Conference</a>, Berlin, Germany",
 			"name":"Art, autonomy, and AI", 
 			"info":"https://events.wearedevelopers.com/world-congress/speakers/"
-        },{
+		},{
+			"type":"exhibition",
+			"date":"2019 Jun 7-Aug 31",
+			"where":"<a href=\"https://www.bom.org.uk/\">BOM</a>, Birmingham, UK",
+			"name":"Group Exhibition: Make Believe (<a href=\"https://vimeo.com/139123754\">Why is a raven...</a>)", 
+			"info":"https://www.bom.org.uk/event/make-believe/"
+		},{
             "type":"talk",
             "date":"2019 May 22",
             "where":"<a href=\"https://www.meetup.com/aittg-nyc/\">NYC AI Tech Talks meetup</a>, New York, NY",
             "name":"Autonomous Artificial Artist",
             "info":"https://www.meetup.com/aittg-nyc/events/261474617/"
-        },{
+		},{
+			"type":"exhibition",
+			"date":"2019 May 16-31",
+			"where":"<a href=\"http://art-ai.dmu.ac.uk/\">Art-AI Festival</a>, Leicester, UK",
+			"name":"Group Exhibition: Neural synthesis", 
+			"info":"http://art-ai.dmu.ac.uk/event/neural-synthesis/"
+		},{
             "type":"talk",
             "date":"2019 May 12",
-            "where":"New York, NY",
-            "name":"Cinjon AI event",
-            "extended":true
+            "where":"<a href=\"https://www.caelumgallery.com/\">Caelum Gallery</a>, New York, NY",
+            "name":"Art and Machine Learning panel (with <a href=\"https://www.hodlipson.com/\">Hod Lipson</a> and <a href=\"https://cvalenzuelab.com/\">Cris Valenzuela</a>)",
+            "info":"https://www.eventbrite.com/e/art-and-machine-learning-tickets-61253191946"
 		},{
 			"type":"talk",
 			"date":"2019 May 10",
