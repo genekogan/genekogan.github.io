@@ -8,9 +8,10 @@
 			"info":"https://www.eventbrite.de/e/onb-labs-symposium-tickets-61031085620"
         },{
             "type":"talk",
-            "date":"2019 Jun 10-11",
+            "date":"2019 Jun 10",
             "where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
-            "name":"Artist in the cloud (details TBD)"
+			"name":"Artist in the cloud: an introduction to the <a href=\"https://www.abraham.ai\">Abraham</a> project",
+			"info":"https://www.facebook.com/events/2012465542394877/"
         },{
 			"type":"talk",
 			"date":"2019 Jun 7",
