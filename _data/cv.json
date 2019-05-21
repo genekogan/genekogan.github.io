@@ -35,7 +35,8 @@
 			"date":"2019 May 16-31",
 			"where":"<a href=\"http://art-ai.dmu.ac.uk/\">Art-AI Festival</a>, Leicester, UK",
 			"name":"Group Exhibition: Neural synthesis", 
-			"info":"http://art-ai.dmu.ac.uk/event/neural-synthesis/"
+			"info":"http://art-ai.dmu.ac.uk/event/neural-synthesis/",
+			"video":"https://www.vimeo.com/337280255"
 		},{
             "type":"talk",
             "date":"2019 May 12",
@@ -147,14 +148,14 @@
 			"date":"2018 Nov 23",
 			"where":"<a href=\"https://www.atdays.sk/en/\">Art & Tech Days</a>, Košice, Slovakia",
 			"name":"Machine learning for artists",
-			"info":"https://www.atdays.sk/en/programme/#workshop-machine-learning-artists-gene-kogan",
+			"info":"https://2018.atdays.sk/en/programme/#workshop-machine-learning-artists-gene-kogan",
 			"video":"https://vimeo.com/314259857"
 		},{
 			"type":"talk",
 			"date":"2018 Nov 22",
 			"where":"<a href=\"https://www.atdays.sk/en/\">Art & Tech Days</a>, Košice, Slovakia",
 			"name":"The Neural Aesthetic",
-			"info":"https://www.atdays.sk/en/speakers-and-artists/"
+			"info":"https://2018.atdays.sk/en/speakers-and-artists/"
 		},{
 			"type":"talk",
 			"date":"2018 Nov 20",
@@ -336,7 +337,8 @@
 			"type":"workshop",
 			"date":"2018 May 14-18", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Copenhagen, Denmark",
-			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)"
+			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
+			"info":"http://ciid.dk/education/portfolio/idp18/courses/machine-learning/projects/"
 		},{
 			"type":"workshop",
 			"date":"2018 May 11-12", 
