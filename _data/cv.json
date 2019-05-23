@@ -1,11 +1,17 @@
 {
 	"talks":[
 		{
-			"type":"workshop",
-			"date":"2019 Jun 12-13", 
+			"type":"talk",
+			"date":"2019 Jun 13", 
 			"where":"<a href=\"https://dhd-blog.org/?p=11729\">ÖNB Labs</a>, Vienna, Austria",
-			"name":"Symposium and Workshop (with <a href=\"https://instagram.com/soficrespo91/\">Sofia Crespo</a>)",
+			"name":"Symposium keynote at ÖNB Labs",
 			"info":"https://www.eventbrite.de/e/onb-labs-symposium-tickets-61031085620"
+		},{
+			"type":"workshop",
+			"date":"2019 Jun 12", 
+			"where":"<a href=\"https://dhd-blog.org/?p=11729\">ÖNB Labs</a>, Vienna, Austria",
+			"name":"Neural Zoo (with <a href=\"https://instagram.com/soficrespo91/\">Sofia Crespo</a>)",
+			"info":"https://www.eventbrite.com/e/neural-zoo-tickets-51247392330"
         },{
             "type":"talk",
             "date":"2019 Jun 10",
