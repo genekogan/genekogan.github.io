@@ -1,6 +1,18 @@
 {
 	"talks":[
 		{
+			"type":"workshop",
+			"date":"2019 Jun 22", 
+			"where":"<a href=\"https://itp.nyu.edu/camp2019/\">ITP-Camp</a>, New York University, New York, NY",
+			"name":"How to launch an artist into the cloud: an introduction to Abraham",
+			"info":"https://itp.nyu.edu/camp2019/session/240"
+		},{
+			"type":"workshop",
+			"date":"2019 Jun 21", 
+			"where":"<a href=\"https://itp.nyu.edu/camp2019/\">ITP-Camp</a>, New York University, New York, NY",
+			"name":"Frontiers of AI arts",
+			"info":"https://itp.nyu.edu/camp2019/session/241"
+		},{
 			"type":"talk",
 			"date":"2019 Jun 13", 
 			"where":"<a href=\"https://dhd-blog.org/?p=11729\">ÖNB Labs</a>, Vienna, Austria",
@@ -54,7 +66,8 @@
 			"date":"2019 May 10",
 			"where":"<a href=\"http://creativetechweek.nyc/\">Creative Tech Week</a>, New York, NY",
 			"name":"Making Machines Creative panel", 
-			"info":"http://creativetechweek.nyc/experts/gene-kogan-artist-and-programmer/"
+			"info":"http://creativetechweek.nyc/experts/gene-kogan-artist-and-programmer/",
+			"video":"https://www.youtube.com/watch?v=EFtIvqGqHuU"
 		},{
 			"type":"talk",
 			"date":"2019 Apr 30",
@@ -299,7 +312,8 @@
 			"date":"2018 Jun 14",
 			"where":"<a href=\"https://sonarplusd.com/\">Sónar+D</a>, Barcelona, Spain",
 			"name":"Machine learning for artists",
-			"info":"https://sonarplusd.com/en/programs/barcelona-2018/areas/workshops/machine-learning-for-artists-with-gene-kogan"
+			"info":"https://sonarplusd.com/en/programs/barcelona-2018/areas/workshops/machine-learning-for-artists-with-gene-kogan",
+			"video":"https://www.youtube.com/watch?v=YfdWz3EoHig"
 		},{
 			"type":"talk",
 			"date":"2018 Jun 13",
@@ -1556,9 +1570,10 @@
 
 kosice "video2":"https://www.youtube.com/watch?v=POOXDzK0J-8",
 
+CTW panel: https://www.youtube.com/watch?v=-oLr_MWSxF8
 
 seoul diversity panel: https://www.youtube.com/watch?v=yAzhw7d2P28
-
+CIID kerala https://www.youtube.com/watch?v=XQ9GwjtxE6Q
 // “Blue Swimmer.” New York Electronic Arts Festival.  2011  http://nyeaf.org/2011/wp/louisa-armbrust-blue-swimmer/
 // Introduction to Generative Art and Processing (online) [Tenlegs]
 // Visual Instruments (online) [Tenlegs]
