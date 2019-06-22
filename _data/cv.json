@@ -2,6 +2,12 @@
 	"talks":[
 		{
 			"type":"workshop",
+			"date":"2019 Jun 24", 
+			"where":"<a href=\"https://city.ai/activities/data-science-days/\">Data Science Days</a>, New York, NY",
+			"name":"Lightning talk introduction to <a href=\"http://abraham.ai\">Abraham</a>",
+			"info":"https://city.ai/activities/data-science-days/"
+		},{
+			"type":"workshop",
 			"date":"2019 Jun 22", 
 			"where":"<a href=\"https://itp.nyu.edu/camp2019/\">ITP-Camp</a>, New York University, New York, NY",
 			"name":"How to launch an artist into the cloud: an introduction to Abraham",
@@ -11,7 +17,8 @@
 			"date":"2019 Jun 21", 
 			"where":"<a href=\"https://itp.nyu.edu/camp2019/\">ITP-Camp</a>, New York University, New York, NY",
 			"name":"Frontiers of AI arts",
-			"info":"https://itp.nyu.edu/camp2019/session/241"
+			"info":"https://itp.nyu.edu/camp2019/session/241",
+			"video":"https://www.youtube.com/watch?v=OPnNmjuXL44"
 		},{
 			"type":"talk",
 			"date":"2019 Jun 13", 
@@ -1568,6 +1575,8 @@
 
 
 /*
+
+https://zkm.de/de/ausstellung/2019/08/seasons-of-media-arts
 
 kosice "video2":"https://www.youtube.com/watch?v=POOXDzK0J-8",
 
