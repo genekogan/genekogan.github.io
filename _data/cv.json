@@ -1,6 +1,28 @@
 {
 	"talks":[
 		{
+			"type":"workshop",
+			"date":"2020 Jan 7-Mar 27", 
+			"where":"<a href=\"http://brahman.ai\">BRAHMAN</a>, Bombay Beach, CA",
+			"name":"Brahman",
+			"extended":true
+		},{
+			"type":"workshop",
+			"date":"2019 Nov 5-6", 
+			"where":"<a href=\"\">Fjord Design</a>, Dublin, Ireland",
+			"name":"Workshop TBD",
+			"extended":true
+		},{
+			"type":"installation",
+			"date":"2019 Sep 5", 
+			"where":"<a href=\"https://futurium.de/\">Futurium</a>, Berlin, Germany",
+			"name":"Group exhibition: Invisible Berlin, Sketch Transform, Cubist Mirror"
+		},{
+			"type":"class",
+			"date":"2019 Sep 4-Dec 10", 
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"The Neural Aesthetic"
+		},{
 			"type":"talk",
 			"date":"2019 Jul 23", 
 			"where":"<a href=\"http://ainyc19.xnextcon.com/\">AI NEXTCon</a>, New York, NY",
@@ -11,7 +33,8 @@
 			"date":"2019 Jul 17", 
 			"where":"<a href=\"https://overcast.fm/itunes1413304564/digitally-rare\">Digitally Rare Podcast</a>",
 			"name":"Art Thou an ArtDAO, Abraham.ai?",
-			"info":"https://overcast.fm/+N6TEwPLlE"
+			"info":"https://overcast.fm/+N6TEwPLlE",
+			"audio":"https://overcast.fm/+N6TEwPLlE"
 		},{
 			"type":"workshop",
 			"date":"2019 Jul 12", 
