@@ -3,7 +3,7 @@
 	<head>
 		<title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		<link rel="icon" href="/images/favicon.png">
+		<!--<link rel="icon" href="/images/favicon.png">-->
 		<meta charset="utf-8">
 	{% if page.includes contains 'jquery' %}
 		<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>	
@@ -18,23 +18,36 @@
 
 	</head>
 
+
 	<body>
 		<div class="navbar">
 			<nav>
-	    		<ul>
-					<li style="display:none;"><a href="#end-nav" class="skip-navigation">Skip Navigation</a></li>
-	        		<li><a href="https://www.twitter.com/genekogan">@genekogan</a></li>
-	        		<li{% if page.url == '/' %} class="active"{% endif %}>{% if page.url != '/' %}<a href="/">{% endif %}work{% if page.url != '/' %}</a>{% endif %}</li>
-		        	<li{% if page.url == '/archive/' %} class="active"{% endif %}>{% if page.url != '/archive/' %}<a href="/archive">{% endif %}archive{% if page.url != '/archive/' %}</a>{% endif %}</li>
-		        	<li{% if page.url == '/cv/' %} class="active"{% endif %}>{% if page.url != '/cv/' %}<a href="/cv">{% endif %}about / cv{% if page.url != '/cv/' %}</a>{% endif %}</li>
-		        	<li{% if page.url == '/workshops/' %} class="active"{% endif %}>{% if page.url != '/workshops/' %}<a href="/workshops">{% endif %}workshops{% if page.url != '/workshops/' %}</a>{% endif %}</li>
-	    		</ul>
+				<div class="mainnav">
+					<ul>
+						<li style="display:none;"><a href="#end-nav" class="skip-navigation">Skip Navigation</a></li>
+						<!--<li><a href="https://www.twitter.com/genekogan">@genekogan</a></li>-->
+						<li{% if page.url == '/' %} class="active"{% endif %}>{% if page.url != '/' %}<a href="/">{% endif %}about{% if page.url != '/' %}</a>{% endif %}</li>
+						<li{% if page.url == '/work/' %} class="active"{% endif %}>{% if page.url != '/work/' %}<a href="/work">{% endif %}work{% if page.url != '/work/' %}</a>{% endif %}</li>
+						<li{% if page.url == '/archive/' %} class="active"{% endif %}>{% if page.url != '/archive/' %}<a href="/archive">{% endif %}archive{% if page.url != '/archive/' %}</a>{% endif %}</li>
+						<li{% if page.url == '/cv/' %} class="active"{% endif %}>{% if page.url != '/cv/' %}<a href="/cv">{% endif %}calendar / cv{% if page.url != '/cv/' %}</a>{% endif %}</li>
+						<li{% if page.url == '/workshops/' %} class="active"{% endif %}>{% if page.url != '/workshops/' %}<a href="/workshops">{% endif %}workshops{% if page.url != '/workshops/' %}</a>{% endif %}</li>
+					</ul>
+				</div>
+				{% if page.url != '/' %}
+				<div class="sidenav">
+					<ul>
+						<li><a href="https://www.github.com/genekogan"><img src="/images/icons/github.png"></a></li>
+						<li><a href="https://www.twitter.com/genekogan"><img src="/images/icons/twitter.png"></a></li>
+						<li><a href="https://www.instagram.com/genekogan"><img src="/images/icons/instagram.png"></a></li>
+					</ul>
+				</div>
+				{% endif %}
 			</nav>
 		</div>
 
 		<span id="end-nav"></span>
 
-		<div class="container">
+		<div id="container">
 			{{ content }}
 		</div>
 		

@@ -23,6 +23,12 @@
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
 			"name":"The Neural Aesthetic"
 		},{
+			"type":"residency",
+			"date":"2019 Sep 4-Dec 16",
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"Something-in-residence",
+			"info":"https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs/gene-kogan"
+		},{
 			"type":"talk",
 			"date":"2019 Jul 23", 
 			"where":"<a href=\"http://ainyc19.xnextcon.com/\">AI NEXTCon</a>, New York, NY",

@@ -5,6 +5,7 @@ body {
     /*font-weight:200; */
     margin:0px;
 }
+
 a {
     padding-left:1px;
     padding-right:1px;
@@ -13,19 +14,30 @@ a {
     color:#000;
     background-color:#eee; /*breaking lightbox*/
 }
+
 a:hover {
     background-color:#ddd;
     color:#000;
 }
 
-/* navbar */
+ul {
+    padding: 0px;
+    list-style: none;
+    text-align:left;
+}
+ul li {
+    display: inline;
+    margin-right: 20px;
+    font-size: 1.4em;
+}
+
+/* NAVBAR */
 .navbar {
-    margin-left:auto;
-    margin-right:auto;
-    min-width:680px;
-    font-size:1.0em;
-    padding-left:32px;
-    border-bottom:0.5px solid #eee;
+    font-size:1.1em;
+    padding-left: 32px;
+    border-bottom: 1.0px solid #dedeef;
+    display: inline-block;
+    width:95%;
 }
 .navbar a {
     background-color:#fff;
@@ -41,14 +53,41 @@ nav ul li.active {
     font-weight:bold;
     font-size: 1.6em;
 }
-
-/* main page */
-.container {
-    margin-left:auto;
-    margin-right:auto;
-    margin-bottom:100px;
-    min-width:680px;
+.mainnav, .sidenav {
+    display: inline-block;
 }
+.mainnav{
+    float:left;
+}
+.sidenav {
+    float:right;
+    padding-right:35px;
+}
+.sidenav ul li {
+    margin-right: 0px;
+    margin-left: 7px;
+}    
+
+
+/* CONTAINER / PROJECTS / ARCHIVE */
+#container {
+    margin-bottom: 100px;
+    margin-left: 8px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+#works {
+    padding: 10px;
+    width:97%;
+}
+
+#work {
+    width: 90%;
+    max-width: 860px;
+    padding: 22px;
+}
+
 .project {
     width:324px;
     height:240px;
@@ -58,15 +97,12 @@ nav ul li.active {
     display:inline-block;
     text-align:left;
 }
+
 .project a, .project a:hover {
     border-bottom:0;
 }
-#works {
-    text-align:center;
-    margin-top:15px;
-}
 
-/* main page overlays */
+/* MAIN PAGE OVERLAYS */
 .overlay {
     display:none;
 }
@@ -95,16 +131,70 @@ nav ul li.active {
     padding:10px;
 }
 
-/* works pages */
-#work, #about {
-    width:75%;
-    margin-left:auto;
-    margin-right:auto;
-    padding-top:20px;
-    margin-bottom:100px;
-    min-width:720px;
-    max-width:1080px;
+/* INDEX/ABOUT */
+#about_left {
+	display: inline-block;
+	vertical-align: top;
+	width: 210px;
+	margin: 0px;
+	padding: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 45px;
+	text-align: center;
 }
+#about_right {
+    display: inline-block;
+	vertical-align: top;
+	/* background-color:#00f; */
+	margin: 15px;
+    width: calc(97% - 280px);
+    min-width: 380px;
+	max-width: 720px;
+}
+
+#about_right ul {
+	/* background-color:#fff; */
+	padding-left:28px;
+	line-height:2.75em;
+}
+
+#about_right ul li {
+	display: list-item;
+	/* background-color:#aa3; */
+	list-style-type: disc;
+	font-size: 1.5em;
+}
+#myemail {
+  margin-top: 25px;
+}
+
+#about_left a {
+  text-decoration: none;
+  border-bottom: none;
+  font-size:1.5em;
+	background-color:#fff; 
+}
+
+#about_left a:hover {
+  background-color:#fff;
+  color:#000;
+}
+
+#about_left ul {
+	margin-top:30px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#about_left li {
+	margin:0px;
+	padding:3px;	
+}
+
+
+/* NORMAL PARAGRAPHS IN PROJECTS */
 p {
     font-size:1.5em;
     line-height:1.4em;
@@ -120,18 +210,7 @@ p {
     margin-left:12px;
 }
 
-/* cv,about */
-ul {
-    padding: 0px;
-    list-style: none;
-    text-align:left;
-}
-ul li {
-    display: inline;
-    margin-right: 20px;
-    font-size: 1.4em;
-}
-
+/* WORKSHOPS */
 .ulworkshops ul {
     list-style: square;
     text-align: left;
@@ -145,7 +224,13 @@ ul li {
     font-size: 1.0em;
 }
 
+/* CV */
 
+#cv_main {
+    width: 95%;
+    max-width: 1280px;
+    padding-left:20px;
+}
 #cv_bio, #workshops_about {
     font-size:1.3em;
 }
@@ -161,8 +246,8 @@ ul li {
     margin-top:4px;
     margin-bottom:4px;
     padding:3px;
-    min-width:750px;
-    max-width:1025px;
+    min-width:250px;
+    max-width:1050px;
     /*border-top:1px solid #ddd;*/
 }
 .cv_entry.extended {
@@ -185,17 +270,44 @@ ul li {
 }
 .where {
     width:32%;
-    min-width:200px;
+    min-width:150px;
 }
 .name {
     width:32%;
-    min-width:200px;
+    min-width:150px;
 }
 .links {
-    min-width:90px;
+    min-width:100px;
+}
+.cv_heading ul {
+    color:#000;
+    background-color:#fff;
+    list-style: none;
+    text-align:left;
+}
+.cv_heading ul li {
+    color:#000;
+    background-color:#fff;
+    display: inline;
+    margin-right: 20px;
+    font-size: 1.15em;
+}
+.cv_heading a {
+    text-decoration:none;
+    border-bottom:0.5px dashed #49e;
+    padding: 3px;
+    color:#000;
+    background-color:#fff; /*breaking lightbox*/
+}
+.cv_heading a:hover, .cv_heading .active a:hover {
+    background-color:#49e;
+}
+.cv_heading .active a {
+    background-color:#9be; 
 }
 
-/* blog */
+
+/* BLOG */
 #blog_title {
     color: #111;
     font-size: 2.4em;
@@ -218,33 +330,4 @@ ul li {
     color:#000;
     font-size:1.0em;  
     padding-bottom:60px;
-}
-
-.cv_heading ul {
-    color:#000;
-    background-color:#fff;
-    list-style: none;
-    text-align:left;
-}
-.cv_heading ul li {
-    color:#000;
-    background-color:#fff;
-    display: inline;
-    margin-right: 20px;
-    font-size: 1.15em;
-}
-
-.cv_heading a {
-    text-decoration:none;
-    border-bottom:0.5px dashed #49e;
-    padding: 3px;
-    color:#000;
-    background-color:#fff; /*breaking lightbox*/
-}
-.cv_heading a:hover, .cv_heading .active a:hover {
-    background-color:#49e;
-}
-
-.cv_heading .active a {
-    background-color:#9be; 
 }

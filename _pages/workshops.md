@@ -10,32 +10,34 @@ includes: [jquery, lightbox]
 <meta name="twitter:image" content="http://genekogan.com/images/neural-synth/G1-15+F1-40+J1-13_n20_o08_r1.33_cr2_b0.47.jpg" />
 
 
+
+
 <div id="work">
 	<div id="workshops_about">
-		I regularly give workshops and masterclasses on machine learning, computer vision, creative coding, and generative art. They focus on theory, applications, critical issues, or some combination of those, and can vary between technical/application-driven and discussion-oriented. They are typically 1-3 days, but can be flexibly scheduled over days or weeks depending on the host and participants. Workshop materials are often made publicly available at the end, by open-sourcing the code developed, or sometimes releasing screencasts or video lectures.
+		
+		I give workshops and masterclasses on machine learning, computer vision, creative coding, and generative art. They focus on theory, applications, critical issues, or some combination of those, and can vary between technical/application-driven and discussion-oriented. They are typically 1-3 days, but can be flexibly scheduled over days or weeks depending on the host and participants. Workshop materials are often made publicly available at the end, by open-sourcing the code developed, or sometimes releasing screencasts or video lectures.
 
-
-	<div class="workshops_section">
-		<ul>
-			<li><a href="/cv/#teaching">Past workshops and classes given</a></li>
-			<li><a href="https://ml4a.github.io/classes">Published video lectures and notes</a></li>
-		</ul>
-	</div>
-
-	<div class="workshops_section">
-		Possible topics for workshops include:
-		<div class="ulworkshops">
-		<ul>
-			<li><b><a href="http://ml4a.github.io">Machine learning for artists</a></b>, hands-on workshops focusing on art & design applications of deep learning, including generative models, real-time tracking, and interactivity.</li>
-			<li><b><a href="https://docs.google.com/presentation/d/1RI6BnBsJtTBg3djZbD1hDjuhQagPBAUtAqcqoYWQTxU">Decentralized AI</a></b>, a theory-driven workshop at the intersection of AI and decentralized web protocols.</li>	
-			<li><b>Special topics</b>, including technical introductions to computer vision, machine listening, and natural language processing, as well as topics in computational arts and new media, including generative art and data visualization.</li>
-		</ul>
+		<div class="workshops_section">
+			<ul>
+				<li><a href="/cv/#teaching">Past workshops and classes given</a></li>
+				<li><a href="https://ml4a.github.io/classes">Published video lectures and notes</a></li>
+			</ul>
 		</div>
-	</div>
-	
-	<div class="workshops_section">
-		If you would like to organize a workshop with me, please <a href="mailto:kogan dot gene at gmail dot com">get in touch</a>.
-	</div>
+
+		<div class="workshops_section">
+			Possible topics for workshops include:
+			<div class="ulworkshops">
+			<ul>
+				<li><b><a href="http://ml4a.github.io">Machine learning for artists</a></b>, hands-on workshops focusing on art & design applications of deep learning, including generative models, real-time tracking, and interactivity.</li>
+				<li><b><a href="https://docs.google.com/presentation/d/1RI6BnBsJtTBg3djZbD1hDjuhQagPBAUtAqcqoYWQTxU">Decentralized AI</a></b>, a theory-driven workshop at the intersection of AI and decentralized web protocols.</li>	
+				<li><b>Special topics</b>, including technical introductions to computer vision, machine listening, and natural language processing, as well as topics in computational arts and new media, including generative art and data visualization.</li>
+			</ul>
+			</div>
+		</div>
+		
+		<div class="workshops_section">
+			If you would like to organize a workshop with me, please <a href="mailto:kogan dot gene at gmail dot com">get in touch</a>.
+		</div>
 
 	</div>
 
