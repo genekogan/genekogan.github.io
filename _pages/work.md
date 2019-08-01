@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Gene Kogan
+title: Works
+description: A list of projects by Gene Kogan
 redirect_from: /work.html
 ---
 
@@ -32,7 +33,7 @@ redirect_from: /work.html
 
 <!-- Futurium -->
 <!-- Loops -->
-
+<!-- Antipodes + StyleGAN -->
 
 {% comment %} 
 {% include project.md title="A Book from the Sky 天书" %} 

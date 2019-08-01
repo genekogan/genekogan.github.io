@@ -1,38 +1,16 @@
 ---
 layout: default
-title: CV
+title: Calendar
+description: A calendar of talks, workshops, classes, exhibitions, and other events Gene has participated in.
 redirect_from: 
  - /about.html
  - /about/
+ - /cv.html
 ---
 
 {% assign cv = site.data.cv %}
 
 <div id="cv_main">
-
-<!-- 
-	<div id="cv_bio">
-		
-		<a href="https://www.instagram.com/p/BTOrppKgdzk/?taken-by=genekogan">Gene</a> Kogan is an artist and a programmer who is interested in generative systems, computer science, and software for creativity and self-expression. He is a collaborator within numerous <a href="https://www.github.com/genekogan">open-source</a> software projects, and gives <a href="/workshops">workshops</a> and <a href="#talks">lectures</a> on topics at the intersection of code and art. Gene initiated <a href="https://ml4a.github.io">ml4a</a>, a free book about machine learning for artists, activists, and citizen scientists, and regularly publishes <a href="https://ml4a.github.io/classes">video lectures</a>, writings, and tutorials to facilitate a greater public understanding of the subject.
-		
-	</div>	
-
-	<div id="cv_elsewhere" class="cv_section">
-		<ul>
-			<li><a href="https://www.twitter.com/genekogan">Twitter</a></li>
-			<li><a href="https://www.github.com/genekogan">Github</a></li>
-			<li><a href="https://www.vimeo.com/genekogan">Vimeo</a></li>
-			<li><a href="https://www.youtube.com/c/genekogan">YouTube</a></li>
-			<li><a href="https://www.flickr.com/genekogan">Flickr</a></li>
-			<li><a href="https://www.soundcloud.com/genekogan">SoundCloud</a></li>
-			<li><a href="https://www.medium.com/@genekogan">Medium</a></li>
-			<li><a href="https://electricdosa.tumblr.com">Tumblr</a></li>
-			<li><a href="https://www.instagram.com/genekogan">Instagram</a></li>
-			<li><a href="https://www.facebook.com/genekogan1">Facebook</a></li>
-			<li><a href="/images/misc/myemail.png">E-mail</a></li>
-	    </ul>
-	</div>
--->
 
 	<div id="talks" class="cv_section">
 		<div class="cv_heading">

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Footsteps
+description: Where Gene has been
 includes: []
 ---
 

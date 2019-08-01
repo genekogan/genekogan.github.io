@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "blog"
+title: Blog
+description: Gene's blog
 redirect_from: /writing/
 ---
 

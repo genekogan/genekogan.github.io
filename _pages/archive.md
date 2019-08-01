@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "archive"
+title: Archive
+description: Archive of various works by Gene Kogan
 ---
 
 <div id="works">

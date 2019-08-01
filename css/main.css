@@ -60,12 +60,13 @@ nav ul li.active {
     float:left;
 }
 .sidenav {
-    float:right;
+    /* float:right; */
+    padding-left:35px;
     padding-right:35px;
 }
 .sidenav ul li {
     margin-right: 0px;
-    margin-left: 7px;
+    margin-left: 10px;
 }    
 
 
@@ -167,22 +168,24 @@ nav ul li.active {
 }
 #myemail {
   margin-top: 25px;
+  margin-bottom:30px;
+
 }
 
-#about_left a {
-  text-decoration: none;
-  border-bottom: none;
-  font-size:1.5em;
+#about_left a, .sidenav a {
+    text-decoration: none;
+    border-bottom: none;
+    font-size:1.5em;
 	background-color:#fff; 
 }
 
-#about_left a:hover {
+#about_left a:hover, .sidenav a:hover {
   background-color:#fff;
   color:#000;
 }
 
 #about_left ul {
-	margin-top:30px;
+    margin-top:10px;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;

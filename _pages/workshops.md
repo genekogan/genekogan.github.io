@@ -1,16 +1,9 @@
 ---
 layout: default
-title: Workshops
+title: ml4a workshops
+description: A summary of workshops offered on machine learning, computer vision, creative coding, and generative art.
 includes: [jquery, lightbox]
 ---
-
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="ml4a workshops" />
-<meta name="twitter:description" content="A summary of workshops offered on machine learning, computer vision, creative coding, and generative art." />
-<meta name="twitter:image" content="http://genekogan.com/images/neural-synth/G1-15+F1-40+J1-13_n20_o08_r1.33_cr2_b0.47.jpg" />
-
-
-
 
 <div id="work">
 	<div id="workshops_about">
