@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/genekogan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://genekogan.com
+  * I am genekogan (https://keybase.io/genekogan) on keybase.
+  * I have a public key ASAsYjWbGA30myV56Ln5AfmPZwf503RRRu6O9m9b4ajWFAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202c62359b180df49b2579e8b9f901f98f6707f9d3745146ee8ef66f5be1a8d6140a",
+      "host": "keybase.io",
+      "kid": "01202c62359b180df49b2579e8b9f901f98f6707f9d3745146ee8ef66f5be1a8d6140a",
+      "uid": "858f3ce281617b21d2bb06718f316519",
+      "username": "genekogan"
+    },
+    "merkle_root": {
+      "ctime": 1564781599,
+      "hash": "7438200a1df936194ca2ca3c9222e4df11eb91824f881f7b0af41afddb305edb57d7d01315629f30b66cd0f70abe05e447a2cff92d0f1395c0f1e6726657d6c4",
+      "hash_meta": "bcb633edc2ba53a4ff5e2fdbbf0f2f4df5c936083eb439e3c885bd1e91b90d1a",
+      "seqno": 5923394
+    },
+    "service": {
+      "entropy": "pCGTxl4FTRpOhyvwGUXCfLVO",
+      "hostname": "genekogan.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1564781617,
+  "expire_in": 504576000,
+  "prev": "c04d3f1ae6a765e920eaeb7c3bb0d966999e5b1764824987cd7d8bd343677ad2",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLGI1mxgN9Jsleei5+QH5j2cH+dN0UUbujvZvW+Go1hQKp3BheWxvYWTESpcCB8QgwE0/GuanZekg6ut8O7DZZpmeWxdkgkmHzX2L00NnetLEINA/7mShz16hFe5QAWDVZaCTblqTUoVhReXQ/ztKsxJWAgHCo3NpZ8RAF9w9uRJ7fdc8IeJ+6L4U6uMKvBAaNBYUx9ixiXzTYNNKnwLwj43VXIh2inpUEN+OcBh03sDo/5IHu3sqt2/9CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA+XJKy3173qIW8r9wNa9opVRoXJF3O1xnBwyIDNNp19o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/genekogan
+
+==================================================================
