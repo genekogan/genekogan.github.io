@@ -5,6 +5,11 @@ description: Archive of various works by Gene Kogan
 ---
 
 <div id="works">
+	{% include project.md title="StyleGAN Antipodes" %} 
+	{% include project.md title="Neural photobombs" %} 
+	{% include project.md title="BigGAN imitation" %} 
+	{% include project.md title="Texture synthesis infinite loops" %} 
+    {% include project.md title="Atlas Densecap" %} 
 	{% include project.md title="Experiments with Deep Generator Networks" %} 
 	{% include project.md title="Closed-captioning WaveNets" %} 
 	{% include project.md title="Deepdream prototypes" %} 

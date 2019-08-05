@@ -11,12 +11,13 @@ redirect_from: /work.html
     {% include project.md title="Neural synthesis" %} 
 		{% include project.md title="pix2pix webcam (meat puppet)" %} 
     {% include project.md title="Doodle Tunes" %} 
+    {% include project.md title="WikiArt GAN" %} 
+    {% include project.md title="Deepdream infinite loops" %} 
     {% include project.md title="Invisible Cities" %} 
+    {% include project.md title="Deepdream Densecap" %} 
     {% include project.md title="What neural networks see" %} 
     {% include project.md title="alt-AI" %} 
     {% include project.md title="Cubist Mirror" %} 
-    {% include project.md title="Deepdream Densecap" %} 
-    {% include project.md title="Atlas Densecap" %} 
     {% include project.md title="A Book from the Sky 天书" %} 
     {% include project.md title="Why is a raven like a writing desk?" %} 
     {% include project.md title="Experiments with style transfer" %} 
@@ -33,7 +34,7 @@ redirect_from: /work.html
 
 <!-- Futurium -->
 <!-- Loops -->
-<!-- Antipodes + StyleGAN -->
+
 
 {% comment %} 
 {% include project.md title="A Book from the Sky 天书" %} 
