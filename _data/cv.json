@@ -29,13 +29,19 @@
 			"name":"Something-in-residence",
 			"info":"https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs/gene-kogan"
 		},{
+			"type":"workshop",
+			"date":"2019 Aug 19-20", 
+            "where":"<a href=\"http://schoolofma.org\">School of Machines</a>, Berlin, Germany",
+			"name":"Image Processing & Projection Mapping w/Machine Learning in TouchDesigner (with <a href=\"https://florence-to.com/\">Florence To</a>)",
+			"info":"https://www.eventbrite.com/e/image-processing-projection-mapping-wmachine-learning-in-touchdesigner-tickets-68956319207?fbclid=IwAR1T_lgLhzyL3Eq1sW4xfhumvG0OrA3-AkGyk32dqeCtDoyX_qbuRyc6SfA"
+		},{
 			"type":"talk",
 			"date":"2019 Jul 23", 
 			"where":"<a href=\"http://ainyc19.xnextcon.com/\">AI NEXTCon</a>, New York, NY",
 			"name":"Machine learning for artists",
 			"info":"http://ainyc19.xnextcon.com/"
 		},{
-			"type":"workshop",
+			"type":"talk",
 			"date":"2019 Jul 17", 
 			"where":"<a href=\"https://overcast.fm/itunes1413304564/digitally-rare\">Digitally Rare Podcast</a>",
 			"name":"Art Thou an ArtDAO, Abraham.ai?",
@@ -1628,6 +1634,8 @@
 
 
 /*
+
+wired doc: https://video.wired.com/watch/machine-learning-living-in-the-age-of-ai-film
 
 https://zkm.de/de/ausstellung/2019/08/seasons-of-media-arts
 
