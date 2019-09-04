@@ -4,14 +4,26 @@
 			"type":"workshop",
 			"date":"2020 Jan 7-Mar 27", 
 			"where":"<a href=\"http://brahman.ai\">BRAHMAN</a>, Bombay Beach, CA",
-			"name":"Brahman",
-			"extended":true
+			"name":"Organizing BRAHMAN program",
+			"info":"http://brahman.ai"
 		},{
 			"type":"workshop",
 			"date":"2019 Nov 5-6", 
 			"where":"<a href=\"\">Fjord Design</a>, Dublin, Ireland",
 			"name":"Workshop TBD",
 			"extended":true
+		},{
+			"type":"workshop",
+			"date":"2019 Oct 11", 
+			"where":"<a href=\"https://dentsucraft.tokyo/\">Dentsu Craft</a>, Tokyo, Japan",
+			"name":"Machine learning for artists",
+			"info":"https://dentsucraft.tokyo/en/events/creative-aliens/001/#day2"
+		},{
+			"type":"talk",
+			"date":"2019 Oct 10", 
+			"where":"<a href=\"https://dentsucraft.tokyo/\">Dentsu Craft</a>, Tokyo, Japan",
+			"name":"Talk ",
+			"info":"https://dentsucraft.tokyo/en/events/creative-aliens/001/"
 		},{
 			"type":"installation",
 			"date":"2019 Sep 5", 
