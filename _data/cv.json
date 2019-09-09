@@ -28,7 +28,8 @@
 			"type":"installation",
 			"date":"2019 Sep 5", 
 			"where":"<a href=\"https://futurium.de/\">Futurium</a>, Berlin, Germany",
-			"name":"Group exhibition: Invisible Berlin, Sketch Transform, Cubist Mirror"
+			"name":"Group exhibition: Invisible Berlin, AI Transform, Cubist Mirror",
+			"info":"https://futurium.de/de/cubist-mirror"
 		},{
 			"type":"class",
 			"date":"2019 Sep 4-Dec 10", 
@@ -296,14 +297,14 @@
 			"date":"2018 Oct 20",
 			"where":"<a href=\"http://www.digilogue.com/\">Summit Digilogue</a>, Istanbul, Turkey",
 			"name":"Machine learning for artists masterclass",
-			"info":"http://www.digilogue.com/2018/10/makine-ogrenimi-atolyesi/",
+			"info":"http://www.digilogue.com/makine-ogrenimi-atolyesi/",
 			"video":"https://youtu.be/1vl3rrOuYYk?t=18202"
 		},{
 			"type":"talk",
 			"date":"2018 Oct 19",
 			"where":"<a href=\"http://www.digilogue.com/\">Summit Digilogue</a>, Istanbul, Turkey",
 			"name":"Talk at FutureTellers",
-			"info":"http://www.digilogue.com/2018/08/gene-kogan/",
+			"info":"http://www.digilogue.com/gene-kogan/",
 			"video":"https://www.youtube.com/watch?v=12Kd4Bps59A"
 		},{
 			"type":"talk",
