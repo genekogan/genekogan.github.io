@@ -17,7 +17,7 @@ MantaOSC is a standalone OSX application for interfacing with the Manta and send
 </center>
 
 <center>
-	<img src="https://github.com/genekogan/Manta/tree/master/MantaAudioUnit">
+	<img src="/images/manta/manta2.jpg">
 </center>
 
 <center>
