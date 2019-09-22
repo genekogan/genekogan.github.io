@@ -7,12 +7,10 @@ body {
 }
 
 a {
-    padding-left:1px;
-    padding-right:1px;
     text-decoration:none;
     border-bottom:0.5px dashed #444;
     color:#000;
-    background-color:#eee; /*breaking lightbox*/
+    background-color:#eee; /*breaking lightbox*/    
 }
 
 a:hover {
