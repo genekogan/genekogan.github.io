@@ -8,7 +8,7 @@ includes: [processingjs]
 redirect_from: /works/kaleidoscopes.html
 ---
 
-Some Processing sketches playing with kaleidoscopic symmetries. The same shape -- in this case, a spiral -- is drawn many times over two nested levels of rotatational symmetry. Code available [here](http://www.openprocessing.org/sketch/65381)
+Some Processing sketches playing with kaleidoscopic symmetries. The same shape -- in this case, a spiral -- is drawn many times over two nested levels of rotatational symmetry. Code available [here](https://www.openprocessing.org/sketch/65381)
 
 <center>
 <canvas data-processing-sources="/code/Kaleidoscope/Kaleidoscope.pde"></canvas>

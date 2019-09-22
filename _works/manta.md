@@ -24,4 +24,4 @@ MantaOSC is a standalone OSX application for interfacing with the Manta and send
 	<img src="/images/manta/manta_audiounit.png">
 </center>
 
-[MantaLearn](https://github.com/genekogan/Manta/tree/master/MantaLearn) is an experimental application, currently under development, for training the Manta input data to parametrically control other instruments using [neural networks](http://genekogan.com/works/ofxLearn.html) (w.i.p.). 
+[MantaLearn](https://github.com/genekogan/Manta/tree/master/MantaLearn) is an experimental application, currently under development, for training the Manta input data to parametrically control other instruments using [neural networks](https://www.nips4creativity.com://genekogan.com/works/ofxLearn.html) (w.i.p.). 

@@ -141,7 +141,7 @@ function setup() {
   info.push({txt:line31, x:tx, y:ty + 2*infoMargin, link:null});
   info.push({txt:line32, x:tx + textWidth(line31), y:ty + 2*infoMargin, link:"https://www.github.com/genekogan/wiki-tSNE"});
   info.push({txt:line33, x:tx + textWidth(line31) + textWidth(line32), y:ty + 2*infoMargin, link:null});
-  info.push({txt:line34, x:tx + textWidth(line31) + textWidth(line32) + textWidth(line33), y:ty + 2*infoMargin, link:"http://www.p5js.org"});
+  info.push({txt:line34, x:tx + textWidth(line31) + textWidth(line32) + textWidth(line33), y:ty + 2*infoMargin, link:"https://www.p5js.org"});
   info.push({txt:line35, x:tx + textWidth(line31) + textWidth(line32) + textWidth(line33) + textWidth(line34), y:ty + 2*infoMargin, link:null});
   info.push({txt:line41, x:tx, y:ty + 3*infoMargin, link:null});
   info.push({txt:line42, x:tx + textWidth(line41), y:ty + 3*infoMargin, link:"https://www.twitter.com/genekogan"});

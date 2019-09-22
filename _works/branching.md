@@ -8,7 +8,7 @@ includes: [processingjs]
 redirect_from: /works/branching.html
 ---
 
-Noisy branches. [Click for code](http://www.openprocessing.org/sketch/65382).
+Noisy branches. [Click for code](https://www.openprocessing.org/sketch/65382).
 
 <p>
 	<center>

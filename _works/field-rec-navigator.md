@@ -10,11 +10,11 @@ includes: [jquery, lightbox]
 
 {::nomarkdown}
 <p>
-	<img src="http://genekogan.com/images/xinjiang-hunza/thumb_xinjiang-hunza-compilation-2.jpg" style="float:right;">
-	I'm beginning to work on a project which I've been tossing around for the last few weeks, which involves visualizing and navigating through my field recordings. I've had an interest in field recording for the past few years, and have incorporated it into a few projects in the past: see <a href="http://www.alongthekarakoram.com">Along the Karakoram</a>, <a href="http://genekogan.com/works/xinjiang-hunza-compilation.html">Xinjiang-Hunza compilation</a>, <a href="http://turbulence.org/soundtransit/search/artistinfo.php?id=473">Sound Transit</a>, and <a href="http://soundcloud.com/genekogan/stone-barns">Stone Barns recording</a>. 
+	<img src="/images/xinjiang-hunza/thumb_xinjiang-hunza-compilation-2.jpg" style="float:right;">
+	I'm beginning to work on a project which I've been tossing around for the last few weeks, which involves visualizing and navigating through my field recordings. I've had an interest in field recording for the past few years, and have incorporated it into a few projects in the past: see <a href="http://www.alongthekarakoram.com">Along the Karakoram</a>, <a href="/works/xinjiang-hunza-compilation.html">Xinjiang-Hunza compilation</a>, <a href="http://turbulence.org/soundtransit/search/artistinfo.php?id=473">Sound Transit</a>, and <a href="http://soundcloud.com/genekogan/stone-barns">Stone Barns recording</a>. 
 </p>
 <p>
-	<iframe width="20%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F51667833&amp;auto_play=false&amp;show_artwork=false&amp;color=23521d" style="float:left;"></iframe>
+	<iframe width="20%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F51667833&amp;auto_play=false&amp;show_artwork=false&amp;color=23521d" style="float:left;"></iframe>
 	I am inclined towards field recording by interests in recollection and documentation through sound, i.e. <a href="http://www.phonography.org/word.htm">"phonography"</a>, sound ecology (e.g. <a href="http://en.wikipedia.org/wiki/R._Murray_Schafer">R. Murray Schafer</a>, <a href="http://www.sfu.ca/~westerka/">Hildegard Westerkamp</a>), and sound art/musique concrète (e.g. <a href="http://www.michelchion.com/v1/">Michel Chion</a>, <a href="http://www.chriswatson.net">Chris Watson</a>, <a href="http://www.franciscolopez.net">Francisco López</a>). Like the latter two, I am interested in sound design, finding complementary and contrasting sounds from the real world, and using them as a palette for composition. My recorder has collected samples from bazaars, alleys, malls, protests, temples, forests, elevator shafts, pig pens, and various other locations which occasionally draw funny looks from people or animals.
 </p>
 <p>
@@ -40,6 +40,6 @@ includes: [jquery, lightbox]
 	</center>
 </p>
 <p>
-	I'm using <a href="http://supercollider.sourceforge.net/">SuperCollider</a> to handle the audio playback; meanwhile Processing runs the visual and interactive component, and communicates with SuperCollider via open sound control (OSC).  My goal is to create a high-level interface that lets me effectively navigate through all this audio content, and slowly incorporate musical elements into it, building towards a sort of musical instrument with typical features like loops and filters. I will post more later when I am closer to having something of a demo.
+	I'm using <a href="https://supercollider.sourceforge.net/">SuperCollider</a> to handle the audio playback; meanwhile Processing runs the visual and interactive component, and communicates with SuperCollider via open sound control (OSC).  My goal is to create a high-level interface that lets me effectively navigate through all this audio content, and slowly incorporate musical elements into it, building towards a sort of musical instrument with typical features like loops and filters. I will post more later when I am closer to having something of a demo.
 </p>
 {:/nomarkdown}

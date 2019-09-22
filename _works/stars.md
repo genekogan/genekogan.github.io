@@ -9,13 +9,13 @@ redirect_from: /works/stars.html
 ---
 
 
-A sketch of generalized n-pointed, m-skipped stars. [Made with Processing](http://www.openprocessing.org/sketch/65386).
+A sketch of generalized n-pointed, m-skipped stars. [Made with Processing](https://www.openprocessing.org/sketch/65386).
 
 <center>
 <canvas data-processing-sources="/code/Stars/Stars.pde"></canvas>
 </center>
 
-[Gallery here](http://www.flickr.com/photos/genekogan/sets/72157627624884838/).  Highlights:
+[Gallery here](https://www.flickr.com/photos/genekogan/sets/72157627624884838/).  Highlights:
 
 <p>
 	<a href="/images/stars/star-00001.jpg" rel="lightbox[bw]"><img src="/images/stars/thumb_star-00001.jpg" /></a>

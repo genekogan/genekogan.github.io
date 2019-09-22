@@ -11,7 +11,7 @@ Sonifying my face, inspired by [Roger Dannenberg](http://www.cs.cmu.edu/~rbd/) a
 
 <center>
 	<p>
-		<iframe width="50%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F14716746&amp;auto_play=false&amp;show_artwork=false&amp;color=23521d"></iframe>
+		<iframe width="50%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F14716746&amp;auto_play=false&amp;show_artwork=false&amp;color=23521d"></iframe>
 	</p>
 	<p>
 		<img src="/images/misc/sonic-self-portrait.png" />

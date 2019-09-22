@@ -8,7 +8,7 @@ includes: [processingjs]
 redirect_from: /works/accordions.html
 ---
 
-Accordions -- code for this sketch [here](http://www.openprocessing.org/sketch/65378).
+Accordions -- code for this sketch [here](https://www.openprocessing.org/sketch/65378).
 
 <p>
 <center>

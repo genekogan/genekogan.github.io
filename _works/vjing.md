@@ -7,7 +7,7 @@ thumbnail: /images/home/thumb_vjing.jpg
 includes: [lightbox]
 ---
 
-From 2012-2013, I often worked as a VJ and developed [some software](https://github.com/genekogan/of-tools) for [openFrameworks](http://www.openframeworks.cc) for creating realtime generative visuals and control interfaces. The following is a gallery of some stills made.
+From 2012-2013, I often worked as a VJ and developed [some software](https://github.com/genekogan/of-tools) for [openFrameworks](https://www.openframeworks.cc) for creating realtime generative visuals and control interfaces. The following is a gallery of some stills made.
 
 <p>
 	<center>

@@ -16,7 +16,7 @@ Bezier ribbons is Processing sketch continuously drawing a [bezier curve](http:/
 </center>
 
 
-A [gallery](http://www.flickr.com/photos/genekogan/sets/72157630481020768/) made from a previous iteration follows below.
+A [gallery](https://www.flickr.com/photos/genekogan/sets/72157630481020768/) made from a previous iteration follows below.
 
 <a href="/images/bezier-ribbons/bezier-ribbon1.jpg" rel="lightbox[bez]"><img src="/images/bezier-ribbons/thumb_bezier-ribbon1.jpg" /></a>
 <a href="/images/bezier-ribbons/bezier-ribbon2.jpg" rel="lightbox[bez]"><img src="/images/bezier-ribbons/thumb_bezier-ribbon2.jpg" /></a>

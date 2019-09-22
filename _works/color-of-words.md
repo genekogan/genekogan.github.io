@@ -8,9 +8,9 @@ includes: [lightbox]
 redirect_from: /works/color-of-words.html
 ---
 
-This project sought to discover the implicit colors of words, phrases, and concepts. A set of words was selected and run through a google image search. The color distribution of the first hundred images was analyzed and re-synthesized using a [self-organizing map (SOM)](http://en.wikipedia.org/wiki/Self-organizing_map), a machine learning algorithm for clustering and visualizing data. The SOM was implemented using [ofxSelfOrganizingMap](http://www.github.com/genekogan/ofxSelfOrganizingMap). <!-- To emphasize the peaks and smooth out spurious colors, the covariance matrix of the GMM was divided by 10. -->
+This project sought to discover the implicit colors of words, phrases, and concepts. A set of words was selected and run through a google image search. The color distribution of the first hundred images was analyzed and re-synthesized using a [self-organizing map (SOM)](https://en.wikipedia.org/wiki/Self-organizing_map), a machine learning algorithm for clustering and visualizing data. The SOM was implemented using [ofxSelfOrganizingMap](https://www.github.com/genekogan/ofxSelfOrganizingMap). <!-- To emphasize the peaks and smooth out spurious colors, the covariance matrix of the GMM was divided by 10. -->
 
-After the google images were downloaded, a [Gaussian mixture model](http://en.wikipedia.org/wiki/Mixture_model) was fit to the distribution of pixel colors. A self-organizing map of the color distribution was produced by randomly sampling from the resulting smoothed GMM.
+After the google images were downloaded, a [Gaussian mixture model](https://en.wikipedia.org/wiki/Mixture_model) was fit to the distribution of pixel colors. A self-organizing map of the color distribution was produced by randomly sampling from the resulting smoothed GMM.
 
 Below is a series of results in categories: seasons, biomes, holidays, food, sky, film, politics, animals, and sports.
 

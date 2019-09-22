@@ -9,7 +9,7 @@ redirect_from: /works/tidy-photography.html
 ---
 
 
-Implementation of a [Self-organizing Map (SOM)](http://en.wikipedia.org/wiki/Self_organizing_map%20) in Processing for "organizing" the colors of photographs. Partially inspired by [Ursus Wehrli’s Tidy Art book](http://www.ted.com/talks/ursus_wehrli_tidies_up_art.html). Code available [here](http://www.openprocessing.org/sketch/65383).
+Implementation of a [Self-organizing Map (SOM)](https://en.wikipedia.org/wiki/Self_organizing_map%20) in Processing for "organizing" the colors of photographs. Partially inspired by [Ursus Wehrli’s Tidy Art book](https://www.ted.com/talks/ursus_wehrli_tidies_up_art.html). Code available [here](https://www.openprocessing.org/sketch/65383).
 
 Try clicking on one of the pictures to see the flowers get tidied up.
 
@@ -27,4 +27,4 @@ Some more examples of the SOM on flowers.
 <a href="/images/tidy-photography/gradAndOrig-2flower3.jpg" rel="lightbox[tidy]"><img src="/images/tidy-photography/thumb_gradAndOrig-2flower3.jpg" /></a>
 </center>
 
-Code available [here](http://genekogan.com/code/SOM/) and on [Open Processing](http://www.openprocessing.org/user/19808). A newer SOM implementation for [OpenFrameworks](http://www.openframeworks.cc) can be found [here](https://github.com/genekogan/ofxSelfOrganizingMap). [ofxLearn + ofxSelfOrganizingMap](/works/ofxLearn.html).
+Code available [here](https://genekogan.com/code/SOM/) and on [Open Processing](https://www.openprocessing.org/user/19808). A newer SOM implementation for [OpenFrameworks](https://www.openframeworks.cc) can be found [here](https://github.com/genekogan/ofxSelfOrganizingMap). [ofxLearn + ofxSelfOrganizingMap](/works/ofxLearn.html).

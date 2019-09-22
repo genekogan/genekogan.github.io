@@ -17,7 +17,7 @@ Generating textures with Photoshop's scripting functions. A series of textures w
 	<li>4) Blend the five results into a single image</li>
 </ul>
 
-Some highlights. [Full gallery here](http://www.flickr.com/photos/genekogan/sets/72157629247519000/).
+Some highlights. [Full gallery here](https://www.flickr.com/photos/genekogan/sets/72157629247519000/).
 			
 <p>
 	<a href="/images/scripting-photoshop/pic0.jpg" rel="lightbox[ps]"><img src="/images/scripting-photoshop/thumb_pic0.jpg" /></a>

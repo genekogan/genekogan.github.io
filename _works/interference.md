@@ -9,7 +9,7 @@ redirect_from: /works/interference.html
 ---
 
 
-[Moiré interference patterns](http://en.wikipedia.org/wiki/Moir%C3%A9_pattern) by iteratively tracing [Deltoid curves](http://en.wikipedia.org/wiki/Deltoid_curve). Unfortunately, the code for this was lost :(
+[Moiré interference patterns](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) by iteratively tracing [Deltoid curves](https://en.wikipedia.org/wiki/Deltoid_curve). Unfortunately, the code for this was lost :(
 
 <p>
 	<a href="/images/interference/interference11.jpg" rel="lightbox[int]"><img src="/images/interference/thumb_interference11.jpg" /></a>
