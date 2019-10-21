@@ -1,7 +1,7 @@
 {
 	"talks":[
 		{
-			"type":"workshop",
+			"type":"residency",
 			"date":"2020 Jan 7-Mar 27", 
 			"where":"<a href=\"http://brahman.ai\">BRAHMAN</a>, Bombay Beach, CA",
 			"name":"Organizing BRAHMAN program",
@@ -11,7 +11,7 @@
 			"date":"2019 Dec 14",
 			"name":"Artist in the cloud: Towards an autonomous artist",
 			"where":"<a href=\"https://neurips.cc/\">NeurIPS conference</a>, Vancouver, Canada",
-			"info":"arxiv_link______________"
+			"info":"https://genekogan.com/misc/neurips2019.pdf"
 		},{
 			"type":"talk",
 			"date":"2019 Nov 22-23", 
@@ -39,16 +39,16 @@
 		},{
 			"type":"workshop",
 			"date":"2019 Nov 16", 
-			"where":"<a href=\"\">UCLA</a>, Los Angeles, CA",
-			"name":"Workshop TBD",
-			"info":"http://feature-extraction.ai/",
-			"extended":true
+			"where":"<a href=\"http://dma.ucla.edu/\">UCLA</a>, Los Angeles, CA",
+			"name":"The Neural Aesthetic",
+			"info":"http://feature-extraction.ai/"
 		},{
 			"type":"talk",
 			"date":"2019 Oct 20", 
 			"where":"<a href=\"https://segd.org/tongji-university\">Tongji University</a>, Shanghai, China",
 			"name":"Symposium on Digital Heritage and Innovation",
-			"info":"https://mp.weixin.qq.com/s/7JpVkHVeiSA9_5lDJXkOnw"
+			"info":"http://tjdi.tongji.edu.cn/NewsDetail.do?ID=5017",
+			"photos":"https://live.photoplus.cn/activity/live/pc/21315949/#/"
 		},{
 			"type":"workshop",
 			"date":"2019 Oct 11", 
@@ -83,7 +83,8 @@
 			"type":"class",
 			"date":"2019 Sep 4-Dec 10", 
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
-			"name":"The Neural Aesthetic"
+			"name":"The Neural Aesthetic",
+			"info":"http://ml4a.github.io/classes/itp-F19/"
 		},{
 			"type":"residency",
 			"date":"2019 Sep 4-Dec 16",
@@ -227,8 +228,7 @@
 			"where":"<a href=\"https://www.facebook.com/creativecodingcairo/\">Creative Coding Cairo</a>, Cairo, Egypt",
 			"name":"(via Skype) Talk to Creative Coding Cairo",
 			"info":"https://www.facebook.com/events/2015701345392442/permalink/2017226901906553/",
-			"video":"https://www.youtube.com/watch?v=H7jMKXTCSs0&fbclid=IwAR3umSb4aZXKVJYxELXuXFAnnmqE-s70V5L6iZO9AKZjnB3zvASjfEz4HKQ",
-			"extended":true
+			"video":"https://www.youtube.com/watch?v=H7jMKXTCSs0&fbclid=IwAR3umSb4aZXKVJYxELXuXFAnnmqE-s70V5L6iZO9AKZjnB3zvASjfEz4HKQ"
 		},{
 			"type":"exhibition",
 			"date":"2019 Mar 22-Mar 24",
@@ -476,7 +476,8 @@
 			"where":"<a href=\"http://www.huodongxing.com/event/5438299731400\">Forte Four Seasons Plaza</a>, Shanghai, China",
 			"name":"Group Exhibition: Postcards from the Future (organized by <a href=\"http://ofcourse.io/\">ofcourse.io</a>)",
 			"info":"http://ofcourse.io/event-ai/",
-			"video":"https://www.iqiyi.com/v_19rr0p4p9k.html"
+			"video":"https://www.iqiyi.com/v_19rr0p4p9k.html",
+			"photo":"http://my.ofcourse.io/article/35"
 		},{
 			"type":"talk",
 			"date":"2018 May 23", 
@@ -1720,7 +1721,7 @@ CIID kerala https://www.youtube.com/watch?v=XQ9GwjtxE6Q
 // http://oicwx.com/detail/795754
 
 "info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
-
+"info2":"https://mp.weixin.qq.com/s/7JpVkHVeiSA9_5lDJXkOnw"
 canceled:
 
 
