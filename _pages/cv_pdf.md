@@ -2,10 +2,6 @@
 layout: default_cvpdf
 title: Calendar
 description: A calendar of talks, workshops, classes, exhibitions, and other events Gene has participated in.
-redirect_from: 
- - /about.html
- - /about/
- - /cv.html
 ---
 
 {% assign cv = site.data.cv %}
