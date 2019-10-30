@@ -10,6 +10,13 @@ redirect_from:
 
 {% assign cv = site.data.cv %}
 
+<style>
+.sidenav {
+    padding-left:0px;
+}
+</style>
+
+
 <div id="cv_main">
 
 	<div id="talks" class="cv_section">
