@@ -1,6 +1,11 @@
 {
 	"talks":[
 		{
+			"type":"class",
+			"date":"2019 Mar 30-May 1", 
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"Autonomous Artificial Artist"
+		},{
 			"type":"residency",
 			"date":"2020 Jan 7-Mar 27", 
 			"where":"<a href=\"http://brahman.ai\">BRAHMAN</a>, Bombay Beach, CA",
@@ -215,7 +220,7 @@
 			"where":"<a href=\"http://art-ai.dmu.ac.uk/\">Art-AI Festival</a>, Leicester, UK",
 			"name":"Group Exhibition: Neural synthesis", 
 			"info":"http://art-ai.dmu.ac.uk/event/neural-synthesis/",
-			"video":"https://www.vimeo.com/337280255"
+			"video":"https://vimeo.com/333310524"
 		},{
             "type":"talk",
             "date":"2019 May 12",
@@ -295,7 +300,8 @@
 			"date":"2019 Jan 4",
 			"where":"<a href=\"http://www.cityu.edu.hk/\">ISCMA</a>, Hong Kong",
 			"name":"Talk at International Symposium on Computational Media Art (ISCMA)",	
-			"info":"https://www.cityu.edu.hk/iscma/keynote-speakers-and-plenary-sessions"
+			"info":"https://www.cityu.edu.hk/iscma/keynote-speakers-and-plenary-sessions",
+			"video":"https://www.youtube.com/watch?v=4J9i_AyS-gI"
 		},{
 			"type":"talk",
 			"date":"2018 Dec 26",
@@ -308,7 +314,8 @@
 			"date":"2018 Dec 17-21", 
 			"where":"<a href=\"https://ciid.dk\">CIID</a>, Kochi, India",
 			"name":"Machine learning for interaction design (with <a href=\"https://andreasrefsgaard.dk/\">Andreas Refsgaard</a>)",
-			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-india-2018/workshops/machine-learning/"
+			"info":"http://ciid.dk/education/summer-school/ciid-summer-school-india-2018/workshops/machine-learning/",
+			"video":"https://vimeo.com/333717518"
 		},{
 			"type":"exhibition",
 			"date":"2018 Dec 8",
@@ -334,7 +341,8 @@
 			"date":"2018 Nov 22",
 			"where":"<a href=\"https://www.atdays.sk/en/\">Art & Tech Days</a>, Košice, Slovakia",
 			"name":"The Neural Aesthetic",
-			"info":"https://2018.atdays.sk/en/speakers-and-artists/"
+			"info":"https://2018.atdays.sk/en/speakers-and-artists/",
+			"video":"https://www.youtube.com/watch?v=POOXDzK0J-8"
 		},{
 			"type":"talk",
 			"date":"2018 Nov 20",
@@ -1284,7 +1292,8 @@
 			"date":"2016 May 21", 
 			"where":"<a href=\"http://www.sfpc.io\">School for Poetic Computation</a>, New York, NY",
 			"name":"<a href=\"http://alt-ai.net\">alt-AI</a>",
-			"info":"http://alt-ai.net/#people"
+			"info":"http://alt-ai.net/#people",
+			"video":"https://vimeo.com/178885036"
 		},{
 			"type":"installation",
 			"date":"2016 May 20-22",
@@ -1379,7 +1388,8 @@
 			"date":"2015 Nov 19-Dec 20",
 			"name":"Inside/Out (with <a href=\"http://lisakori.net\">Lisa Kori</a> & <a href=\"http://colin-self.com/\">Colin Self</a>)",
 			"where":"<a href=\"https://eyebeam.org/\">Eyebeam</a>, New York, NY",
-			"info":"http://archive.eyebeam.org/events/insideout"
+			"info":"http://archive.eyebeam.org/events/insideout",
+			"video":"https://vimeo.com/325361909"
 		},{
 			"type":"talk",
 			"date":"2015 Nov 3", 
@@ -1524,7 +1534,8 @@
 			"date":"2013 Nov 2-3", 
 			"where":"<a href=\"http://lispher.ph/\">Lispher Inn</a>, Davao, Philippines",
 			"name":"<a href=\"http://www.theunifiedfield.org/artist_in_residence\">UnifiedField</a> workshop on free software & art",
-			"info":"http://www.theunifiedfield.org/archives/3471"
+			"info":"http://www.theunifiedfield.org/archives/3471",
+			"video":"https://vimeo.com/86185690"
 		},{
 			"type":"residency",
 			"date":"2013 Nov",
@@ -1594,7 +1605,8 @@
 			"date":"2013 Jan 24",
 			"where":"<a href=\"http://www.bicentre.org/\">Bangalore International Centre</a>, Bangalore, India",
 			"name":"<a href=\"http://srishti.ac.in/mmf/docs/ModernitiesBookletFinal2013.pdf\">Urban incantations</a> (with <a href=\"http://cis-india.org/author/sharath\">Sharath Chandra Ram</a>)",
-			"info":"http://cema.srishti.ac.in/birdseyeviewithitems/showith112"
+			"info":"http://cema.srishti.ac.in/birdseyeviewithitems/showith112",
+			"video":"https://vimeo.com/58238184"
 		},{
 			"type":"talk",
 			"date":"2012 Nov 30", 
