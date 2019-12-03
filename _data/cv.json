@@ -383,14 +383,14 @@
 		},{
 			"type":"workshop",
 			"date":"2018 Oct 20",
-			"where":"<a href=\"http://www.digilogue.com/\">Summit Digilogue</a>, Istanbul, Turkey",
+			"where":"<a href=\"http://www.digilogue.com/digilogue-summit-future-tellers18-main/\">Summit Digilogue</a>, Istanbul, Turkey",
 			"name":"Machine learning for artists masterclass",
 			"info":"http://www.digilogue.com/makine-ogrenimi-atolyesi/",
 			"video":"https://youtu.be/1vl3rrOuYYk?t=18202"
 		},{
 			"type":"talk",
 			"date":"2018 Oct 19",
-			"where":"<a href=\"http://www.digilogue.com/\">Summit Digilogue</a>, Istanbul, Turkey",
+			"where":"<a href=\"http://www.digilogue.com/digilogue-summit-future-tellers18-main/\">Summit Digilogue</a>, Istanbul, Turkey",
 			"name":"Talk at FutureTellers",
 			"info":"http://www.digilogue.com/gene-kogan/",
 			"video":"https://www.youtube.com/watch?v=12Kd4Bps59A"
@@ -405,7 +405,7 @@
 			"date":"2018 Oct 1-Oct 5",
 			"where":"<a href=\"http://ecal.ch/fr/100/homepage\">Ecole cantonale d'art</a>, Lausanne, Switzerland",
 			"name":"Machine learning for artists",
-			"info":"https://ecal.ch/fr/3918/formations/bachelor/media-interaction-design/descriptif/teaching-the-machine",
+			"info":"https://ecal.ch/fr/3971/formations/bachelor/media-interaction-design/descriptif/teaching-the-machine",
 			"video":"https://vimeo.com/302452465"
 		},{
 			"type":"talk",
@@ -1013,7 +1013,7 @@
 			"date":"2017 Apr 24-28", 
 			"where":"<a href=\"http://ecal.ch/fr/100/homepage\">Ecole cantonale d'art</a>, Lausanne, Switzerland",
 			"name":"Machine learning for artists",
-			"info":"http://ecal.ch/fr/3471/formations/bachelor/media-interaction-design/projets-workshops/machine-learning-workshop-avec-gene-kogan"
+			"info":"https://ecal.ch/fr/3471/formations/bachelor/media-interaction-design/descriptif/machine-learning-workshop-avec-gene-kogan"
 		},{
 			"type":"talk",
 			"date":"2017 Apr 20", 
