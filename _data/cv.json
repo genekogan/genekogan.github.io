@@ -12,6 +12,12 @@
 			"name":"Organizing BRAHMAN program",
 			"info":"http://brahman.ai"
 		},{
+			"type":"workshop",
+			"date":"2019 Dec 17-18", 
+			"where":"<a href=\"https://lojaonlinefirjan.com.br/\">Casa Firjan</a>, Rio de Janeiro, Brazil",
+			"name":"Machine learning for creatives",
+			"info":"https://lojaonlinefirjan.com.br/collections/oficinas/products/oficina-machine-learning-para-criativos"
+		},{
 			"type":"paper",
 			"date":"2019 Dec 14",
 			"name":"Artist in the cloud: Towards an autonomous artist",
@@ -647,7 +653,7 @@
 			"date":"2018 Jan 30", 
 			"where":"<a href=\"http://www.ctm-festival.de\">CTM Festival</a>, Berlin, Germany",
 			"name":"Musicmaker's dystopia; the automation of songwriting, production, and curation",
-			"info":"http://www.ctm-festival.de/festival-2018/artists/f-j/gene-kogan/",
+			"info":"https://www.ctm-festival.de/archive/all-artists/f-j/gene-kogan/",
 			"video":"https://www.youtube.com/watch?v=IheQp_a9v1c",
 			"audio":"https://soundcloud.com/ctm-festival/ctm-2018-musicmakers-hacklab-input-ii-the-automation-of-songwriting-production-and-curation"
 		},{
