@@ -46,6 +46,11 @@ redirect_from:
 						<a href="{{ c.pdf }}">[pdf]</a>
 					</div>
 				{% endif %}
+				{% if c.poster %}
+					<div class="info_link">
+						<a href="{{ c.poster }}">[poster]</a>
+					</div>
+				{% endif %}
 				{% if c.video %}
 					<div class="video_link">
 						<a href="{{ c.video }}">[video]</a>
