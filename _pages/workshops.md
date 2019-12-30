@@ -39,12 +39,18 @@ includes: [jquery, lightbox]
 		<a href="/images/workshops/influencers2.jpg" rel="lightbox[ws]" data-title="Influencers conference, Barcelona, Oct 2016"><img src="/images/workshops/thumb_influencers2.jpg" /></a>
 		<a href="/images/workshops/altai1.jpg" rel="lightbox[ws]" data-title="alt-AI, New York, May 2016"><img src="/images/workshops/thumb_altai1.jpg" /></a>
 		<a href="/images/workshops/opendot2.jpg" rel="lightbox[ws]" data-title="OpenDot Lab, Milan, Nov 2016"><img src="/images/workshops/thumb_opendot2.jpg" /></a>
+		<a href="/images/workshops/ecal1.jpg" rel="lightbox[ws]" data-title="ECAL Lausanne, Switzerland, Oct 2018"><img src="/images/workshops/thumb_ecal1.jpg" /></a>	
 		<a href="/images/workshops/opendot1.jpg" rel="lightbox[ws]" data-title="OpenDot Lab, Milan, Nov 2016"><img src="/images/workshops/thumb_opendot1.jpg" /></a>	
 		<a href="/images/workshops/nabi1.jpg" rel="lightbox[ws]" data-title="Art Center Nabi, Seoul, Dec 2016"><img src="/images/workshops/thumb_nabi1.jpg" /></a>	
+		<a href="/images/workshops/lacuna1.jpg" rel="lightbox[ws]" data-title="Lacuna Lab, Berlin, Germany, Jun 2017"><img src="/images/workshops/thumb_lacuna1.jpg" /></a>	
 		<a href="/images/workshops/opendot3.jpg" rel="lightbox[ws]" data-title="OpenDot Lab, Milan, Nov 2016"><img src="/images/workshops/thumb_opendot3.jpg" /></a>
 		<a href="/images/workshops/kikk1.jpg" rel="lightbox[ws]" data-title="Kikk Festival, Namur, Nov 2016"><img src="/images/workshops/thumb_kikk1.jpg" /></a>
 		<a href="/images/workshops/nabi2.jpg" rel="lightbox[ws]" data-title="Art Center Nabi, Seoul, Dec 2016"><img src="/images/workshops/thumb_nabi2.jpg" /></a>
 		<a href="/images/workshops/influencers1.jpg" rel="lightbox[ws]" data-title="Influencers conference, Barcelona, Oct 2016"><img src="/images/workshops/thumb_influencers1.jpg" /></a>	
+		<a href="/images/workshops/ecal3.jpg" rel="lightbox[ws]" data-title="ECAL Lausanne, Switzerland, Oct 2018"><img src="/images/workshops/thumb_ecal3.jpg" /></a>	
+		<a href="/images/workshops/strelka1.jpg" rel="lightbox[ws]" data-title="Strelka, Moscow, Russia, Apr 2018"><img src="/images/workshops/thumb_strelka1.jpg" /></a>	
+		<a href="/images/workshops/machinesroom1.jpg" rel="lightbox[ws]" data-title="Machines Room, London, UK, Feb 2017"><img src="/images/workshops/thumb_machinesroom1.jpg" /></a>	
+		<a href="/images/workshops/lunchmeat1.jpg" rel="lightbox[ws]" data-title="Lunchmeat Festival, Prague, Czech Republic, Oct 2017"><img src="/images/workshops/thumb_lunchmeat1.jpg" /></a>	
 	</div>
 	
 	<div class="workshops_section">
