@@ -1,10 +1,35 @@
 {
 	"talks":[
 		{
+			"type":"workshop",
+			"date":"2020 Aug 3-7", 
+			"where":"<a href=\"https://www.andersonranch.org/\">Anderson Ranch</a>, Snowmass Village, CO",
+			"name":"Machine learning for new media art",
+			"info":"https://www.andersonranch.org/workshop/machine-learning-for-new-media-art-p1029-20/",
+			"extended":true
+		},{
+			"type":"talk",
+			"date":"2020 Jun 7-9", 
+			"where":"<a href=\"https://www.http://eyeofestival.com/\">Eyeo Festival</a>, Minneapolis, MN",
+			"name":"TBD",
+			"info":"http://eyeofestival.com/speaker/gene-kogan/"
+		},{
+			"type":"workshop",
+			"date":"2020 Jun 6", 
+			"where":"<a href=\"https://www.http://eyeofestival.com/\">Eyeo Festival</a>, Minneapolis, MN",
+			"name":"TBD",
+			"info":"http://eyeofestival.com/workshops/"
+		},{
 			"type":"class",
 			"date":"2020 Mar 30-May 1", 
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
 			"name":"Autonomous Artificial Artist"
+		},{
+			"type":"installation",
+			"date":"2020 Feb 22-Mar 8", 
+			"where":"<a href=\"https://www.bam.org/\">BAM</a>, Brooklyn, NY",
+			"name":"Style Transfer Mirrors at Teknopolis",
+			"info":"https://www.bam.org/teknopolis"
 		},{
 			"type":"residency",
 			"date":"2020 Jan 7-Mar 27", 
@@ -70,7 +95,7 @@
 		},{
 			"type":"exhibition",
 			"date":"2019 Nov 7-2020 Feb 9",
-			"where":"<a href=\"http://www.mcam.io/\">Ming Contemporary Art Museum</a>, Shanghai, China",
+			"where":"<a href=\"http://www.mcam.io/gallery#/index/\">Ming Contemporary Art Museum</a>, Shanghai, China",
 			"name":"Mind the Deep: Artificial Intelligence and Artistic Creation", 
 			"info":"https://www.e-flux.com/announcements/296361/mind-the-deep-artificial-intelligence-and-artistic-creation/"
 		},{
@@ -891,13 +916,14 @@
 			"date":"2017 Jun 28", 
 			"where":"<a href=\"https://www.http://eyeofestival.com/\">Eyeo Festival</a>, Minneapolis, MN",
 			"name":"Starving computer scientist",
-			"info":"http://eyeofestival.com/speaker/gene-kogan/"
+			"info":"http://eyeofestival.com/2017/speaker/gene-kogan/",
+			"video":"https://vimeo.com/232544884"
 		},{
 			"type":"workshop",
 			"date":"2017 Jun 26", 
 			"where":"<a href=\"http://www.eyeofestival.com\">Eyeo Festival</a>, Minneapolis, MN",
 			"name":"Machine learning for artists (with <a href=\"http://frnsys.com\">Francis Tseng</a>)",
-			"info":"http://eyeofestival.com/workshops/"
+			"info":"http://eyeofestival.com/2017/workshops/"
 		},{
 			"type":"workshop",
 			"date":"2017 Jun 24", 
@@ -1500,6 +1526,12 @@
 			"info":"http://genekogan.com/works/kinect-projector-toolkit/",
 			"video":"https://vimeo.com/112243428"
 		},{
+			"type":"talk",
+			"date":"2014 Oct 1", 
+			"where":"<a href=\"http://www.location1.org/\">Location One</a>, New York, NY",
+			"name":"<a href=\"http://dorkbot.org/\">Dorkbot</a> talk on <a href=\"https://genekogan.com/works/kinect-projector-toolkit/\">Kinect Projector Toolkit</a>",
+			"info":"https://dorkbot.org/dorkbotnyc/01.oct.2014/"
+		},{
 			"type":"workshop",
 			"date":"2014 Sep", 
 			"where":"<a href=\"http://www.metropolitanexchange.org/\">Metropolitan Exchange</a>, New York, NY",
@@ -1688,7 +1720,7 @@
 			"type":"talk",
 			"date":"2011 Dec 7", 
 			"where":"<a href=\"http://www.location1.org/\">Location One</a>, New York, NY",
-			"name":"<a href=\"http://dorkbot.org/\">Dorkbot</a>",
+			"name":"<a href=\"http://dorkbot.org/\">Dorkbot</a> talk on generative art",
 			"info":"http://dorkbot.org/dorkbotnyc/07.dec.2011/"
 		},{
 			"type":"paper",
