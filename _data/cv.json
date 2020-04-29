@@ -2,28 +2,39 @@
 	"talks":[
 		{
 			"type":"workshop",
-			"date":"2020 Aug 3-7", 
-			"where":"<a href=\"https://www.andersonranch.org/\">Anderson Ranch</a>, Snowmass Village, CO",
-			"name":"Machine learning for new media art",
-			"info":"https://www.andersonranch.org/workshop/machine-learning-for-new-media-art-p1029-20/",
-			"extended":true
+			"date":"2020 Jul 2-3", 
+			"where":"<a href=\"https://www.andersonranch.org/\">Anderson Ranch</a>, online-only",
+			"name":"Machine learning for new media art (online)",
+			"info":"https://www.andersonranch.org/workshop/machine-learning-for-new-media-art-p06w17-20/"
 		},{
 			"type":"talk",
-			"date":"2020 Jun 7-9", 
-			"where":"<a href=\"https://www.http://eyeofestival.com/\">Eyeo Festival</a>, Minneapolis, MN",
-			"name":"TBD",
-			"info":"http://eyeofestival.com/speaker/gene-kogan/"
+			"date":"2020 May 6", 
+			"where":"<a href=\"https://githubsatellite.com/\">Github Satellite</a>, online-only",
+			"name":"Frontiers of neural arts (online)",
+			"info":"https://githubsatellite.com/speakers/#gene-kogan"
 		},{
 			"type":"workshop",
-			"date":"2020 Jun 6", 
-			"where":"<a href=\"https://www.http://eyeofestival.com/\">Eyeo Festival</a>, Minneapolis, MN",
-			"name":"TBD",
-			"info":"http://eyeofestival.com/workshops/"
+			"date":"2019 Dec 17-18", 
+			"where":"<a href=\"https://lojaonlinefirjan.com.br/\">Casa Firjan</a>, Rio de Janeiro, Brazil",
+			"name":"Machine learning for creatives",
+			"info":"https://lojaonlinefirjan.com.br/collections/oficinas/products/oficina-machine-learning-para-criativos"
+		},{
+			"type":"workshop",
+			"date":"2020 Mar 30-May 1", 
+			"where":"<a href=\"http://www.artcenter.edu/\">Art Center Pasadena</a>, Pasadena, CA",
+			"name":"Online workshop at Art Center Pasadena",
+			"extended":true
 		},{
 			"type":"class",
 			"date":"2020 Mar 30-May 1", 
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
 			"name":"Autonomous Artificial Artist"
+		},{
+			"type":"residency",
+			"date":"2019 Mar 27-May",
+			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
+			"name":"Something-in-residence",
+			"info":"https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs/gene-kogan"
 		},{
 			"type":"installation",
 			"date":"2020 Feb 22-Mar 8", 
@@ -140,7 +151,8 @@
 			"date":"2019 Sep 5", 
 			"where":"<a href=\"https://futurium.de/\">Futurium</a>, Berlin, Germany",
 			"name":"Group exhibition: Invisible Berlin, AI Transform, Cubist Mirror",
-			"info":"https://futurium.de/de/cubist-mirror"
+			"info":"https://futurium.de/de/cubist-mirror",
+			"video":"https://www.youtube.com/watch?v=gqNPl949yCM&list=PL1lO4YK4FC3hsdFqkDlUJiDbtiLw2vCpV&index=9&t=0s"
 		},{
 			"type":"class",
 			"date":"2019 Sep 4-Dec 10", 
@@ -1803,6 +1815,14 @@ CIID kerala https://www.youtube.com/watch?v=XQ9GwjtxE6Q
 canceled:
 
 
+
+{
+	"type":"workshop",
+	"date":"2020 Aug 3-7", 
+	"where":"<a href=\"https://www.andersonranch.org/\">Anderson Ranch</a>, Snowmass Village, CO",
+	"name":"Machine learning for new media art",
+	"info":"https://www.andersonranch.org/workshop/machine-learning-for-new-media-art-p1029-20/"
+},
 },{
 	"type":"talk",
 	"date":"2019 May 7",
@@ -1822,6 +1842,24 @@ canceled:
 	"name":"Talk at Bump Festival (TBD)",
 	"info":"https://bump-festival.be/2018/speakers/gene-kogan/"
 }
+
+{
+	"type":"talk",
+	"date":"2020 Jun 7-9", 
+	"where":"<a href=\"https://www.http://eyeofestival.com/\">Eyeo Festival</a>, Minneapolis, MN",
+	"name":"TBD",
+	"info":"http://eyeofestival.com/speaker/gene-kogan/"
+},{
+	"type":"workshop",
+	"date":"2020 Jun 6", 
+	"where":"<a href=\"https://www.http://eyeofestival.com/\">Eyeo Festival</a>, Minneapolis, MN",
+	"name":"TBD",
+	"info":"http://eyeofestival.com/workshops/"
+}
+// Center for Data Science 4/21/2020 @ NYU https://cds.nyu.edu/ds-humanities-initiative/
+// Hush
+// anderson ranch talk https://www.andersonranch.org/workshop/machine-learning-for-new-media-art-p06w17-20/ jul 2-3
+
 
 // video for goldsmiths
 
