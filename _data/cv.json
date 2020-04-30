@@ -14,16 +14,9 @@
 			"info":"https://githubsatellite.com/speakers/#gene-kogan"
 		},{
 			"type":"workshop",
-			"date":"2019 Dec 17-18", 
-			"where":"<a href=\"https://lojaonlinefirjan.com.br/\">Casa Firjan</a>, Rio de Janeiro, Brazil",
-			"name":"Machine learning for creatives",
-			"info":"https://lojaonlinefirjan.com.br/collections/oficinas/products/oficina-machine-learning-para-criativos"
-		},{
-			"type":"workshop",
 			"date":"2020 Mar 30-May 1", 
 			"where":"<a href=\"http://www.artcenter.edu/\">Art Center Pasadena</a>, Pasadena, CA",
-			"name":"Online workshop at Art Center Pasadena",
-			"extended":true
+			"name":"Online workshop at Art Center Pasadena"
 		},{
 			"type":"class",
 			"date":"2020 Mar 30-May 1", 
@@ -31,7 +24,7 @@
 			"name":"Autonomous Artificial Artist"
 		},{
 			"type":"residency",
-			"date":"2019 Mar 27-May",
+			"date":"2020 Mar 27-May 8",
 			"where":"<a href=\"https://itp.nyu.edu\">ITP</a>, New York University, New York, NY",
 			"name":"Something-in-residence",
 			"info":"https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs/gene-kogan"
