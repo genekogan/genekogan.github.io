@@ -2,6 +2,12 @@
 	"talks":[
 		{
 			"type":"workshop",
+			"date":"2020 Aug 2-4", 
+			"where":"<a href=\"https://egs.edu/\">European Graduate School</a>, online-only",
+			"name":"<a href=\"https://egs.edu/schedule/\">Arts & AI panel</a> (online with <a href=\"http://reas.com/\">Casey Reas</a> and <a href=\"http://kohlberger.net/\">Rainer Kohlberger</a>)",
+			"info":"https://egs.edu/biography/gene-kogan/"
+		},{
+			"type":"workshop",
 			"date":"2020 Jul 2-3", 
 			"where":"<a href=\"https://www.andersonranch.org/\">Anderson Ranch</a>, online-only",
 			"name":"Machine learning for new media art (online)",
@@ -11,7 +17,14 @@
 			"date":"2020 May 6", 
 			"where":"<a href=\"https://githubsatellite.com/\">Github Satellite</a>, online-only",
 			"name":"Frontiers of neural arts (online)",
-			"info":"https://githubsatellite.com/speakers/#gene-kogan"
+			"info":"https://githubsatellite.com/speakers/#gene-kogan",
+			"video":"https://githubsatellite.com/schedule/#frontiers-of-neural-arts"
+		},{
+			"type":"interview",
+			"date":"2020 Apr 29", 
+			"where":"<a href=\"https://electriccastle.ro/\">Electric Castle</a>, online-only",
+			"name":"Interviewed by <a href=\"http://www.alexczetwertynski.com/\">Alex Czetwertynski</a> for <a href=\"https://electriccastle.ro/\">Electric Castle</a>",
+			"video":"https://www.facebook.com/333895633391852/videos/3373841545983659"
 		},{
 			"type":"workshop",
 			"date":"2020 Mar 30-May 1", 
