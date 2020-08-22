@@ -2,16 +2,54 @@
 	"talks":[
 		{
 			"type":"workshop",
+			"date":"2020 Sep 22-Oct 6", 
+			"where":"<a href=\"https://www.hslu.ch/\">Hochschule Luzern</a>, online-only",
+			"name":"Machine Learning for Artists and Designers (online)",
+			"info":"https://www.hslu.ch/apps/weve?anlassID=201108#/details",
+		},{
+			"type":"workshop",
+			"date":"2020 Sep 16-18", 
+			"where":"<a href=\"https://www.hfg-offenbach.de/\">Hochschule für Gestaltung Offenbach am Main</a>, online-only",
+			"name":"Machine Learning for Artists and Designers (online)",
+			"extended":true
+		},{
+			"type":"workshop",
 			"date":"2020 Aug 2-4", 
 			"where":"<a href=\"https://egs.edu/\">European Graduate School</a>, online-only",
-			"name":"<a href=\"https://egs.edu/schedule/\">Arts & AI panel</a> (online with <a href=\"http://reas.com/\">Casey Reas</a> and <a href=\"http://kohlberger.net/\">Rainer Kohlberger</a>)",
+			"name":"<a href=\"https://egs.edu/schedule/\">Arts & AI panel</a> (online with <a href=\"http://reas.com/\">Casey Reas</a> and <a href=\"http://kohlberger.net/\">Rainer Kohlberger</a>) (canceled)",
 			"info":"https://egs.edu/biography/gene-kogan/"
+		},{
+			"type":"exhibition",
+			"date":"2020 Jul 3-Aug 3", 
+			"where":"<a href=\"https://everart-weekend.ru\">Everart Weekend</a>, online-only",
+			"name":"Neural synthesis (online)",
+			"info":"https://everart-weekend.ru/gene-kogan/",
+			"video":"https://www.facebook.com/114903530229374/posts/137739904612403/?vh=e"
 		},{
 			"type":"workshop",
 			"date":"2020 Jul 2-3", 
 			"where":"<a href=\"https://www.andersonranch.org/\">Anderson Ranch</a>, online-only",
 			"name":"Machine learning for new media art (online)",
 			"info":"https://www.andersonranch.org/workshop/machine-learning-for-new-media-art-p06w17-20/"
+		},{
+			"type":"workshop",
+			"date":"2020 Jun 17", 
+			"where":"<a href=\"https://www.kunsthochschulekassel.de/willkommen.html\">Kunsthochschule Kassel</a>, online-only",
+			"name":"Machine Learning for Artists (online)",
+			"extended":true
+		},{
+			"type":"talk",
+			"date":"2020 Jun 8", 
+			"where":"<a href=\"https://www.http://eyeofestival.com/\">Eyeo Festival</a>, Minneapolis, MN",
+			"name":"Talk at Eyeo Festival (canceled)",
+			"info":"http://eyeofestival.com/speaker/gene-kogan/",
+			"video":"https://www.facebook.com/114903530229374/posts/137739904612403/?vh=e"
+		},{
+			"type":"workshop",
+			"date":"2020 May 26", 
+			"where":"<a href=\"https://www.gold.ac.uk/computing/\">Goldsmiths, University of London</a>, online-only",
+			"name":"Machine Learning for Artists (online)",
+			"extended":true
 		},{
 			"type":"talk",
 			"date":"2020 May 6", 
@@ -24,7 +62,8 @@
 			"date":"2020 Apr 29", 
 			"where":"<a href=\"https://electriccastle.ro/\">Electric Castle</a>, online-only",
 			"name":"Interviewed by <a href=\"http://www.alexczetwertynski.com/\">Alex Czetwertynski</a> for <a href=\"https://electriccastle.ro/\">Electric Castle</a>",
-			"video":"https://www.facebook.com/333895633391852/videos/3373841545983659"
+			"info": "https://www.facebook.com/watch/live/?v=3373841545983659&ref=watch_permalink",
+			"video":"https://www.youtube.com/watch?v=4gABwwzbleY&feature=emb_title"
 		},{
 			"type":"workshop",
 			"date":"2020 Mar 30-May 1", 
@@ -47,6 +86,12 @@
 			"where":"<a href=\"https://www.bam.org/\">BAM</a>, Brooklyn, NY",
 			"name":"Style Transfer Mirrors at Teknopolis",
 			"info":"https://www.bam.org/teknopolis"
+		},{
+			"type":"workshop",
+			"date":"2020 Jan 20-Jan 27", 
+			"where":"<a href=\"https://ai-artathon.devpost.com/\">AI Artathon</a>, Riyadh, Saudi Arabia",
+			"name":"Machine learning for artists",
+			"info":"https://ai-artathon.devpost.com/"
 		},{
 			"type":"residency",
 			"date":"2020 Jan 7-Mar 27", 
@@ -232,7 +277,8 @@
 			"date":"2019 Jun 13", 
 			"where":"<a href=\"https://dhd-blog.org/?p=11729\">ÖNB Labs</a>, Vienna, Austria",
 			"name":"Symposium keynote at ÖNB Labs",
-			"info":"https://www.eventbrite.de/e/onb-labs-symposium-tickets-61031085620"
+			"info":"https://labs.onb.ac.at/en/topic/akon-stylegan/",
+			"info2":"https://www.eventbrite.de/e/onb-labs-symposium-tickets-61031085620"
 		},{
 			"type":"workshop",
 			"date":"2019 Jun 12", 
@@ -560,6 +606,7 @@
 			"name":"Group Exhibition: Postcards from the Future (organized by <a href=\"http://ofcourse.io/\">ofcourse.io</a>)",
 			"info":"http://ofcourse.io/event-ai/",
 			"video":"https://www.iqiyi.com/v_19rr0p4p9k.html",
+			"video2":"https://drive.google.com/file/d/1ZLrZMHWmlg7ufWaEyE0ViSkSlZQxhJ6Q/view",
 			"photo":"http://my.ofcourse.io/article/35"
 		},{
 			"type":"talk",
@@ -1179,13 +1226,13 @@
 			"date":"2016 Dec 6", 
 			"where":"<a href=\"http://nabi.or.kr\">Art Center Nabi</a>, Seoul, South Korea",
 			"name":"Machine learning for artists",
-			"info":"http://nabi.or.kr/english/academy/current_read.nab?idx=370"
+			"info":"http://www.nabi.or.kr/page/board_view.php?brd_idx=798&brd_id=academy"
 		},{
 			"type":"talk",
 			"date":"2016 Dec 3", 
 			"where":"<a href=\"http://www.coex.co.kr/\">COEX</a>, Seoul, South Korea",
 			"name":"Talk at <a href=\"http://nabihackathon.com/\">Nabi Global AI hackathon</a>",
-			"info":"http://nabi.or.kr/english/project/coming_read.nab?idx=543",
+			"info":"http://www.nabi.or.kr/page/board_view.php?brd_idx=519&brd_id=project",
 			"photo":"http://www.nabi.or.kr/english/project/current_read.nab?idx=541"
 		},{
 			"type":"talk",
@@ -1213,7 +1260,8 @@
 			"date":"2016 Nov 15-Jan 20",
 			"name":"Why the Future Still Needs Us",
 			"where":"<a href=\"http://nabi.or.kr\">Art Center Nabi</a>, Seoul, South Korea",
-			"info":"http://www.nabi.or.kr/english/project/current_read.nab?idx=541"
+			"info":"http://www.nabi.or.kr/archive/board_view.php?ach_idx=1017&ach_id=artwork",
+			"info2":"http://www.nabi.or.kr/page/board_view.php?brd_idx=517&brd_id=project"
 		},{
 			"type":"talk",
 			"date":"2016 Nov 7", 
@@ -1819,7 +1867,6 @@ CIID kerala https://www.youtube.com/watch?v=XQ9GwjtxE6Q
 "info2":"http://archive.eyebeam.org/events/opera-toolkit-improvisation-workshop",
 "info2":"https://mp.weixin.qq.com/s/7JpVkHVeiSA9_5lDJXkOnw"
 canceled:
-
 
 
 {
